@@ -1,0 +1,279 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.1">
+<Document>
+	<name><![CDATA[List of London boroughs]]></name>
+	<open>1</open>
+	<Folder>
+		<name><![CDATA[List of boroughs and local authorities]]></name>
+		<open>1</open>
+		<Placemark>
+			<name><![CDATA[Barking and Dagenham]]></name>
+			<Point>
+				<coordinates>0.1557,51.5607,0</coordinates>
+			</Point>
+			<Snippet></Snippet>
+			<description><![CDATA[<br>Source: Wikipedia article <a href="https://en.wikipedia.org/wiki/List_of_London_boroughs#cite_ref-2">List of London boroughs</a>]]></description>
+		</Placemark>
+		<Placemark>
+			<name><![CDATA[Barnet]]></name>
+			<Point>
+				<coordinates>-0.1517,51.6252,0</coordinates>
+			</Point>
+			<Snippet></Snippet>
+			<description><![CDATA[<br>Source: Wikipedia article <a href="https://en.wikipedia.org/wiki/List_of_London_boroughs#cite_ref-2">List of London boroughs</a>]]></description>
+		</Placemark>
+		<Placemark>
+			<name><![CDATA[Bexley]]></name>
+			<Point>
+				<coordinates>0.1505,51.4549,0</coordinates>
+			</Point>
+			<Snippet></Snippet>
+			<description><![CDATA[<br>Source: Wikipedia article <a href="https://en.wikipedia.org/wiki/List_of_London_boroughs#cite_ref-2">List of London boroughs</a>]]></description>
+		</Placemark>
+		<Placemark>
+			<name><![CDATA[Brent]]></name>
+			<Point>
+				<coordinates>-0.2817,51.5588,0</coordinates>
+			</Point>
+			<Snippet></Snippet>
+			<description><![CDATA[<br>Source: Wikipedia article <a href="https://en.wikipedia.org/wiki/List_of_London_boroughs#cite_ref-2">List of London boroughs</a>]]></description>
+		</Placemark>
+		<Placemark>
+			<name><![CDATA[Bromley]]></name>
+			<Point>
+				<coordinates>0.0198,51.4039,0</coordinates>
+			</Point>
+			<Snippet></Snippet>
+			<description><![CDATA[<br>Source: Wikipedia article <a href="https://en.wikipedia.org/wiki/List_of_London_boroughs#cite_ref-2">List of London boroughs</a>]]></description>
+		</Placemark>
+		<Placemark>
+			<name><![CDATA[Camden]]></name>
+			<Point>
+				<coordinates>-0.1255,51.529,0</coordinates>
+			</Point>
+			<Snippet></Snippet>
+			<description><![CDATA[<br>Source: Wikipedia article <a href="https://en.wikipedia.org/wiki/List_of_London_boroughs#cite_ref-2">List of London boroughs</a>]]></description>
+		</Placemark>
+		<Placemark>
+			<name><![CDATA[Croydon]]></name>
+			<Point>
+				<coordinates>-0.0977,51.3714,0</coordinates>
+			</Point>
+			<Snippet></Snippet>
+			<description><![CDATA[<br>Source: Wikipedia article <a href="https://en.wikipedia.org/wiki/List_of_London_boroughs#cite_ref-2">List of London boroughs</a>]]></description>
+		</Placemark>
+		<Placemark>
+			<name><![CDATA[Ealing]]></name>
+			<Point>
+				<coordinates>-0.3089,51.513,0</coordinates>
+			</Point>
+			<Snippet></Snippet>
+			<description><![CDATA[<br>Source: Wikipedia article <a href="https://en.wikipedia.org/wiki/List_of_London_boroughs#cite_ref-2">List of London boroughs</a>]]></description>
+		</Placemark>
+		<Placemark>
+			<name><![CDATA[Enfield]]></name>
+			<Point>
+				<coordinates>-0.0799,51.6538,0</coordinates>
+			</Point>
+			<Snippet></Snippet>
+			<description><![CDATA[<br>Source: Wikipedia article <a href="https://en.wikipedia.org/wiki/List_of_London_boroughs#cite_ref-2">List of London boroughs</a>]]></description>
+		</Placemark>
+		<Placemark>
+			<name><![CDATA[Greenwich]]></name>
+			<Point>
+				<coordinates>0.0648,51.4892,0</coordinates>
+			</Point>
+			<Snippet></Snippet>
+			<description><![CDATA[<br>Source: Wikipedia article <a href="https://en.wikipedia.org/wiki/List_of_London_boroughs#cite_ref-note2_4-0">List of London boroughs</a>]]></description>
+		</Placemark>
+		<Placemark>
+			<name><![CDATA[Hackney]]></name>
+			<Point>
+				<coordinates>-0.0553,51.545,0</coordinates>
+			</Point>
+			<Snippet></Snippet>
+			<description><![CDATA[<br>Source: Wikipedia article <a href="https://en.wikipedia.org/wiki/List_of_London_boroughs#cite_ref-note2_4-0">List of London boroughs</a>]]></description>
+		</Placemark>
+		<Placemark>
+			<name><![CDATA[Hammersmith and Fulham]]></name>
+			<Point>
+				<coordinates>-0.2339,51.4927,0</coordinates>
+			</Point>
+			<Snippet></Snippet>
+			<description><![CDATA[<br>Source: Wikipedia article <a href="https://en.wikipedia.org/wiki/List_of_London_boroughs#cite_ref-5">List of London boroughs</a>]]></description>
+		</Placemark>
+		<Placemark>
+			<name><![CDATA[Haringey]]></name>
+			<Point>
+				<coordinates>-0.1119,51.6,0</coordinates>
+			</Point>
+			<Snippet></Snippet>
+			<description><![CDATA[<br>Source: Wikipedia article <a href="https://en.wikipedia.org/wiki/List_of_London_boroughs#cite_ref-note2_4-1">List of London boroughs</a>]]></description>
+		</Placemark>
+		<Placemark>
+			<name><![CDATA[Harrow]]></name>
+			<Point>
+				<coordinates>-0.3346,51.5898,0</coordinates>
+			</Point>
+			<Snippet></Snippet>
+			<description><![CDATA[<br>Source: Wikipedia article <a href="https://en.wikipedia.org/wiki/List_of_London_boroughs#cite_ref-note2_4-1">List of London boroughs</a>]]></description>
+		</Placemark>
+		<Placemark>
+			<name><![CDATA[Havering]]></name>
+			<Point>
+				<coordinates>0.1837,51.5812,0</coordinates>
+			</Point>
+			<Snippet></Snippet>
+			<description><![CDATA[<br>Source: Wikipedia article <a href="https://en.wikipedia.org/wiki/List_of_London_boroughs#cite_ref-note2_4-1">List of London boroughs</a>]]></description>
+		</Placemark>
+		<Placemark>
+			<name><![CDATA[Hillingdon]]></name>
+			<Point>
+				<coordinates>-0.476,51.5441,0</coordinates>
+			</Point>
+			<Snippet></Snippet>
+			<description><![CDATA[<br>Source: Wikipedia article <a href="https://en.wikipedia.org/wiki/List_of_London_boroughs#cite_ref-note2_4-1">List of London boroughs</a>]]></description>
+		</Placemark>
+		<Placemark>
+			<name><![CDATA[Hounslow]]></name>
+			<Point>
+				<coordinates>-0.368,51.4746,0</coordinates>
+			</Point>
+			<Snippet></Snippet>
+			<description><![CDATA[<br>Source: Wikipedia article <a href="https://en.wikipedia.org/wiki/List_of_London_boroughs#cite_ref-note2_4-1">List of London boroughs</a>]]></description>
+		</Placemark>
+		<Placemark>
+			<name><![CDATA[Islington]]></name>
+			<Point>
+				<coordinates>-0.1022,51.5416,0</coordinates>
+			</Point>
+			<Snippet></Snippet>
+			<description><![CDATA[<br>Source: Wikipedia article <a href="https://en.wikipedia.org/wiki/List_of_London_boroughs#cite_ref-note2_4-1">List of London boroughs</a>]]></description>
+		</Placemark>
+		<Placemark>
+			<name><![CDATA[Kensington and Chelsea]]></name>
+			<Point>
+				<coordinates>-0.1947,51.502,0</coordinates>
+			</Point>
+			<Snippet></Snippet>
+			<description><![CDATA[<br>Source: Wikipedia article <a href="https://en.wikipedia.org/wiki/List_of_London_boroughs#cite_ref-note2_4-1">List of London boroughs</a>]]></description>
+		</Placemark>
+		<Placemark>
+			<name><![CDATA[Kingston upon Thames]]></name>
+			<Point>
+				<coordinates>-0.3064,51.4085,0</coordinates>
+			</Point>
+			<Snippet></Snippet>
+			<description><![CDATA[<br>Source: Wikipedia article <a href="https://en.wikipedia.org/wiki/List_of_London_boroughs#cite_ref-note2_4-1">List of London boroughs</a>]]></description>
+		</Placemark>
+		<Placemark>
+			<name><![CDATA[Lambeth]]></name>
+			<Point>
+				<coordinates>-0.1163,51.4607,0</coordinates>
+			</Point>
+			<Snippet></Snippet>
+			<description><![CDATA[<br>Source: Wikipedia article <a href="https://en.wikipedia.org/wiki/List_of_London_boroughs#cite_ref-note2_4-1">List of London boroughs</a>]]></description>
+		</Placemark>
+		<Placemark>
+			<name><![CDATA[Lewisham]]></name>
+			<Point>
+				<coordinates>-0.0209,51.4452,0</coordinates>
+			</Point>
+			<Snippet></Snippet>
+			<description><![CDATA[<br>Source: Wikipedia article <a href="https://en.wikipedia.org/wiki/List_of_London_boroughs#cite_ref-note2_4-1">List of London boroughs</a>]]></description>
+		</Placemark>
+		<Placemark>
+			<name><![CDATA[Merton]]></name>
+			<Point>
+				<coordinates>-0.1958,51.4014,0</coordinates>
+			</Point>
+			<Snippet></Snippet>
+			<description><![CDATA[<br>Source: Wikipedia article <a href="https://en.wikipedia.org/wiki/List_of_London_boroughs#cite_ref-note2_4-1">List of London boroughs</a>]]></description>
+		</Placemark>
+		<Placemark>
+			<name><![CDATA[Newham]]></name>
+			<Point>
+				<coordinates>0.0469,51.5077,0</coordinates>
+			</Point>
+			<Snippet></Snippet>
+			<description><![CDATA[<br>Source: Wikipedia article <a href="https://en.wikipedia.org/wiki/List_of_London_boroughs#cite_ref-note2_4-2">List of London boroughs</a>]]></description>
+		</Placemark>
+		<Placemark>
+			<name><![CDATA[Redbridge]]></name>
+			<Point>
+				<coordinates>0.0741,51.559,0</coordinates>
+			</Point>
+			<Snippet></Snippet>
+			<description><![CDATA[<br>Source: Wikipedia article <a href="https://en.wikipedia.org/wiki/List_of_London_boroughs#cite_ref-note2_4-2">List of London boroughs</a>]]></description>
+		</Placemark>
+		<Placemark>
+			<name><![CDATA[Richmond upon Thames]]></name>
+			<Point>
+				<coordinates>-0.326,51.4479,0</coordinates>
+			</Point>
+			<Snippet></Snippet>
+			<description><![CDATA[<br>Source: Wikipedia article <a href="https://en.wikipedia.org/wiki/List_of_London_boroughs#cite_ref-note2_4-2">List of London boroughs</a>]]></description>
+		</Placemark>
+		<Placemark>
+			<name><![CDATA[Southwark]]></name>
+			<Point>
+				<coordinates>-0.0804,51.5035,0</coordinates>
+			</Point>
+			<Snippet></Snippet>
+			<description><![CDATA[<br>Source: Wikipedia article <a href="https://en.wikipedia.org/wiki/List_of_London_boroughs#cite_ref-note2_4-2">List of London boroughs</a>]]></description>
+		</Placemark>
+		<Placemark>
+			<name><![CDATA[Sutton]]></name>
+			<Point>
+				<coordinates>-0.1945,51.3618,0</coordinates>
+			</Point>
+			<Snippet></Snippet>
+			<description><![CDATA[<br>Source: Wikipedia article <a href="https://en.wikipedia.org/wiki/List_of_London_boroughs#cite_ref-note2_4-2">List of London boroughs</a>]]></description>
+		</Placemark>
+		<Placemark>
+			<name><![CDATA[Tower Hamlets]]></name>
+			<Point>
+				<coordinates>-0.0059,51.5099,0</coordinates>
+			</Point>
+			<Snippet></Snippet>
+			<description><![CDATA[<br>Source: Wikipedia article <a href="https://en.wikipedia.org/wiki/List_of_London_boroughs#cite_ref-note2_4-2">List of London boroughs</a>]]></description>
+		</Placemark>
+		<Placemark>
+			<name><![CDATA[Waltham Forest]]></name>
+			<Point>
+				<coordinates>-0.0134,51.5908,0</coordinates>
+			</Point>
+			<Snippet></Snippet>
+			<description><![CDATA[<br>Source: Wikipedia article <a href="https://en.wikipedia.org/wiki/List_of_London_boroughs#cite_ref-note2_4-2">List of London boroughs</a>]]></description>
+		</Placemark>
+		<Placemark>
+			<name><![CDATA[Wandsworth]]></name>
+			<Point>
+				<coordinates>-0.191,51.4567,0</coordinates>
+			</Point>
+			<Snippet></Snippet>
+			<description><![CDATA[<br>Source: Wikipedia article <a href="https://en.wikipedia.org/wiki/List_of_London_boroughs#cite_ref-note2_4-2">List of London boroughs</a>]]></description>
+		</Placemark>
+		<Placemark>
+			<name><![CDATA[Westminster]]></name>
+			<Point>
+				<coordinates>-0.1372,51.4973,0</coordinates>
+			</Point>
+			<Snippet></Snippet>
+			<description><![CDATA[<br>Source: Wikipedia article <a href="https://en.wikipedia.org/wiki/List_of_London_boroughs#cite_ref-note2_4-2">List of London boroughs</a>]]></description>
+		</Placemark>
+	</Folder>
+	<Folder>
+		<name><![CDATA[City of London]]></name>
+		<open>1</open>
+		<Placemark>
+			<name><![CDATA[City of London]]></name>
+			<Point>
+				<coordinates>-0.0922,51.5155,0</coordinates>
+			</Point>
+			<Snippet></Snippet>
+			<description><![CDATA[<br>Source: Wikipedia article <a href="https://en.wikipedia.org/wiki/List_of_London_boroughs#cite_ref-6">List of London boroughs</a>]]></description>
+		</Placemark>
+	</Folder>
+</Document>
+</kml>

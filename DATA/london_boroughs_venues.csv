@@ -1,0 +1,1610 @@
+,Borough,Latitude,Longitude,Venue,Venue Latitude,Venue Longitude,Venue category,Venue Category
+0,City of London,51.5155,-0.0922,Goodman Steak House Restaurant,51.51439802733941,-0.09074537518056014,Steakhouse,food
+1,City of London,51.5155,-0.0922,Hawksmoor Guildhall,51.515647370116184,-0.09099734746424006,Steakhouse,food
+2,City of London,51.5155,-0.0922,Daunt Books,51.51398169143981,-0.09299522000314557,Bookstore,shops
+3,City of London,51.5155,-0.0922,City Càphê,51.51474961713268,-0.09154479356888842,Vietnamese Restaurant,food
+4,City of London,51.5155,-0.0922,The Ned Hotel,51.51375523989037,-0.09006653956021182,Hotel,travel
+5,City of London,51.5155,-0.0922,The Merchant House,51.513264,-0.093039,Cocktail Bar,nightlife
+6,City of London,51.5155,-0.0922,Ned's Club Upstairs,51.513788692889555,-0.09012400881086845,Roof Deck,travel
+7,City of London,51.5155,-0.0922,Ned's Club Downstairs,51.51362231040922,-0.0901448367920373,Lounge,nightlife
+8,City of London,51.5155,-0.0922,Manicomio,51.51536891323096,-0.09541400116488372,Italian Restaurant,food
+9,City of London,51.5155,-0.0922,Porterford Butchers,51.51303235326847,-0.09373702135804958,Butcher,shops
+10,City of London,51.5155,-0.0922,One New Change Rooftop,51.51391176437131,-0.09577454922475599,Roof Deck,travel
+11,City of London,51.5155,-0.0922,Coq d'Argent,51.513303279109444,-0.0910358067859018,French Restaurant,food
+12,City of London,51.5155,-0.0922,Burger & Lobster,51.51368716465748,-0.09464257378721523,Seafood Restaurant,food
+13,City of London,51.5155,-0.0922,Rosslyn,51.51252717199773,-0.09332674977722086,Coffee Shop,food
+14,City of London,51.5155,-0.0922,Host,51.51262873320867,-0.09321063204672514,Coffee Shop,food
+15,City of London,51.5155,-0.0922,Guildhall Art Gallery,51.51555072911845,-0.09200376728625424,Art Gallery,arts_entertainment
+16,City of London,51.5155,-0.0922,Blue Cow Yoga,51.51528559031631,-0.08976422627667482,Yoga Studio,shops
+17,City of London,51.5155,-0.0922,M&S Simply Food,51.5135266223072,-0.096169888396353,Grocery Store,shops
+18,City of London,51.5155,-0.0922,Guildhall Yard,51.515426082727934,-0.0920614571261829,Plaza,parks_outdoors
+19,City of London,51.5155,-0.0922,Apex London Wall Hotel,51.51592789755909,-0.08765545829484747,Hotel,travel
+20,City of London,51.5155,-0.0922,Café Nespresso,51.514006,-0.092575,Coffee Shop,food
+21,City of London,51.5155,-0.0922,Another Space,51.515052583873825,-0.0903835455775398,Gym / Fitness Center,building
+22,City of London,51.5155,-0.0922,Madison,51.51381968475064,-0.09539032987004036,Cocktail Bar,nightlife
+23,City of London,51.5155,-0.0922,WeWork Moorgate,51.5181937,-0.0902797,Business Service,building
+24,City of London,51.5155,-0.0922,The Trading House,51.51506346595909,-0.09142715063542992,Modern European Restaurant,food
+25,City of London,51.5155,-0.0922,Malibu Kitchen,51.513510758666484,-0.09007436447289069,New American Restaurant,food
+26,City of London,51.5155,-0.0922,Museum of London,51.518019,-0.09606,History Museum,arts_entertainment
+27,City of London,51.5155,-0.0922,Black Sheep Coffee,51.51549437665514,-0.09008280528236012,Coffee Shop,food
+28,City of London,51.5155,-0.0922,Black Sheep Coffee,51.51455913662866,-0.09460299570341206,Coffee Shop,food
+29,City of London,51.5155,-0.0922,Brigadiers,51.51272137300544,-0.09192158012225396,Indian Restaurant,food
+30,City of London,51.5155,-0.0922,Wahaca,51.51403369046022,-0.09555596762757348,Mexican Restaurant,food
+31,City of London,51.5155,-0.0922,Sweetings,51.512441662798395,-0.09272347457051053,Seafood Restaurant,food
+32,City of London,51.5155,-0.0922,Pilpel,51.51519526381051,-0.09846207739921972,Falafel Restaurant,food
+33,City of London,51.5155,-0.0922,Nyokee,51.51199079852908,-0.09371891479045343,Café,food
+34,City of London,51.5155,-0.0922,Postman's Park,51.51685979391399,-0.09764256711433734,Park,parks_outdoors
+35,City of London,51.5155,-0.0922,Le Relais de Venise,51.51472701617397,-0.08652679245633464,French Restaurant,food
+36,City of London,51.5155,-0.0922,Ekte Nordic Kitchen,51.5125492357495,-0.09188331418860315,Scandinavian Restaurant,food
+37,City of London,51.5155,-0.0922,Kaia,51.513887461990876,-0.0894410654711039,Asian Restaurant,food
+38,City of London,51.5155,-0.0922,itsu,51.514224253396,-0.09415765634074848,Sushi Restaurant,food
+39,City of London,51.5155,-0.0922,Cecconi's,51.513595363755314,-0.09009868732100629,Italian Restaurant,food
+40,City of London,51.5155,-0.0922,Planet of the Grapes,51.51246839117881,-0.09353420805588591,Wine Bar,food
+41,City of London,51.5155,-0.0922,Wild & Wood Coffee,51.517148,-0.088302,Coffee Shop,food
+42,City of London,51.5155,-0.0922,Drapers' Hall,51.51500872287517,-0.08622681567011208,Event Space,building
+43,City of London,51.5155,-0.0922,Royal Exchange Grind,51.51382357130653,-0.08772569937862149,Coffee Shop,food
+44,City of London,51.5155,-0.0922,The Royal Exchange,51.513694667814285,-0.08735398816951305,Historic Site,arts_entertainment
+45,City of London,51.5155,-0.0922,Leon,51.51299987972237,-0.0936693797421579,Restaurant,food
+46,City of London,51.5155,-0.0922,Koya City,51.512320077429145,-0.09162180003063267,Udon Restaurant,food
+47,City of London,51.5155,-0.0922,Banh Mi Bay,51.512620667737586,-0.09484692689287624,Vietnamese Restaurant,food
+48,City of London,51.5155,-0.0922,Bread Street Kitchen,51.513308767544096,-0.09491560239236255,English Restaurant,food
+49,City of London,51.5155,-0.0922,Bloomberg Arcade,51.5122280202577,-0.09138822555541992,Pedestrian Plaza,parks_outdoors
+50,City of London,51.5155,-0.0922,Virgin Active,51.517951574944,-0.09765118360519409,Gym / Fitness Center,building
+51,City of London,51.5155,-0.0922,Barbican Concert Hall,51.519632262755046,-0.09366137745382495,Concert Hall,arts_entertainment
+52,City of London,51.5155,-0.0922,The Cosy Coffee Corner,51.512834,-0.088221,Café,food
+53,City of London,51.5155,-0.0922,Coya Angel Court,51.5149821429662,-0.087337601567967,Peruvian Restaurant,food
+54,City of London,51.5155,-0.0922,Paul,51.5131804004972,-0.09362648546565658,Bakery,food
+55,City of London,51.5155,-0.0922,The Fortnum's Bar & Restaurant,51.513599,-0.087253,Restaurant,food
+56,City of London,51.5155,-0.0922,Barbican Theatre,51.51972176714491,-0.09360561617624982,Theater,arts_entertainment
+57,City of London,51.5155,-0.0922,Barbican Art Gallery,51.519799557371044,-0.093968703496289,Art Gallery,arts_entertainment
+58,City of London,51.5155,-0.0922,Barbican Centre,51.519855,-0.093942,Performing Arts Venue,arts_entertainment
+59,City of London,51.5155,-0.0922,Christ Church Greyfriars Garden,51.51566979481579,-0.09875984044493062,Garden,parks_outdoors
+60,City of London,51.5155,-0.0922,Madison’s Terrace Bar at St. Paul,51.513877777807934,-0.09593390957488127,Lounge,nightlife
+61,City of London,51.5155,-0.0922,Barbican Highwalk,51.518427051779,-0.09505111975997232,Scenic Lookout,parks_outdoors
+62,City of London,51.5155,-0.0922,Notes,51.51514527267861,-0.0874294447678001,Coffee Shop,food
+63,City of London,51.5155,-0.0922,1 Lombard Street,51.513179495111764,-0.08887232794864129,Restaurant,food
+64,City of London,51.5155,-0.0922,Pret A Manger,51.51354922268993,-0.09349660650131422,Sandwich Place,food
+65,City of London,51.5155,-0.0922,Mint Leaf Lounge,51.51493452381513,-0.08746138288923423,Indian Restaurant,food
+66,City of London,51.5155,-0.0922,St Paul's Churchyard,51.513449906831404,-0.09717106819152832,Park,parks_outdoors
+67,City of London,51.5155,-0.0922,Barbican Conservatory,51.51985862219709,-0.093201833945014,Botanical Garden,parks_outdoors
+68,City of London,51.5155,-0.0922,Light Centre Moorgate,51.51737995846681,-0.08806487357483081,Yoga Studio,shops
+69,City of London,51.5155,-0.0922,Caravan City,51.51190703456827,-0.09096666041658992,Café,food
+70,City of London,51.5155,-0.0922,Ye Olde Watling,51.5129316567795,-0.09356248849274855,Pub,nightlife
+71,City of London,51.5155,-0.0922,Coco di Mama,51.517326,-0.088226,Italian Restaurant,food
+72,City of London,51.5155,-0.0922,Chilango,51.516949904989545,-0.08651476682985651,Burrito Place,food
+73,City of London,51.5155,-0.0922,Virgin Active,51.514444752021404,-0.08530229330062866,Gym / Fitness Center,building
+74,City of London,51.5155,-0.0922,Barbican Garden,51.51931222434234,-0.09275238371765825,Garden,parks_outdoors
+75,City of London,51.5155,-0.0922,Ladurée,51.51332967120695,-0.08750742332519085,Dessert Shop,food
+76,City of London,51.5155,-0.0922,The Wren,51.51204901406224,-0.0967987358657121,Coffee Shop,food
+77,City of London,51.5155,-0.0922,One New Change,51.513901273434854,-0.09552254550425712,Shopping Mall,shops
+78,City of London,51.5155,-0.0922,Kobox,51.516844575815355,-0.0853345005044312,Boxing Gym,building
+79,City of London,51.5155,-0.0922,The Don,51.51185625283148,-0.0890447957003017,French Restaurant,food
+80,City of London,51.5155,-0.0922,Vintry And Mercer,51.511289,-0.09374,Hotel,travel
+81,City of London,51.5155,-0.0922,Notes Coffee & Wine,51.51920196046105,-0.08949557823320635,Coffee Shop,food
+82,City of London,51.5155,-0.0922,Nando's,51.513775775755576,-0.09567242417815094,Portuguese Restaurant,food
+83,City of London,51.5155,-0.0922,wagamama,51.51178853208023,-0.09330553235815842,Asian Restaurant,food
+84,City of London,51.5155,-0.0922,St Swithin's Wine Shippers,51.511978,-0.089094,Wine Bar,food
+85,City of London,51.5155,-0.0922,London Mithraeum Bloomberg SPACE,51.512241374386456,-0.09047627449035643,History Museum,arts_entertainment
+86,City of London,51.5155,-0.0922,K10,51.515424692343245,-0.09003120548226638,Sushi Restaurant,food
+87,City of London,51.5155,-0.0922,Hoxton Beach Falafel,51.51981874664845,-0.09391094136608936,Food Truck,food
+88,City of London,51.5155,-0.0922,Crussh,51.517321498210116,-0.08804535927842623,Juice Bar,food
+89,City of London,51.5155,-0.0922,Barbican Cinema 1,51.51977328038166,-0.09354440073366277,Indie Movie Theater,arts_entertainment
+90,City of London,51.5155,-0.0922,Enoteca De Luca,51.51315374130603,-0.09434704311605745,Italian Restaurant,food
+91,City of London,51.5155,-0.0922,Burger & Lobster,51.51426052264303,-0.08552446737910804,Seafood Restaurant,food
+92,City of London,51.5155,-0.0922,Ted Baker and Friends,51.51435303861619,-0.09469623423179926,Clothing Store,shops
+93,City of London,51.5155,-0.0922,itsu,51.51483548230153,-0.09746781031687807,Sushi Restaurant,food
+94,City of London,51.5155,-0.0922,Digme Fitness,51.51824415936594,-0.09074380686786175,Cycle Studio,shops
+95,City of London,51.5155,-0.0922,AllSaints,51.51386105937596,-0.09575267173987265,Clothing Store,shops
+96,City of London,51.5155,-0.0922,The Curve,51.51961341228371,-0.09362104457648,Art Gallery,arts_entertainment
+97,City of London,51.5155,-0.0922,Enoteca da Luca,51.51559995090821,-0.09098084918706868,Wine Bar,food
+98,City of London,51.5155,-0.0922,The Arbitrager,51.51490358235214,-0.08611712021676327,Pub,nightlife
+99,City of London,51.5155,-0.0922,Ping Pong,51.5134608608823,-0.0947306917488213,Dim Sum Restaurant,food
+100,Barking and Dagenham,51.5607,0.1557,Central Park,51.559560186523925,0.16198065419715413,Park,parks_outdoors
+101,Barking and Dagenham,51.5607,0.1557,Beacontree Heath Leisure Centre,51.560996632647786,0.14893167876739952,Gym / Fitness Center,building
+102,Barking and Dagenham,51.5607,0.1557,Crowlands Heath Golf Course,51.5624574601544,0.15581838045746524,Golf Course,parks_outdoors
+103,Barking and Dagenham,51.5607,0.1557,Robert Clack Leisure Centre,51.56080801587019,0.15270422665309488,Martial Arts Dojo,shops
+104,Barking and Dagenham,51.5607,0.1557,Becontree Heath Bus Station,51.56106458275284,0.15099763870239258,Bus Station,travel
+105,Barking and Dagenham,51.5607,0.1557,Dagenham Swimming Pool,51.560945616266956,0.15005446022483504,Pool,parks_outdoors
+106,Barking and Dagenham,51.5607,0.1557,Morrisons Becontree Heath,51.55977394731491,0.148752363274208,Supermarket,shops
+107,Barnet,51.6252,-0.1517,The Atrium,51.62472636190746,-0.15193313586616436,Café,food
+108,Barnet,51.6252,-0.1517,Made Curtains,51.62348535051596,-0.15356451272964478,Home Service,shops
+109,Barnet,51.6252,-0.1517,Beaconsfield Road (BF),51.622827,-0.151466,Bus Stop,travel
+110,Barnet,51.6252,-0.1517,Oakleigh Cafe,51.623411585838134,-0.15489890757188451,Café,food
+111,Bexley,51.4549,0.1505,Wilko,51.45625655749089,0.1486077904701233,Furniture / Home Store,shops
+112,Bexley,51.4549,0.1505,Zizzi,51.455928816351125,0.15055538643014188,Italian Restaurant,food
+113,Bexley,51.4549,0.1505,TK Maxx,51.45648088296727,0.14783001276076954,Clothing Store,shops
+114,Bexley,51.4549,0.1505,Bella Italia,51.456329769226734,0.14953672442231938,Italian Restaurant,food
+115,Bexley,51.4549,0.1505,Prince Albert,51.45517132330244,0.15296517356821335,Pub,nightlife
+116,Bexley,51.4549,0.1505,Bexleyheath Marriott Hotel,51.455186445139475,0.1522633730163534,Hotel,travel
+117,Bexley,51.4549,0.1505,Lidl,51.45560577980248,0.1520513928259238,Supermarket,shops
+118,Bexley,51.4549,0.1505,Sainsbury's,51.45597969661484,0.14907799138574127,Supermarket,shops
+119,Bexley,51.4549,0.1505,Marks & Spencer,51.4562383031936,0.146193077829587,Grocery Store,shops
+120,Bexley,51.4549,0.1505,Caffè Nero,51.456554,0.14422339,Coffee Shop,food
+121,Bexley,51.4549,0.1505,Greggs,51.45625321485777,0.14556884765625,Bakery,food
+122,Bexley,51.4549,0.1505,Boots,51.4556098367801,0.1454717116567963,Pharmacy,shops
+123,Bexley,51.4549,0.1505,Bexleyheath Clock Tower,51.45650222546585,0.14730105380851832,Plaza,parks_outdoors
+124,Bexley,51.4549,0.1505,Game,51.45652253934519,0.14715272419948858,Video Game Store,shops
+125,Bexley,51.4549,0.1505,Subway,51.45644338503444,0.14481326192780902,Sandwich Place,food
+126,Bexley,51.4549,0.1505,The Furze Wren (Wetherspoon),51.456745704147714,0.14779975223012579,Pub,nightlife
+127,Bexley,51.4549,0.1505,Nando's,51.456654236086614,0.1473923248068082,Portuguese Restaurant,food
+128,Bexley,51.4549,0.1505,New Look,51.45623,0.144922,Clothing Store,shops
+129,Bexley,51.4549,0.1505,McDonald's,51.456233,0.147512,Fast Food Restaurant,food
+130,Bexley,51.4549,0.1505,Cineworld,51.45584667620005,0.15035827172722124,Multiplex,arts_entertainment
+131,Bexley,51.4549,0.1505,Frankie & Benny's,51.456179676867535,0.14991939067840576,American Restaurant,food
+132,Bexley,51.4549,0.1505,Twin Palace,51.455425,0.152647,Chinese Restaurant,food
+133,Bexley,51.4549,0.1505,Costa Coffee,51.456098198077505,0.1458198721711668,Coffee Shop,food
+134,Bexley,51.4549,0.1505,Starbucks,51.456294,0.145901,Coffee Shop,food
+135,Bexley,51.4549,0.1505,H&M,51.456369129759786,0.1454018224785614,Clothing Store,shops
+136,Bexley,51.4549,0.1505,The Coach House,51.45501140279447,0.15460989217868296,Pub,nightlife
+137,Bexley,51.4549,0.1505,Argos,51.45659063461894,0.14601220503821052,Warehouse Store,shops
+138,Bexley,51.4549,0.1505,Burger King,51.4561611,0.1445089,Fast Food Restaurant,food
+139,Brent,51.5588,-0.2817,Bobby Moore Statue,51.55741632766851,-0.27963542022910964,Outdoor Sculpture,parks_outdoors
+140,Brent,51.5588,-0.2817,Wembley Stadium,51.55620863273832,-0.2795720100402832,Stadium,arts_entertainment
+141,Brent,51.5588,-0.2817,Lindt,51.55641261280551,-0.284075806691675,Chocolate Shop,shops
+142,Brent,51.5588,-0.2817,Cineworld,51.55687268824797,-0.2832280825206267,Multiplex,arts_entertainment
+143,Brent,51.5588,-0.2817,Hilton London Wembley,51.55756605721054,-0.28228924799577476,Hotel,travel
+144,Brent,51.5588,-0.2817,Lifestyle Fitness,51.55755570300318,-0.28560087718620786,Gym / Fitness Center,building
+145,Brent,51.5588,-0.2817,SSE Arena,51.55820186582862,-0.281903902390923,Music Venue,arts_entertainment
+146,Brent,51.5588,-0.2817,Pret A Manger,51.55635187118641,-0.2828860608400469,Sandwich Place,food
+147,Brent,51.5588,-0.2817,Starbucks,51.558689,-0.281994,Coffee Shop,food
+148,Brent,51.5588,-0.2817,Gap Outlet,51.55698117847861,-0.2844560689805625,Clothing Store,shops
+149,Brent,51.5588,-0.2817,Las Iguanas,51.55649,-0.284167,Latin American Restaurant,food
+150,Brent,51.5588,-0.2817,Costa Coffee,51.55632269860604,-0.28291010681428796,Coffee Shop,food
+151,Brent,51.5588,-0.2817,Superdry,51.556922251574065,-0.2844794138892198,Clothing Store,shops
+152,Brent,51.5588,-0.2817,PizzaExpress,51.556784,-0.284355,Pizza Place,food
+153,Brent,51.5588,-0.2817,adidas,51.5567931,-0.2840042,Sporting Goods Shop,shops
+154,Brent,51.5588,-0.2817,Bobby Moore Club,51.557140261455615,-0.2796102644320072,Restaurant,food
+155,Brent,51.5588,-0.2817,Wembley Tandoori Restaurant,51.562062954096035,-0.2815721266214175,Indian Restaurant,food
+156,Brent,51.5588,-0.2817,wagamama,51.556715403146626,-0.28312198265267374,Asian Restaurant,food
+157,Brent,51.5588,-0.2817,Club Wembley,51.55637736062624,-0.2795816564347904,Bar,nightlife
+158,Brent,51.5588,-0.2817,Novotel London Wembley,51.561279612294044,-0.27919654232789526,Hotel,travel
+159,Brent,51.5588,-0.2817,Starbucks,51.559838,-0.27915,Coffee Shop,food
+160,Brent,51.5588,-0.2817,Sky Bar 9,51.557535150453525,-0.2820141523204373,Roof Deck,travel
+161,Brent,51.5588,-0.2817,London Designer Outlet,51.55688501392816,-0.2840479672737796,Outlet Mall,shops
+162,Brent,51.5588,-0.2817,Black Sheep Coffee,51.56238438874359,-0.2797338732671051,Coffee Shop,food
+163,Brent,51.5588,-0.2817,Moulin Cafe,51.562153,-0.2812514,Café,food
+164,Brent,51.5588,-0.2817,treatz dessert parlour,51.557052740303696,-0.2823232217448381,Ice Cream Shop,food
+165,Brent,51.5588,-0.2817,Tesco Express,51.557102486647906,-0.28570085763931274,Grocery Store,shops
+166,Brent,51.5588,-0.2817,Sugar Mill Desserts,51.55774636527685,-0.2846128161639541,Bistro,food
+167,Brent,51.5588,-0.2817,Boxpark Wembley,51.5604436376007,-0.2801533670792795,Food Court,shops
+168,Brent,51.5588,-0.2817,Wembley Stadium Store,51.55742417307426,-0.2792530567848588,Sporting Goods Shop,shops
+169,Brent,51.5588,-0.2817,Handmade Burger Co,51.556342760368985,-0.28353642742905083,Burger Joint,food
+170,Brent,51.5588,-0.2817,"Hilton Icons Bar, Grill & Terrace",51.557594533843876,-0.28227261374649143,Hotel Bar,travel
+171,Brent,51.5588,-0.2817,Caffè Nero,51.557049612763166,-0.2844729500872349,Coffee Shop,food
+172,Brent,51.5588,-0.2817,Premier Inn London Wembley Park,51.56288543033887,-0.28113238513469696,Hotel,travel
+173,Brent,51.5588,-0.2817,Sainsbury's Local,51.55895534349173,-0.2807066430217078,Grocery Store,shops
+174,Brent,51.5588,-0.2817,Frankie & Benny’s,51.5567438,-0.2839129,American Restaurant,food
+175,Brent,51.5588,-0.2817,Premier Inn London Wembley Stadium,51.55728172839609,-0.28267240342711375,Hotel,travel
+176,Brent,51.5588,-0.2817,Cabana Brasilian Barbecue,51.55688408930489,-0.28240714042663945,Brazilian Restaurant,food
+177,Brent,51.5588,-0.2817,Next Clearance,51.55681215251822,-0.2838086434677507,Clothing Store,shops
+178,Brent,51.5588,-0.2817,St. George Hotel,51.55539360778452,-0.28625693007176123,Hotel,travel
+179,Brent,51.5588,-0.2817,TGI Fridays,51.55711609955494,-0.2819855243093339,American Restaurant,food
+180,Brent,51.5588,-0.2817,Arena Square,51.558277,-0.28142977,Plaza,parks_outdoors
+181,Brent,51.5588,-0.2817,Costa Coffee,51.56104,-0.27930582,Coffee Shop,food
+182,Brent,51.5588,-0.2817,Subway,51.55743523984106,-0.2842685163998342,Sandwich Place,food
+183,Brent,51.5588,-0.2817,Nike Factory Store,51.5568043,-0.2833201,Sporting Goods Shop,shops
+184,Brent,51.5588,-0.2817,Chaboba Bubble Tea,51.55744172054057,-0.28430158365290853,Bubble Tea Shop,food
+185,Brent,51.5588,-0.2817,Olympic Way,51.562237,-0.2796374,Pedestrian Plaza,parks_outdoors
+186,Brent,51.5588,-0.2817,Zizzi,51.556849786643056,-0.2835791851089198,Italian Restaurant,food
+187,Brent,51.5588,-0.2817,The Blue Check,51.561216215258746,-0.28258078133127207,Bar,nightlife
+188,Brent,51.5588,-0.2817,Sports Bar Wembley,51.56199077066958,-0.2819707633294399,Sports Bar,nightlife
+189,Brent,51.5588,-0.2817,Prezzo,51.556717450068504,-0.2827529316058608,Italian Restaurant,food
+190,Brent,51.5588,-0.2817,Lidl,51.56119889,-0.28099902,Supermarket,shops
+191,Brent,51.5588,-0.2817,M&S Outlet,51.55702875643902,-0.2844831560784151,Outlet Store,shops
+192,Brent,51.5588,-0.2817,Currys PC World,51.56118395313005,-0.2801596414261667,Electronics Store,shops
+193,Brent,51.5588,-0.2817,McDonald's,51.56161659,-0.28130863,Fast Food Restaurant,food
+194,Brent,51.5588,-0.2817,Guess,51.556792,-0.284278,Clothing Store,shops
+195,Brent,51.5588,-0.2817,Big Moe's Diner,51.55631119336077,-0.28385281562805176,Diner,food
+196,Brent,51.5588,-0.2817,Wembley VIP Bar,51.558121480574584,-0.2838901020280096,Music Venue,arts_entertainment
+197,Brent,51.5588,-0.2817,Empire Restaurant,51.559877,-0.283784,English Restaurant,food
+198,Brent,51.5588,-0.2817,Bobby Moore Spice,51.55853745980474,-0.2781518838062524,Indian Restaurant,food
+199,Brent,51.5588,-0.2817,Holiday Inn London - Wembley,51.5557132231272,-0.2850506963295629,Hotel,travel
+200,Brent,51.5588,-0.2817,Starbucks,51.556655,-0.283288,Coffee Shop,food
+201,Brent,51.5588,-0.2817,Wenzel's,51.557553,-0.28434,Bakery,food
+202,Brent,51.5588,-0.2817,Levi's,51.557019105496245,-0.2837938070297241,Clothing Store,shops
+203,Brent,51.5588,-0.2817,New Balance,51.556984557141284,-0.28382508666288503,Sporting Goods Shop,shops
+204,Brent,51.5588,-0.2817,Ibis Hotel Wembley London,51.55508506126031,-0.28488958154160804,Hotel,travel
+205,Brent,51.5588,-0.2817,Bar 1999,51.556568844635926,-0.2800440788269043,Bar,nightlife
+206,Brent,51.5588,-0.2817,Villeroy & Boch,51.556952094293365,-0.28443454749667013,Furniture / Home Store,shops
+207,Brent,51.5588,-0.2817,The Works Outlet,51.55652882123261,-0.28386354446411133,Bookstore,shops
+208,Brent,51.5588,-0.2817,H&M,51.556818,-0.284684,Clothing Store,shops
+209,Brent,51.5588,-0.2817,Bar 1987,51.55633269086592,-0.2794790462125098,Bar,nightlife
+210,Brent,51.5588,-0.2817,Wimpy,51.56207899313921,-0.2820121496915817,Burger Joint,food
+211,Brent,51.5588,-0.2817,Nets Seafood Restaurant,51.55607147573398,-0.2790213305776472,Seafood Restaurant,food
+212,Brent,51.5588,-0.2817,The Brewery Tap,51.555485,-0.27961057,Bar,nightlife
+213,Bromley,51.4039,0.0198,wagamama,51.40407092128595,0.017984860118872348,Asian Restaurant,food
+214,Bromley,51.4039,0.0198,unico,51.40218872288535,0.01572540329525701,Ice Cream Shop,food
+215,Bromley,51.4039,0.0198,Apple Bromley,51.40279974210182,0.01594705796732128,Electronics Store,shops
+216,Bromley,51.4039,0.0198,Marks & Spencer,51.4040396345557,0.0152368318996112,Department Store,shops
+217,Bromley,51.4039,0.0198,Byron,51.404035,0.017646,Burger Joint,food
+218,Bromley,51.4039,0.0198,Franco Manca,51.40599247890893,0.016180579695772232,Pizza Place,food
+219,Bromley,51.4039,0.0198,Barrel & Horn,51.40588697867192,0.013701243249897743,Bar,nightlife
+220,Bromley,51.4039,0.0198,Costa Coffee,51.40445786077074,0.016644623295269934,Coffee Shop,food
+221,Bromley,51.4039,0.0198,Waterstones,51.40291952438397,0.01682649095790167,Bookstore,shops
+222,Bromley,51.4039,0.0198,Pavilion Leisure Centre,51.403781401885205,0.018282276348230722,Gym / Fitness Center,building
+223,Bromley,51.4039,0.0198,UNIQLO,51.402663753271575,0.017177432912394784,Clothing Store,shops
+224,Bromley,51.4039,0.0198,Wilko,51.40108893998172,0.016260008598351305,Furniture / Home Store,shops
+225,Bromley,51.4039,0.0198,Nando's,51.4059810423179,0.01608245968574302,Portuguese Restaurant,food
+226,Bromley,51.4039,0.0198,Five Guys,51.40558,0.01549,Fast Food Restaurant,food
+227,Bromley,51.4039,0.0198,Caffè Nero,51.40265291943126,0.01561586354182151,Coffee Shop,food
+228,Bromley,51.4039,0.0198,Krispy Kreme,51.40512089655572,0.01656115625816279,Donut Shop,food
+229,Bromley,51.4039,0.0198,Zara,51.40516910910544,0.016591308022986563,Clothing Store,shops
+230,Bromley,51.4039,0.0198,Pret A Manger,51.40284537837934,0.015364469937377655,Sandwich Place,food
+231,Bromley,51.4039,0.0198,PizzaExpress,51.40616145883821,0.01634893913706037,Pizza Place,food
+232,Bromley,51.4039,0.0198,Next,51.404335588947,0.0147609896260599,Clothing Store,shops
+233,Bromley,51.4039,0.0198,TK Maxx,51.402048021033785,0.01571688196900752,Clothing Store,shops
+234,Bromley,51.4039,0.0198,Costa Coffee,51.40565254714627,0.015279469318499845,Coffee Shop,food
+235,Bromley,51.4039,0.0198,Primark,51.405433641196765,0.0141848623752594,Clothing Store,shops
+236,Bromley,51.4039,0.0198,Hotel Chocolat,51.40265612075676,0.01555009139635604,Chocolate Shop,shops
+237,Bromley,51.4039,0.0198,The Partridge,51.40561472209578,0.01390071736216214,Pub,nightlife
+238,Bromley,51.4039,0.0198,Lush,51.40376294287922,0.01682182488971731,Cosmetics Shop,shops
+239,Bromley,51.4039,0.0198,Patisserie Valerie,51.405163618351175,0.016470255130996432,Café,food
+240,Bromley,51.4039,0.0198,The Railway Tavern,51.40790174662663,0.016724847549452544,Bar,nightlife
+241,Bromley,51.4039,0.0198,Paperchase,51.40411663665937,0.015277278234814532,Stationery Store,shops
+242,Bromley,51.4039,0.0198,Aqua Bar and Grill,51.407493701141114,0.016466197595301338,Mediterranean Restaurant,food
+243,Bromley,51.4039,0.0198,Benito's Hat,51.405699812141265,0.014783707545963377,Burrito Place,food
+244,Bromley,51.4039,0.0198,YO! Sushi,51.403716698450545,0.01701185604152809,Sushi Restaurant,food
+245,Bromley,51.4039,0.0198,Starbucks,51.4053,0.015538,Coffee Shop,food
+246,Bromley,51.4039,0.0198,O'Neill's,51.40709108166277,0.01578432643531757,Irish Pub,nightlife
+247,Bromley,51.4039,0.0198,PureGym,51.40165015064464,0.01638710433206253,Gym / Fitness Center,building
+248,Bromley,51.4039,0.0198,Gourmet Burger Kitchen,51.40610577795602,0.015928412352650412,Burger Joint,food
+249,Bromley,51.4039,0.0198,TruGym,51.40717001469955,0.01608907415918583,Gym,building
+250,Bromley,51.4039,0.0198,Lidl,51.40403726,0.01457882,Supermarket,shops
+251,Bromley,51.4039,0.0198,Caffè Nero,51.400063306125546,0.017092491932849077,Coffee Shop,food
+252,Bromley,51.4039,0.0198,Miso,51.40650943384966,0.01567588605217642,Noodle House,food
+253,Bromley,51.4039,0.0198,Greggs,51.4003651888548,0.017061502236051396,Bakery,food
+254,Bromley,51.4039,0.0198,ASK Italian,51.406140999905034,0.01522463594369583,Italian Restaurant,food
+255,Camden,51.529,-0.1255,The Sir John Ritblat Gallery: Treasures of the British Library,51.52966611994934,-0.12754091295813844,Museum,arts_entertainment
+256,Camden,51.529,-0.1255,St. Pancras Renaissance Hotel London,51.5296995,-0.1258865,Hotel,travel
+257,Camden,51.529,-0.1255,M&S Simply Food,51.53096383372583,-0.12559061912042324,Grocery Store,shops
+258,Camden,51.529,-0.1255,Pullman London St Pancras,51.528521278066805,-0.12816088294108588,Hotel,travel
+259,Camden,51.529,-0.1255,Pullman Hotel Breakfast Area,51.52848384502219,-0.12812580274204363,Breakfast Spot,food
+260,Camden,51.529,-0.1255,Half Cup,51.52783791250915,-0.12495133730118925,Café,food
+261,Camden,51.529,-0.1255,The Booking Office,51.53017744071451,-0.1257676494991838,Hotel Bar,travel
+262,Camden,51.529,-0.1255,Origin Coffee Roasters,51.529133,-0.12661837,Coffee Shop,food
+263,Camden,51.529,-0.1255,Patisserie Deux Amis,51.52679820404519,-0.12418884713252734,Coffee Shop,food
+264,Camden,51.529,-0.1255,The Gilbert Scott,51.52944238094817,-0.12607122727786188,English Restaurant,food
+265,Camden,51.529,-0.1255,Ladurée,51.530279227357,-0.1256775856018066,Dessert Shop,food
+266,Camden,51.529,-0.1255,Pitted Olive,51.52636858751076,-0.12562325774893196,Turkish Restaurant,food
+267,Camden,51.529,-0.1255,Fortnum & Mason,51.530541276545954,-0.12552455645648344,Gift Shop,shops
+268,Camden,51.529,-0.1255,Great Northern Hotel,51.53107201145561,-0.12462780489352099,Hotel,travel
+269,Camden,51.529,-0.1255,Godiva,51.53130431244331,-0.1258107664202854,Chocolate Shop,shops
+270,Camden,51.529,-0.1255,Plum + Spilt Milk,51.53086618497842,-0.12421840768781213,Restaurant,food
+271,Camden,51.529,-0.1255,Casa Tua,51.52758036631887,-0.12363460561636953,Italian Restaurant,food
+272,Camden,51.529,-0.1255,Chambers Club,51.52975110790113,-0.12525534296073076,Hotel Bar,travel
+273,Camden,51.529,-0.1255,Pret A Manger,51.52844032643028,-0.12802259225322069,Sandwich Place,food
+274,Camden,51.529,-0.1255,London St Pancras International Railway Station (STP) (London St Pancras International Railway Station),51.53212071439243,-0.12603024485054756,Train Station,travel
+275,Camden,51.529,-0.1255,Aux Pains de Papy,51.52934,-0.12030311,Bakery,food
+276,Camden,51.529,-0.1255,Megaro,51.52983784981709,-0.12377968334411488,Hotel,travel
+277,Camden,51.529,-0.1255,North Sea Fish,51.526479344301926,-0.12534760034085307,Fish & Chips Shop,food
+278,Camden,51.529,-0.1255,Pizza Sophia,51.52576524466053,-0.1252588985551932,Pizza Place,food
+279,Camden,51.529,-0.1255,Boots,51.52986067727286,-0.12468367553533836,Pharmacy,shops
+280,Camden,51.529,-0.1255,King's Cross Square,51.530369656530574,-0.12342044351766869,Plaza,parks_outdoors
+281,Camden,51.529,-0.1255,Kings Cross Real Food Market,51.530456472517855,-0.12362892835050765,Market,shops
+282,Camden,51.529,-0.1255,Granger & Co.,51.53260599028002,-0.12527477492529587,Breakfast Spot,food
+283,Camden,51.529,-0.1255,Continental Stores,51.525658,-0.125075,Coffee Shop,food
+284,Camden,51.529,-0.1255,Barry's Bootcamp,51.52712140360649,-0.13052815440143534,Gym / Fitness Center,building
+285,Camden,51.529,-0.1255,London King's Cross Railway Station (KGX) (London King's Cross Railway Station),51.531521906818725,-0.12417018128295745,Train Station,travel
+286,Camden,51.529,-0.1255,The Place,51.52770409497361,-0.12825684298657036,Dance Studio,arts_entertainment
+287,Camden,51.529,-0.1255,Mai Sushi,51.529313753971685,-0.1297006367271566,Sushi Restaurant,food
+288,Camden,51.529,-0.1255,Fork - Deli Patisserie,51.52584780403751,-0.1256510721337981,Café,food
+289,Camden,51.529,-0.1255,German Gymnasium,51.53239240571996,-0.12526657201295754,Modern European Restaurant,food
+290,Camden,51.529,-0.1255,Gay's The Word,51.525385528759635,-0.12536873975061122,Bookstore,shops
+291,Camden,51.529,-0.1255,Pizza Union,51.53098437323851,-0.11993333707884483,Pizza Place,food
+292,Camden,51.529,-0.1255,MEAT Liquor King's X,51.53052656513461,-0.1197322684748533,Burger Joint,food
+293,Camden,51.529,-0.1255,"Drink, Shop & Do",51.53139687227583,-0.12120275334563403,Café,food
+294,Camden,51.529,-0.1255,Cartwright Gardens,51.52650831923466,-0.12654405841118904,Garden,parks_outdoors
+295,Camden,51.529,-0.1255,Bloomsbury Coffee House,51.525282432261235,-0.12649480727341608,Café,food
+296,Camden,51.529,-0.1255,Camino,51.53120468661658,-0.12172348978585604,Tapas Restaurant,food
+297,Camden,51.529,-0.1255,Searcys Champagne Bar,51.53108692967715,-0.1257405841549501,Champagne Bar,food
+298,Camden,51.529,-0.1255,JOE & THE JUICE,51.53164730782769,-0.12659810160118032,Juice Bar,food
+299,Camden,51.529,-0.1255,Paperchase,51.53072536667021,-0.12545024948780037,Stationery Store,shops
+300,Camden,51.529,-0.1255,Roti King,51.528862289366025,-0.13204256019653696,Malay Restaurant,food
+301,Camden,51.529,-0.1255,Sourced Market,51.532026203585126,-0.12609168990974456,Deli / Bodega,food
+302,Camden,51.529,-0.1255,Nando's,51.531223218120374,-0.12236862923047237,Portuguese Restaurant,food
+303,Camden,51.529,-0.1255,Craft Coffee,51.53214475410213,-0.1248340519366584,Coffee Shop,food
+304,Camden,51.529,-0.1255,The Harrison,51.5276888786253,-0.12040450474986167,Pub,nightlife
+305,Camden,51.529,-0.1255,The Harry Potter Shop at Platform 9¾,51.532116439300374,-0.12417251435706918,Souvenir Shop,shops
+306,Camden,51.529,-0.1255,Keystone Crescent,51.53178504171536,-0.12078772894882053,Speakeasy,nightlife
+307,Camden,51.529,-0.1255,The King of Falafel,51.526022,-0.123466,Falafel Restaurant,food
+308,Camden,51.529,-0.1255,Norfolk Arms,51.52658920505012,-0.125201713703331,Tapas Restaurant,food
+309,Camden,51.529,-0.1255,New Bloomsbury Set,51.525788023522246,-0.12546159310240285,Gay Bar,nightlife
+310,Camden,51.529,-0.1255,Honest Burgers,51.53098635353478,-0.11911519709620189,Burger Joint,food
+311,Camden,51.529,-0.1255,The Queen's Head,51.52834322754559,-0.11855826833828818,Pub,nightlife
+312,Camden,51.529,-0.1255,The Observatory,51.525371,-0.125135,Coffee Shop,food
+313,Camden,51.529,-0.1255,Waitrose & Partners,51.525,-0.124116,Supermarket,shops
+314,Camden,51.529,-0.1255,YouTube Space London,51.53320920311558,-0.12582778930664062,Film Studio,arts_entertainment
+315,Camden,51.529,-0.1255,49 Cafe,51.524906,-0.125177,Deli / Bodega,food
+316,Camden,51.529,-0.1255,The Joint,51.5304338,-0.118869,Recording Studio,building
+317,Camden,51.529,-0.1255,Skoob Books,51.52517054193312,-0.12451212508620411,Used Bookstore,shops
+318,Camden,51.529,-0.1255,Hotel Chocolat,51.53172661110558,-0.12427132199585077,Chocolate Shop,shops
+319,Camden,51.529,-0.1255,The Scottish Stores,51.531112595712415,-0.12101602293888379,Pub,nightlife
+320,Camden,51.529,-0.1255,Judd Books,51.52597167687037,-0.12566514752207789,Bookstore,shops
+321,Camden,51.529,-0.1255,The Fellow,51.531591977602254,-0.12245083445954681,Pub,nightlife
+322,Camden,51.529,-0.1255,Saucy Greek Inspirations,51.525144,-0.125684,Greek Restaurant,food
+323,Camden,51.529,-0.1255,Somers Town Coffee House,51.52984555217761,-0.13027089727328112,Gastropub,food
+324,Camden,51.529,-0.1255,Hurricane Room,51.53052621156955,-0.12082386949349327,Pool Hall,arts_entertainment
+325,Camden,51.529,-0.1255,St George's Gardens,51.52585031115929,-0.12161215397825151,Garden,parks_outdoors
+326,Camden,51.529,-0.1255,Pret A Manger,51.53216444979851,-0.12592324930199367,Sandwich Place,food
+327,Camden,51.529,-0.1255,Vinoteca,51.5327536634527,-0.12499608967202618,Modern European Restaurant,food
+328,Camden,51.529,-0.1255,Notes,51.53315584767263,-0.12508392107650143,Coffee Shop,food
+329,Camden,51.529,-0.1255,Burger & Shake,51.524811,-0.125138,Burger Joint,food
+330,Camden,51.529,-0.1255,Pret A Manger,51.525381149129814,-0.12861695185350594,Sandwich Place,food
+331,Camden,51.529,-0.1255,The Parcel Yard,51.532374,-0.123933,Pub,nightlife
+332,Camden,51.529,-0.1255,Point A Hotel King's Cross St. Pancras,51.52886328339442,-0.11945381241066602,Hotel,travel
+333,Camden,51.529,-0.1255,Alara Wholefoods Health Shop,51.525187943363214,-0.1252486555967,Health Food Store,shops
+334,Camden,51.529,-0.1255,Nike Central King's Cross,51.5333458,-0.1249623,Sporting Goods Shop,shops
+335,Camden,51.529,-0.1255,Crypt Gallery,51.527109865632426,-0.12969011349390738,Art Gallery,arts_entertainment
+336,Camden,51.529,-0.1255,Gran Abrazo,51.53210428915673,-0.12046052478469449,Italian Restaurant,food
+337,Camden,51.529,-0.1255,Wasabi,51.53322484926514,-0.12532037644014749,Sushi Restaurant,food
+338,Camden,51.529,-0.1255,The Resting Hare,51.52644431883606,-0.12954650680568203,Pub,nightlife
+339,Camden,51.529,-0.1255,Costa Coffee,51.52779291855632,-0.12946075876266386,Coffee Shop,food
+340,Camden,51.529,-0.1255,Statue of Gandhi,51.5248755700319,-0.125946229977822,Outdoor Sculpture,parks_outdoors
+341,Camden,51.529,-0.1255,St. Athans Hotel,51.52529643717114,-0.12640697856361272,Hotel,travel
+342,Camden,51.529,-0.1255,Starbucks,51.52526,-0.128263,Coffee Shop,food
+343,Camden,51.529,-0.1255,Upper Fleet,51.52634925828178,-0.1296386594701667,Café,food
+344,Camden,51.529,-0.1255,Motijheel,51.52505048140947,-0.12514519501379587,Indian Restaurant,food
+345,Camden,51.529,-0.1255,Doric Arch (Fuller's),51.528042543013505,-0.13211510344012822,Pub,nightlife
+346,Camden,51.529,-0.1255,Prezzo,51.52730994401649,-0.13087575718112335,Italian Restaurant,food
+347,Camden,51.529,-0.1255,Royal George,51.52822934520864,-0.13179310677853798,Pub,nightlife
+348,Camden,51.529,-0.1255,Ambassadors Bloomsbury Hotel,51.526593365915716,-0.12976565605231694,Hotel,travel
+349,Camden,51.529,-0.1255,Red Hot,51.529106008993836,-0.12956431894328366,Szechuan Restaurant,food
+350,Camden,51.529,-0.1255,Number Twelve,51.52655432084836,-0.12983327138941578,Restaurant,food
+351,Camden,51.529,-0.1255,Signal Box,51.528195,-0.1324356,Pub,nightlife
+352,Camden,51.529,-0.1255,Wot The Dickens,51.526720743336924,-0.12925855769291336,Café,food
+353,Camden,51.529,-0.1255,Euston Square,51.52772285301645,-0.1320183277130127,Plaza,parks_outdoors
+354,Croydon,51.3714,-0.0977,The Ludoquist,51.37153038040552,-0.1003305710260288,Gaming Cafe,shops
+355,Croydon,51.3714,-0.0977,Crushed Bean,51.37099971734288,-0.10017598506483898,Coffee Shop,food
+356,Croydon,51.3714,-0.0977,Matthews Yard,51.37230273101925,-0.10126906985158975,Coffee Shop,food
+357,Croydon,51.3714,-0.0977,Scrumpchino's,51.37384678152949,-0.09859866699079116,Café,food
+358,Croydon,51.3714,-0.0977,Five Guys,51.3733339,-0.100163,Burger Joint,food
+359,Croydon,51.3714,-0.0977,Nando's,51.37280263847501,-0.10018278159571932,Portuguese Restaurant,food
+360,Croydon,51.3714,-0.0977,The Gym,51.373910527090445,-0.09666983824066672,Gym / Fitness Center,building
+361,Croydon,51.3714,-0.0977,BOXPARK Croydon,51.37503385473559,-0.09359773391568056,Food Court,shops
+362,Croydon,51.3714,-0.0977,Kokoro,51.37397665106856,-0.0984413614216835,Sushi Restaurant,food
+363,Croydon,51.3714,-0.0977,Dog & Bull,51.373081096937405,-0.10148720048776085,Pub,nightlife
+364,Croydon,51.3714,-0.0977,Galicia,51.36845757906705,-0.09927934900298166,Spanish Restaurant,food
+365,Croydon,51.3714,-0.0977,Forbidden Planet,51.373321857688026,-0.10266473896997093,Bookstore,shops
+366,Croydon,51.3714,-0.0977,The Spreadeagle,51.37239980648064,-0.0999907352758226,Pub,nightlife
+367,Croydon,51.3714,-0.0977,Coqfighter Chicken & Beer,51.37504365206947,-0.0935912005731379,Korean Restaurant,food
+368,Croydon,51.3714,-0.0977,Bad Apple,51.37340265763354,-0.09930829526835787,Nightclub,nightlife
+369,Croydon,51.3714,-0.0977,Turtle Bay,51.37313201335389,-0.10026811461122966,Caribbean Restaurant,food
+370,Croydon,51.3714,-0.0977,Chilango,51.37489537450802,-0.09358763727531678,Burrito Place,food
+371,Croydon,51.3714,-0.0977,Sangri,51.36852191929014,-0.0992887201008723,Indian Restaurant,food
+372,Croydon,51.3714,-0.0977,The Crown & Pepper,51.36911896641011,-0.09955034051567693,Pub,nightlife
+373,Croydon,51.3714,-0.0977,Anabella's Kitchen,51.3679313659668,-0.09913444519042969,Mediterranean Restaurant,food
+374,Croydon,51.3714,-0.0977,Ponte Nuovo,51.3706564023937,-0.10005564248921735,Italian Restaurant,food
+375,Croydon,51.3714,-0.0977,Park Hill,51.370400643177504,-0.09166717529296875,Park,parks_outdoors
+376,Croydon,51.3714,-0.0977,Bao Bao,51.37498111168821,-0.09431748635032895,Asian Restaurant,food
+377,Croydon,51.3714,-0.0977,Primark,51.3740488,-0.1010776,Clothing Store,shops
+378,Croydon,51.3714,-0.0977,The Breakfast Club,51.37475530606113,-0.09410865345151727,Breakfast Spot,food
+379,Croydon,51.3714,-0.0977,Smoothbean!,51.3750646220145,-0.09415403295238013,Coffee Shop,food
+380,Croydon,51.3714,-0.0977,Cronx Bar,51.37475570173284,-0.09387731552124023,Bar,nightlife
+381,Croydon,51.3714,-0.0977,Waitrose & Partners,51.3744022,-0.0957706,Supermarket,shops
+382,Croydon,51.3714,-0.0977,Thai Express,51.37502918435571,-0.0936379465804956,Thai Restaurant,food
+383,Croydon,51.3714,-0.0977,Uncle Lim's Malaysian Kitchen,51.37521540025681,-0.10045385615353232,Malay Restaurant,food
+384,Croydon,51.3714,-0.0977,The Green Dragon,51.371668730152166,-0.10070031962607118,Pub,nightlife
+385,Croydon,51.3714,-0.0977,wagamama,51.373959441340524,-0.096804688023406,Asian Restaurant,food
+386,Croydon,51.3714,-0.0977,Camden Coffee House,51.3752998113138,-0.10004229779848357,Coffee Shop,food
+387,Croydon,51.3714,-0.0977,The Cronx,51.37471742491906,-0.09409204047746213,Brewery,food
+388,Croydon,51.3714,-0.0977,The Edge,51.36757493019104,-0.099044,Pub,nightlife
+389,Croydon,51.3714,-0.0977,Leisure Club,51.372727053908854,-0.09129366832069401,Gym / Fitness Center,building
+390,Croydon,51.3714,-0.0977,Whistlers Bar,51.372926644814946,-0.09133490603981642,Hotel Bar,travel
+391,Croydon,51.3714,-0.0977,Oscars Brasserie,51.373106,-0.091272,Restaurant,food
+392,Croydon,51.3714,-0.0977,Croydon Park Hotel,51.373068754452866,-0.09146002202219292,Hotel,travel
+393,Ealing,51.513,-0.3089,Franco Manca,51.5129934137107,-0.30686126557639765,Pizza Place,food
+394,Ealing,51.513,-0.3089,Charlotte's W5,51.51437798456801,-0.3084540367126465,Bistro,food
+395,Ealing,51.513,-0.3089,Artisan Coffee,51.513023912109674,-0.3066550602357168,Coffee Shop,food
+396,Ealing,51.513,-0.3089,Questors Theatre,51.5113099969586,-0.3094365232695669,Theater,arts_entertainment
+397,Ealing,51.513,-0.3089,Pho,51.51296954016726,-0.30618213188816074,Vietnamese Restaurant,food
+398,Ealing,51.513,-0.3089,Pitzhanger Manor Gallery & House,51.511170008332414,-0.30674951530581124,Art Gallery,arts_entertainment
+399,Ealing,51.513,-0.3089,Café Zee,51.513081223055934,-0.305079588934916,Coffee Shop,food
+400,Ealing,51.513,-0.3089,Premier Inn London Ealing,51.5127462,-0.3099724,Hotel,travel
+401,Ealing,51.513,-0.3089,The Drapers Arms,51.51160610528962,-0.3051631153702525,Pub,nightlife
+402,Ealing,51.513,-0.3089,Honest Burgers,51.51282373232332,-0.3072439834713873,Burger Joint,food
+403,Ealing,51.513,-0.3089,Turtle Bay,51.512064951366,-0.3047376821715376,Caribbean Restaurant,food
+404,Ealing,51.513,-0.3089,GAIL’s Bakery,51.513072,-0.305804,Bakery,food
+405,Ealing,51.513,-0.3089,Bee Hive,51.51043536292622,-0.3054168881695007,Café,food
+406,Ealing,51.513,-0.3089,Tonkotsu,51.513039,-0.305932,Ramen Restaurant,food
+407,Ealing,51.513,-0.3089,Farm W5,51.510819425330084,-0.30546639561454786,Salad Place,food
+408,Ealing,51.513,-0.3089,Walpole Park,51.5089561407416,-0.31023502349853516,Park,parks_outdoors
+409,Ealing,51.513,-0.3089,As Nature Intended,51.511884350602486,-0.3049146716450452,Organic Grocery,shops
+410,Ealing,51.513,-0.3089,The Grove,51.51029473879893,-0.3053572818861489,Pub,nightlife
+411,Ealing,51.513,-0.3089,Amorino,51.51121,-0.30512375,Ice Cream Shop,food
+412,Ealing,51.513,-0.3089,Ealing Green,51.50974152567615,-0.3054421557055152,Park,parks_outdoors
+413,Ealing,51.513,-0.3089,Piccola Italia,51.510843394899524,-0.30555058055258794,Italian Restaurant,food
+414,Ealing,51.513,-0.3089,La Rueda,51.512393951416016,-0.3060426115989685,Spanish Restaurant,food
+415,Ealing,51.513,-0.3089,Limeyard,51.512296994302886,-0.3046482506033499,Southern / Soul Food Restaurant,food
+416,Ealing,51.513,-0.3089,The Grapevine Club,51.511320287503686,-0.30938829577122823,Bar,nightlife
+417,Ealing,51.513,-0.3089,Osteria del Portico,51.511353687180716,-0.30487664058713415,Italian Restaurant,food
+418,Ealing,51.513,-0.3089,Pho Saigon,51.51178395237575,-0.3059642772273898,Vietnamese Restaurant,food
+419,Ealing,51.513,-0.3089,TK Maxx,51.513892180645875,-0.30417980118397686,Clothing Store,shops
+420,Ealing,51.513,-0.3089,Crispins Wine Bar,51.511086595783965,-0.30545732401269465,Wine Bar,food
+421,Ealing,51.513,-0.3089,Harris + Hoole,51.513619971471485,-0.303357225818512,Coffee Shop,food
+422,Ealing,51.513,-0.3089,Castle Bar,51.51163986678137,-0.31523565496238015,Bar,nightlife
+423,Ealing,51.513,-0.3089,Hotel Xanadu,51.51179442664686,-0.30594625497748423,Hotel,travel
+424,Ealing,51.513,-0.3089,Eden Fitness,51.51209866898991,-0.31273648204872007,Gym / Fitness Center,building
+425,Ealing,51.513,-0.3089,Pret A Manger,51.51299494950315,-0.3045784433222332,Sandwich Place,food
+426,Ealing,51.513,-0.3089,PizzaExpress,51.512136457058354,-0.3056951926250804,Pizza Place,food
+427,Ealing,51.513,-0.3089,Morrisons Ealing,51.51374402645086,-0.30418684305732446,Supermarket,shops
+428,Ealing,51.513,-0.3089,wagamama,51.5121810832484,-0.30448961760589555,Asian Restaurant,food
+429,Ealing,51.513,-0.3089,Soane’s Kitchen,51.510886,-0.307058,Restaurant,food
+430,Ealing,51.513,-0.3089,Ealing Studios,51.50877621765304,-0.3068533522544015,Performing Arts Venue,arts_entertainment
+431,Ealing,51.513,-0.3089,Five Guys,51.514595681154894,-0.30245633313518283,Burger Joint,food
+432,Ealing,51.513,-0.3089,Waterstones,51.51239479152189,-0.30314562255326344,Bookstore,shops
+433,Ealing,51.513,-0.3089,Nando's,51.512607,-0.305893,Portuguese Restaurant,food
+434,Ealing,51.513,-0.3089,Molana,51.511685818209514,-0.3146367118678572,Persian Restaurant,food
+435,Ealing,51.513,-0.3089,Starbucks,51.514902651458556,-0.30238292860264615,Coffee Shop,food
+436,Ealing,51.513,-0.3089,Starbucks,51.511098,-0.305196,Coffee Shop,food
+437,Ealing,51.513,-0.3089,Caffè Nero,51.51397303359341,-0.30214084805919594,Coffee Shop,food
+438,Ealing,51.513,-0.3089,Côte Brasserie,51.5111934926028,-0.30540578643443594,French Restaurant,food
+439,Ealing,51.513,-0.3089,Patisserie Sowa,51.512120539522755,-0.3048168127194646,Polish Restaurant,food
+440,Ealing,51.513,-0.3089,Caffè Nero,51.51281690377141,-0.3071505454123655,Coffee Shop,food
+441,Ealing,51.513,-0.3089,Wasabi,51.51259470572292,-0.3042836434963614,Sushi Restaurant,food
+442,Ealing,51.513,-0.3089,Retsina & Mousaka,51.51162218627455,-0.31474658069795464,Greek Restaurant,food
+443,Ealing,51.513,-0.3089,Primark,51.513111,-0.303663,Clothing Store,shops
+444,Ealing,51.513,-0.3089,Marks & Spencer,51.51305263036625,-0.3041034936904907,Department Store,shops
+445,Ealing,51.513,-0.3089,Starbucks,51.513297,-0.301747,Coffee Shop,food
+446,Ealing,51.513,-0.3089,McDonald's,51.51379,-0.30371,Fast Food Restaurant,food
+447,Ealing,51.513,-0.3089,The Bakers Of Ealing,51.51297529204825,-0.3059400611871138,Bakery,food
+448,Ealing,51.513,-0.3089,Game,51.5125286630802,-0.3038239062999642,Video Game Store,shops
+449,Ealing,51.513,-0.3089,Bill's Restaurant,51.512956819432034,-0.30650231785794657,English Restaurant,food
+450,Ealing,51.513,-0.3089,Ealing Broadway Shopping Centre,51.51237157693676,-0.30305206775665283,Shopping Mall,shops
+451,Ealing,51.513,-0.3089,The North Star,51.51379264770246,-0.30179275725543414,Pub,nightlife
+452,Ealing,51.513,-0.3089,H&M,51.51253516422883,-0.3035080432891846,Clothing Store,shops
+453,Ealing,51.513,-0.3089,@ Thai Canteen,51.513037100808795,-0.3063215908145559,Thai Restaurant,food
+454,Ealing,51.513,-0.3089,Next,51.5135804923134,-0.302937150682971,Clothing Store,shops
+455,Ealing,51.513,-0.3089,Greggs,51.51354920455979,-0.3033313002423014,Bakery,food
+456,Ealing,51.513,-0.3089,Boots,51.512317188333974,-0.3031431159194974,Pharmacy,shops
+457,Ealing,51.513,-0.3089,Nuffield Health Fitness & Wellbeing Gym,51.512070223757355,-0.30289940901846085,Gym / Fitness Center,building
+458,Ealing,51.513,-0.3089,Flava's Lounge Bar & Grill,51.511523713960905,-0.30633027641970356,Hookah Bar,nightlife
+459,Ealing,51.513,-0.3089,Patisserie Valerie,51.513474440709075,-0.30195631912149123,Café,food
+460,Ealing,51.513,-0.3089,Pasta Remoli,51.513472,-0.306686,Italian Restaurant,food
+461,Ealing,51.513,-0.3089,BB London Organic,51.5155354,-0.3103532999999743,Bed & Breakfast,travel
+462,Ealing,51.513,-0.3089,Longfield Walk,51.51577,-0.3092882,Park,parks_outdoors
+463,Ealing,51.513,-0.3089,Caspian Hotel,51.5159454,-0.3050552,Boarding House,travel
+464,Ealing,51.513,-0.3089,E2 Bus Stop,51.51464625010439,-0.30225251641408934,Bus Stop,travel
+465,Enfield,51.6538,-0.0799,Goodlooking Optics,51.65222318701091,-0.07948966142976298,Optical Shop,building
+466,Enfield,51.6538,-0.0799,PizzaExpress,51.652475,-0.080832,Pizza Place,food
+467,Enfield,51.6538,-0.0799,Caffè Nero,51.65206131221433,-0.08194884281707003,Coffee Shop,food
+468,Enfield,51.6538,-0.0799,Aksular Restaurant Enfield Town,51.65253293848226,-0.08065439293130425,Turkish Restaurant,food
+469,Enfield,51.6538,-0.0799,Enfield Town Railway Station (ENF),51.65204938137716,-0.07901336622578717,Train Station,travel
+470,Enfield,51.6538,-0.0799,Waitrose & Partners,51.65160230841171,-0.08411422773417598,Supermarket,shops
+471,Enfield,51.6538,-0.0799,Nando's,51.65214087982935,-0.08104121807912897,Portuguese Restaurant,food
+472,Enfield,51.6538,-0.0799,Waterstones,51.65217895615991,-0.08369463055116849,Bookstore,shops
+473,Enfield,51.6538,-0.0799,The Kings Head,51.652660331501174,-0.08246338075464425,Pub,nightlife
+474,Enfield,51.6538,-0.0799,Pearsons,51.65164785978176,-0.08232934782697308,Department Store,shops
+475,Enfield,51.6538,-0.0799,Paperchase,51.65304946899414,-0.08512124419212341,Stationery Store,shops
+476,Enfield,51.6538,-0.0799,Palace Gardens Shopping Centre,51.65135850190756,-0.0820151249580114,Shopping Mall,shops
+477,Enfield,51.6538,-0.0799,O'Neill's,51.65195,-0.081436224,Irish Pub,nightlife
+478,Enfield,51.6538,-0.0799,Next,51.65162203584638,-0.08128717814713582,Clothing Store,shops
+479,Enfield,51.6538,-0.0799,Topshop,51.651424,-0.082086,Women's Store,shops
+480,Enfield,51.6538,-0.0799,McDonald's,51.65221,-0.083016,Fast Food Restaurant,food
+481,Enfield,51.6538,-0.0799,Lidl,51.6505537746643,-0.0811531099237607,Supermarket,shops
+482,Enfield,51.6538,-0.0799,Bonito Café,51.65186154634263,-0.08068824091398728,Sandwich Place,food
+483,Enfield,51.6538,-0.0799,Art Cafe,51.65229101323687,-0.08102874005590784,Coffee Shop,food
+484,Enfield,51.6538,-0.0799,Prezzo,51.65219414589276,-0.08123988069048073,Italian Restaurant,food
+485,Enfield,51.6538,-0.0799,H&M,51.6513761,-0.0809471,Clothing Store,shops
+486,Enfield,51.6538,-0.0799,Enfield Tandoori,51.651793192077015,-0.08065095853326538,Indian Restaurant,food
+487,Enfield,51.6538,-0.0799,New Look,51.65152187661314,-0.08174166844582942,Women's Store,shops
+488,Enfield,51.6538,-0.0799,Marks & Spencer,51.6512557880495,-0.0834945028648868,Department Store,shops
+489,Enfield,51.6538,-0.0799,The Taps,51.653149,-0.0805077,Bar,nightlife
+490,Enfield,51.6538,-0.0799,Game,51.651152220399666,-0.08310930767302141,Video Game Store,shops
+491,Enfield,51.6538,-0.0799,Greggs,51.652234688925326,-0.08430754892089642,Bakery,food
+492,Enfield,51.6538,-0.0799,Subway,51.65385395736457,-0.0838221395065535,Sandwich Place,food
+493,Enfield,51.6538,-0.0799,Boots,51.65114431020147,-0.08363617733289175,Pharmacy,shops
+494,Enfield,51.6538,-0.0799,Starbucks,51.652275,-0.083432,Coffee Shop,food
+495,Enfield,51.6538,-0.0799,Muffin Break,51.65179702888905,-0.08202365848404967,Café,food
+496,Enfield,51.6538,-0.0799,TK Maxx,51.65114516112646,-0.08140396037020967,Clothing Store,shops
+497,Enfield,51.6538,-0.0799,Dugdale Centre Theatre,51.65047946783168,-0.0803250843871468,Theater,arts_entertainment
+498,Enfield,51.6538,-0.0799,WHSmith,51.65170814730157,-0.0842589669341578,Bookstore,shops
+499,Enfield,51.6538,-0.0799,Costa Coffee,51.65130027313302,-0.08391604707874048,Coffee Shop,food
+500,Enfield,51.6538,-0.0799,Creams,51.65234,-0.077204,Ice Cream Shop,food
+501,Enfield,51.6538,-0.0799,Nehir Restaurant,51.651463,-0.080531,Turkish Restaurant,food
+502,Enfield,51.6538,-0.0799,Papadelli,51.65387272564387,-0.08376840049764518,Deli / Bodega,food
+503,Enfield,51.6538,-0.0799,Caffe Massarella,51.652129,-0.082751,Coffee Shop,food
+504,Enfield,51.6538,-0.0799,O2 Shop Enfield,51.651318129726015,-0.0795044927715015,Mobile Phone Shop,shops
+505,Enfield,51.6538,-0.0799,Malone & Co,51.6524253,-0.0832789,Restaurant,food
+506,Enfield,51.6538,-0.0799,Superdrug,51.65134486778301,-0.08135619658163998,Pharmacy,shops
+507,Enfield,51.6538,-0.0799,Topman,51.651383,-0.081861,Clothing Store,shops
+508,Enfield,51.6538,-0.0799,Palace Exchange,51.65134815832487,-0.08180382893803856,Shopping Mall,shops
+509,Enfield,51.6538,-0.0799,Vision Express Opticians - London - Enfield,51.652128748722554,-0.08354547098243621,Optical Shop,building
+510,Enfield,51.6538,-0.0799,M&S Café,51.6513168536696,-0.08236687500985194,Café,food
+511,Enfield,51.6538,-0.0799,JD Sports,51.65107575735866,-0.08174300193786621,Sporting Goods Shop,shops
+512,Enfield,51.6538,-0.0799,Vodafone,51.65231506284192,-0.08402123747600854,Mobile Phone Shop,shops
+513,Enfield,51.6538,-0.0799,Specsavers,51.65124464270386,-0.08264916806776688,Optical Shop,building
+514,Enfield,51.6538,-0.0799,Clintons,51.65117252851155,-0.08279309046291793,Gift Shop,shops
+515,Enfield,51.6538,-0.0799,Sony Centre,51.65159164826388,-0.08372783660888672,Electronics Store,shops
+516,Enfield,51.6538,-0.0799,Cecil Road,51.650671054016605,-0.081365888547187,Bus Stop,travel
+517,Enfield,51.6538,-0.0799,Carphone Warehouse,51.651466051955914,-0.08356885770863873,Mobile Phone Shop,shops
+518,Enfield,51.6538,-0.0799,The Stag,51.652598462798245,-0.08646945655937059,Pub,nightlife
+519,Enfield,51.6538,-0.0799,Millets,51.65135034518421,-0.0838083028793335,Outdoor Supply Store,shops
+520,Enfield,51.6538,-0.0799,Card Factory,51.65142874921275,-0.0839949520904043,Gift Shop,shops
+521,Enfield,51.6538,-0.0799,The Library Cafe,51.65191815935376,-0.08637895609305551,Café,food
+522,Greenwich,51.4892,0.0648,Kailash Momo Restaurant,51.48899,0.06738547,Asian Restaurant,food
+523,Greenwich,51.4892,0.0648,Viet Baguette,51.48850225112184,0.0678082751603822,Vietnamese Restaurant,food
+524,Greenwich,51.4892,0.0648,Woolwich Equitable,51.49034,0.06842181,Pub,nightlife
+525,Greenwich,51.4892,0.0648,The Friends Cafe,51.491722,0.06419163,Breakfast Spot,food
+526,Greenwich,51.4892,0.0648,M&S Foodhall,51.491564495477625,0.07044553756713867,Grocery Store,shops
+527,Greenwich,51.4892,0.0648,Blue Nile,51.48911,0.06743912,African Restaurant,food
+528,Greenwich,51.4892,0.0648,TK Maxx,51.49228,0.06405283,Clothing Store,shops
+529,Greenwich,51.4892,0.0648,Poundland,51.491371,0.066101,Discount Store,shops
+530,Greenwich,51.4892,0.0648,Wilko,51.4890543,0.0688482,Furniture / Home Store,shops
+531,Greenwich,51.4892,0.0648,Beresford Square,51.491050125368744,0.06932973861694336,Plaza,parks_outdoors
+532,Greenwich,51.4892,0.0648,Subway,51.488846,0.06683629,Sandwich Place,food
+533,Greenwich,51.4892,0.0648,The Coffee Lounge,51.490412918637475,0.068272836288088,Coffee Shop,food
+534,Greenwich,51.4892,0.0648,McDonald's,51.491417,0.067194,Fast Food Restaurant,food
+535,Greenwich,51.4892,0.0648,General Gordon Square,51.489961244823455,0.06767749786376953,Plaza,parks_outdoors
+536,Greenwich,51.4892,0.0648,Domino's Pizza,51.489025,0.066654906,Pizza Place,food
+537,Greenwich,51.4892,0.0648,New Look,51.4915549,0.0656699,Clothing Store,shops
+538,Greenwich,51.4892,0.0648,KFC,51.490433,0.06627068,Fast Food Restaurant,food
+539,Greenwich,51.4892,0.0648,The Great Harry (Wetherspoon),51.489994,0.066902675,Pub,nightlife
+540,Greenwich,51.4892,0.0648,Wimpy,51.4903387,0.0669171,Burger Joint,food
+541,Greenwich,51.4892,0.0648,Lidl,51.49257985839733,0.06600379943847656,Supermarket,shops
+542,Greenwich,51.4892,0.0648,Woolwich Market,51.49101,0.06901961,Flea Market,shops
+543,Greenwich,51.4892,0.0648,Boots,51.492474,0.06425131,Pharmacy,shops
+544,Greenwich,51.4892,0.0648,Costa Coffee,51.49037587398724,0.06929757755080485,Coffee Shop,food
+545,Greenwich,51.4892,0.0648,Greggs,51.490936,0.0683219,Bakery,food
+546,Greenwich,51.4892,0.0648,Iceland,51.491882,0.06532118,Grocery Store,shops
+547,Greenwich,51.4892,0.0648,Premier Inn London Woolwich (Royal Arsenal) hotel,51.4928919,0.0673409,Hotel,travel
+548,Greenwich,51.4892,0.0648,Subway,51.49213,0.064456835,Sandwich Place,food
+549,Greenwich,51.4892,0.0648,Sainsbury's,51.490938015666536,0.0642294611043439,Supermarket,shops
+550,Greenwich,51.4892,0.0648,Koffees & Kream,51.491029463632245,0.06476397714887205,Coffee Shop,food
+551,Greenwich,51.4892,0.0648,WHSmith,51.4916588491645,0.06611377546312269,Bookstore,shops
+552,Greenwich,51.4892,0.0648,Nando's,51.491333592659934,0.06680203359763878,Portuguese Restaurant,food
+553,Greenwich,51.4892,0.0648,Primark,51.49272514696561,0.06420135498046875,Clothing Store,shops
+554,Greenwich,51.4892,0.0648,The Guardhouse,51.49196,0.069185905,Pub,nightlife
+555,Greenwich,51.4892,0.0648,Tai Tip Mein Noodle Bar,51.490673,0.06973375,Thai Restaurant,food
+556,Greenwich,51.4892,0.0648,Tesco Extra,51.4885166,0.0655154,Supermarket,shops
+557,Greenwich,51.4892,0.0648,Travelodge,51.492353704383184,0.06328024635279163,Hotel,travel
+558,Greenwich,51.4892,0.0648,Argos,51.49222308630168,0.06397597327324271,Warehouse Store,shops
+559,Greenwich,51.4892,0.0648,Beefeater,51.492752,0.067418,Steakhouse,food
+560,Hackney,51.545,-0.0553,Hackney Picturehouse,51.54484122159994,-0.05539879045892534,Movie Theater,arts_entertainment
+561,Hackney,51.545,-0.0553,Bánh Mì Hội-An Vietnamese Street Food in London,51.546685942912745,-0.055679009600393486,Sandwich Place,food
+562,Hackney,51.545,-0.0553,Every Cloud,51.546098065492714,-0.054405460543971676,Cocktail Bar,nightlife
+563,Hackney,51.545,-0.0553,Hackney Empire,51.54558448744115,-0.055239166499309704,Theater,arts_entertainment
+564,Hackney,51.545,-0.0553,MOTH Club,51.54584348850346,-0.05455759670977575,Pub,nightlife
+565,Hackney,51.545,-0.0553,The Cock Tavern,51.54635603104796,-0.05520785153655413,Pub,nightlife
+566,Hackney,51.545,-0.0553,LARDO,51.54345199309569,-0.05720672026998346,Italian Restaurant,food
+567,Hackney,51.545,-0.0553,Tempesta Coffee,51.543392,-0.05696509,Coffee Shop,food
+568,Hackney,51.545,-0.0553,Pophams Bakery,51.543516,-0.057645,Bakery,food
+569,Hackney,51.545,-0.0553,St. John at Hackney Churchyard Gardens,51.54537426041911,-0.054759979248046875,Park,parks_outdoors
+570,Hackney,51.545,-0.0553,The Old Ship,51.5458437,-0.0553899,Pub,nightlife
+571,Hackney,51.545,-0.0553,The Experiment,51.5473485223028,-0.0520976897759266,Brewery,food
+572,Hackney,51.545,-0.0553,Paper Dress Vintage,51.547195736188215,-0.05468487739562988,Thrift / Vintage Store,shops
+573,Hackney,51.545,-0.0553,Brew for Two,51.5469929696552,-0.05132865720742834,Coffee Shop,food
+574,Hackney,51.545,-0.0553,Hackney Church Brew Co.,51.54736798808192,-0.05239261424559176,Brewery,food
+575,Hackney,51.545,-0.0553,Fieldworks Gym,51.54284,-0.05797,Gym / Fitness Center,building
+576,Hackney,51.545,-0.0553,Pidgin,51.54561953777611,-0.06113843220049271,Modern European Restaurant,food
+577,Hackney,51.545,-0.0553,Silver Lining,51.546154,-0.054522604,Restaurant,food
+578,Hackney,51.545,-0.0553,Oslo,51.54725698817723,-0.055470318199411096,Scandinavian Restaurant,food
+579,Hackney,51.545,-0.0553,E5 Bakehouse,51.54122413221724,-0.0574957616003129,Bakery,food
+580,Hackney,51.545,-0.0553,Mess Cafe,51.54803452874419,-0.05691982991811408,Café,food
+581,Hackney,51.545,-0.0553,Patty & Bun,51.54342563615652,-0.057306736646538806,Burger Joint,food
+582,Hackney,51.545,-0.0553,The Chesham Arms,51.547727422661126,-0.050131301070265234,Pub,nightlife
+583,Hackney,51.545,-0.0553,KIP Hotel,51.54730441740626,-0.056106815347146316,Hotel,travel
+584,Hackney,51.545,-0.0553,Pub on the Park,51.54197424574372,-0.058279831501447554,Pub,nightlife
+585,Hackney,51.545,-0.0553,Camarelli - Brazilian Butchers (Brazilian Centre),51.54198530500545,-0.05523218714818009,Butcher,shops
+586,Hackney,51.545,-0.0553,Tonkotsu Mare Street,51.54869677059156,-0.05500378244070157,Ramen Restaurant,food
+587,Hackney,51.545,-0.0553,Behind This Wall,51.54927035745767,-0.05506148267874071,Cocktail Bar,nightlife
+588,Hackney,51.545,-0.0553,Coffee8,51.54757339295153,-0.0546631701331123,Coffee Shop,food
+589,Hackney,51.545,-0.0553,Borough Wines,51.545677,-0.061502,Wine Shop,shops
+590,Hackney,51.545,-0.0553,We Are Vegan Everything,51.548943,-0.054676495,Vegetarian / Vegan Restaurant,food
+591,Hackney,51.545,-0.0553,St John at Hackney Church,51.549325539763196,-0.05344806785088755,Church,building
+592,Hackney,51.545,-0.0553,Tre Viet,51.54244622613484,-0.05525562929034324,Vietnamese Restaurant,food
+593,Hackney,51.545,-0.0553,Palm Vaults,51.549244606873174,-0.05502124640217391,Café,food
+594,Hackney,51.545,-0.0553,Peg,51.546972,-0.049457,Wine Bar,food
+595,Hackney,51.545,-0.0553,Nike Hackney,51.5471942,-0.0509326,Sporting Goods Shop,shops
+596,Hackney,51.545,-0.0553,Footnote,51.54557615034228,-0.06196639683512535,Café,food
+597,Hackney,51.545,-0.0553,London Star Night,51.541344,-0.055312,Grocery Store,shops
+598,Hackney,51.545,-0.0553,Finch Cafe,51.5411286,-0.05761160000000001,Middle Eastern Restaurant,food
+599,Hackney,51.545,-0.0553,Marks & Spencer,51.54754511614256,-0.05525714574446257,Department Store,shops
+600,Hackney,51.545,-0.0553,TK Maxx,51.547505448863895,-0.05589882613411332,Clothing Store,shops
+601,Hackney,51.545,-0.0553,Pizza Hut,51.546585,-0.055426,Pizza Place,food
+602,Hackney,51.545,-0.0553,Iceland,51.54692390034617,-0.05520557744371227,Grocery Store,shops
+603,Hackney,51.545,-0.0553,Hackney Fresh,51.546854383190926,-0.055044880208814685,Organic Grocery,shops
+604,Hackney,51.545,-0.0553,Greggs,51.548626412593144,-0.05519108009139018,Bakery,food
+605,Hackney,51.545,-0.0553,Primark,51.54794715709762,-0.05521997809410095,Clothing Store,shops
+606,Hackney,51.545,-0.0553,Hackney Central London Overground Station,51.54706841313448,-0.05705164314071606,Train Station,travel
+607,Hackney,51.545,-0.0553,Hackney Bohemia,51.547204891025395,-0.05485877977622568,Cocktail Bar,nightlife
+608,Hackney,51.545,-0.0553,Boots,51.548813647030926,-0.05507979987855845,Pharmacy,shops
+609,Hackney,51.545,-0.0553,Costa Coffee,51.5475416471394,-0.0560334281992146,Coffee Shop,food
+610,Hackney,51.545,-0.0553,Travelodge,51.54750071630048,-0.05607386825943195,Hotel,travel
+611,Hackney,51.545,-0.0553,Cirrik,51.54736779185814,-0.055647461560752454,Turkish Restaurant,food
+612,Hackney,51.545,-0.0553,JD Sports,51.54679708609462,-0.055403709411621094,Sporting Goods Shop,shops
+613,Hackney,51.545,-0.0553,19 Numara Bos Cirrik,51.547370168832,-0.05572000246358438,Middle Eastern Restaurant,food
+614,Hackney,51.545,-0.0553,Night Tales,51.54731341821637,-0.052903121831340064,Nightclub,nightlife
+615,Hackney,51.545,-0.0553,Argun Printers & Stationers,51.54717238439618,-0.0548243522644043,Paper / Office Supplies Store,shops
+616,Hackney,51.545,-0.0553,Bulk Market,51.54721908796824,-0.0539901852607727,Market,shops
+617,Hackney,51.545,-0.0553,Paper Dress Yoga,51.547428,-0.054515,Yoga Studio,shops
+618,Hackney,51.545,-0.0553,Momosan Shop,51.54562140573367,-0.060917674554248694,Gift Shop,shops
+619,Hammersmith and Fulham,51.4927,-0.2339,eat TOKYO,51.492641218527254,-0.23278794833258604,Japanese Restaurant,food
+620,Hammersmith and Fulham,51.4927,-0.2339,Mahdi Restaurant,51.49291727471048,-0.23509582621175504,Persian Restaurant,food
+621,Hammersmith and Fulham,51.4927,-0.2339,Yoshi Sushi,51.493263967733036,-0.23599809315554035,Japanese Restaurant,food
+622,Hammersmith and Fulham,51.4927,-0.2339,The Dove,51.490504705719594,-0.23485019262500373,Pub,nightlife
+623,Hammersmith and Fulham,51.4927,-0.2339,Patisserie Sainte-Anne,51.49298866462961,-0.2358112750451864,French Restaurant,food
+624,Hammersmith and Fulham,51.4927,-0.2339,Poppy's,51.494477220745495,-0.2319420753736231,Thai Restaurant,food
+625,Hammersmith and Fulham,51.4927,-0.2339,Indian Zing,51.49323197544215,-0.23711728687609987,Indian Restaurant,food
+626,Hammersmith and Fulham,51.4927,-0.2339,Furnival Gardens,51.49051288008032,-0.23321607903344344,Park,parks_outdoors
+627,Hammersmith and Fulham,51.4927,-0.2339,Toro Gordo,51.49259418687095,-0.2301166660199997,Tapas Restaurant,food
+628,Hammersmith and Fulham,51.4927,-0.2339,Flying Tiger,51.49268036399334,-0.2284072634195842,Gift Shop,shops
+629,Hammersmith and Fulham,51.4927,-0.2339,Coffee Station,51.492498,-0.232754,Coffee Shop,food
+630,Hammersmith and Fulham,51.4927,-0.2339,W6 Garden Centre,51.49417132746999,-0.23813188076019284,Garden Center,parks_outdoors
+631,Hammersmith and Fulham,51.4927,-0.2339,Primark,51.49267671749433,-0.22897079586982727,Clothing Store,shops
+632,Hammersmith and Fulham,51.4927,-0.2339,Blue Anchor,51.48958213460375,-0.2308604121208191,Pub,nightlife
+633,Hammersmith and Fulham,51.4927,-0.2339,Flynn's Pub and Kitchen,51.49503719468426,-0.2346382874881753,Pub,nightlife
+634,Hammersmith and Fulham,51.4927,-0.2339,The Lowiczanka Polish Centre Restaurant,51.493355288773394,-0.2378110335149784,Polish Restaurant,food
+635,Hammersmith and Fulham,51.4927,-0.2339,Andover Arms,51.496909162974625,-0.2326315231957049,Pub,nightlife
+636,Hammersmith and Fulham,51.4927,-0.2339,Drink Me Eat Me,51.49355511990856,-0.23982703685760498,Café,food
+637,Hammersmith and Fulham,51.4927,-0.2339,Divina caffe,51.49342116939775,-0.2402299655071519,Italian Restaurant,food
+638,Hammersmith and Fulham,51.4927,-0.2339,Lumi Power Yoga,51.49247937205512,-0.23011525241261035,Yoga Studio,shops
+639,Hammersmith and Fulham,51.4927,-0.2339,Nando's,51.492526418807465,-0.23077726364135742,Portuguese Restaurant,food
+640,Hammersmith and Fulham,51.4927,-0.2339,Stonemasons Arms,51.494388650473994,-0.2301270527248107,Pub,nightlife
+641,Hammersmith and Fulham,51.4927,-0.2339,Casa Mia Ristorante Italiano,51.49301980191706,-0.23483767763345714,Italian Restaurant,food
+642,Hammersmith and Fulham,51.4927,-0.2339,Café Cino,51.493257982655415,-0.2368855170934274,Café,food
+643,Hammersmith and Fulham,51.4927,-0.2339,POSK Polish Club,51.493311952620296,-0.23755590248873515,Jazz Club,arts_entertainment
+644,Hammersmith and Fulham,51.4927,-0.2339,St Peter's Square,51.49345175575031,-0.24021568938468235,Plaza,parks_outdoors
+645,Hammersmith and Fulham,51.4927,-0.2339,Potli,51.493538122402256,-0.24084722884343812,Indian Restaurant,food
+646,Hammersmith and Fulham,51.4927,-0.2339,L'amorosa,51.49352736840353,-0.24002308085322355,Italian Restaurant,food
+647,Hammersmith and Fulham,51.4927,-0.2339,Steam Restaurant,51.49271009910039,-0.23309164723365164,Chinese Restaurant,food
+648,Hammersmith and Fulham,51.4927,-0.2339,Sagar Vegetarian,51.49260001488867,-0.2321515697334005,Indian Restaurant,food
+649,Hammersmith and Fulham,51.4927,-0.2339,Saigon Saigon,51.49354309830016,-0.24065125679238716,Vietnamese Restaurant,food
+650,Hammersmith and Fulham,51.4927,-0.2339,Aviva Holiday Studios,51.494530277559,-0.2284419586249542,Boarding House,travel
+651,Hammersmith and Fulham,51.4927,-0.2339,Wasabi,51.49273139656879,-0.22759825302484435,Sushi Restaurant,food
+652,Hammersmith and Fulham,51.4927,-0.2339,The Hampshire Hog,51.49280686171913,-0.23549502558903868,Gastropub,food
+653,Hammersmith and Fulham,51.4927,-0.2339,LUMA Concept Hotel Hammersmith London,51.494438024919425,-0.2276917090002842,Hotel,travel
+654,Hammersmith and Fulham,51.4927,-0.2339,The Hammersmith Ram,51.49241367832732,-0.22824892159744922,Pub,nightlife
+655,Hammersmith and Fulham,51.4927,-0.2339,Boots,51.492823791611116,-0.22702303184837033,Pharmacy,shops
+656,Hammersmith and Fulham,51.4927,-0.2339,Shilpa Restaurant,51.49302796785086,-0.23591142855366348,Indian Restaurant,food
+657,Hammersmith and Fulham,51.4927,-0.2339,Thai Smile Supermarket,51.49351528812158,-0.24021343730893002,Grocery Store,shops
+658,Hammersmith and Fulham,51.4927,-0.2339,The Rutland Arms,51.48964106108684,-0.23116537866887762,Pub,nightlife
+659,Hammersmith and Fulham,51.4927,-0.2339,Subway,51.492610931072356,-0.2315756317111074,Sandwich Place,food
+660,Hammersmith and Fulham,51.4927,-0.2339,The Carpenters Arms,51.493510415218296,-0.24019607605602003,Gastropub,food
+661,Hammersmith and Fulham,51.4927,-0.2339,Bombay Chow,51.4931009370005,-0.23646777399955,Indian Chinese Restaurant,food
+662,Hammersmith and Fulham,51.4927,-0.2339,Hands in Pasta,51.49257219903119,-0.23253851832541236,Italian Restaurant,food
+663,Hammersmith and Fulham,51.4927,-0.2339,Game,51.49328952773925,-0.22813795522234825,Video Game Store,shops
+664,Hammersmith and Fulham,51.4927,-0.2339,TK Maxx,51.49257,-0.22732794,Clothing Store,shops
+665,Hammersmith and Fulham,51.4927,-0.2339,Bäkehaus,51.49263565402312,-0.2280597647839406,German Restaurant,food
+666,Hammersmith and Fulham,51.4927,-0.2339,The Salutation,51.492791911992676,-0.23327334408161196,Pub,nightlife
+667,Hammersmith and Fulham,51.4927,-0.2339,Origin Cofee – the Aircraft Factory,51.49571,-0.230657,Coffee Shop,food
+668,Hammersmith and Fulham,51.4927,-0.2339,Thatched House,51.49650410446598,-0.23480738952283223,Gastropub,food
+669,Hammersmith and Fulham,51.4927,-0.2339,Pizza Hut,51.49263151000441,-0.2303041930304736,Pizza Place,food
+670,Hammersmith and Fulham,51.4927,-0.2339,The Dartmouth Castle,51.49445516806217,-0.2274378109661953,Pub,nightlife
+671,Hammersmith and Fulham,51.4927,-0.2339,Greggs,51.492608525901076,-0.23068772143115962,Bakery,food
+672,Hammersmith and Fulham,51.4927,-0.2339,Argos,51.492612955039704,-0.2308326148702101,Warehouse Store,shops
+673,Hammersmith and Fulham,51.4927,-0.2339,Patisserie Valerie,51.49284656747389,-0.22698378818528156,Café,food
+674,Hammersmith and Fulham,51.4927,-0.2339,The Plough & Harrow (Wetherspoon),51.4927116183529,-0.23152848075751542,Pub,nightlife
+675,Hammersmith and Fulham,51.4927,-0.2339,Pho District,51.493137,-0.23619466,Vietnamese Restaurant,food
+676,Hammersmith and Fulham,51.4927,-0.2339,Costa Coffee,51.49281758745825,-0.22669415825844047,Coffee Shop,food
+677,Hammersmith and Fulham,51.4927,-0.2339,Adria Hotel,51.49449722298764,-0.22867519551912377,Hotel,travel
+678,Hammersmith and Fulham,51.4927,-0.2339,BP,51.49153762,-0.23871918,Gas Station,shops
+679,Hammersmith and Fulham,51.4927,-0.2339,Iceland,51.49255789612499,-0.22999738020992985,Grocery Store,shops
+680,Hammersmith and Fulham,51.4927,-0.2339,Old City Arms,51.48939266683454,-0.22920476928737155,Pub,nightlife
+681,Hammersmith and Fulham,51.4927,-0.2339,KFC,51.49265773430352,-0.22972475818585775,Fast Food Restaurant,food
+682,Hammersmith and Fulham,51.4927,-0.2339,Rafaello,51.49339604938011,-0.23799512564894199,Café,food
+683,Hammersmith and Fulham,51.4927,-0.2339,High Road Auctions,51.493507876967136,-0.24020227550211765,Antique Shop,shops
+684,Hammersmith and Fulham,51.4927,-0.2339,Sanbao Chinese Kitchen,51.49296672863217,-0.2352971512597146,Chinese Restaurant,food
+685,Hammersmith and Fulham,51.4927,-0.2339,Holiday Inn Express London - Hammersmith,51.49314459513389,-0.23151064703379684,Hotel,travel
+686,Hammersmith and Fulham,51.4927,-0.2339,"Ravenscourt Park, Bus Stop D",51.493977373100506,-0.23598975607878,Bus Stop,travel
+687,Hammersmith and Fulham,51.4927,-0.2339,Ravenscourt Park Bus Stop F,51.494086083844884,-0.23586958652935913,Bus Stop,travel
+688,Hammersmith and Fulham,51.4927,-0.2339,WP Fish X Chips,51.49352645480047,-0.23944187618408494,English Restaurant,food
+689,Hammersmith and Fulham,51.4927,-0.2339,Savers,51.492592674354746,-0.23032878331917336,Cosmetics Shop,shops
+690,Hammersmith and Fulham,51.4927,-0.2339,Mays Cafe,51.494483032378824,-0.23176070919001363,Thai Restaurant,food
+691,Hammersmith and Fulham,51.4927,-0.2339,Best Western Plus Seraphine Hammersmith Hotel,51.492662021639475,-0.22964563967434515,Hotel,travel
+692,Hammersmith and Fulham,51.4927,-0.2339,W6 Garden Centre Cafe,51.494217,-0.23755822,Café,food
+693,Hammersmith and Fulham,51.4927,-0.2339,Cafe Gingko,51.49417339129986,-0.2377739508603287,Coffee Shop,food
+694,Hammersmith and Fulham,51.4927,-0.2339,What The Fish,51.493488015507985,-0.23918874738582938,Fish & Chips Shop,food
+695,Hammersmith and Fulham,51.4927,-0.2339,The Butchers Hook,51.49649423763226,-0.23493115841478487,Pub,nightlife
+696,Hammersmith and Fulham,51.4927,-0.2339,SO Sienna,51.49446111246319,-0.22821448631633562,Hotel,travel
+697,Hammersmith and Fulham,51.4927,-0.2339,Westcroft Square,51.49351546399924,-0.24019336837470273,Plaza,parks_outdoors
+698,Hammersmith and Fulham,51.4927,-0.2339,Anarkali,51.493491095495635,-0.24026845892012064,Indian Restaurant,food
+699,Haringey,51.6,-0.1119,The Prince,51.60111141987152,-0.11614279557546711,Bar,nightlife
+700,Haringey,51.6,-0.1119,Paramount,51.59804552104334,-0.11062255323532641,Indian Restaurant,food
+701,Haringey,51.6,-0.1119,Fatisa,51.603203449267326,-0.11196553973941793,Italian Restaurant,food
+702,Haringey,51.6,-0.1119,Green Rooms Bar,51.597033,-0.110585,Hotel Bar,travel
+703,Haringey,51.6,-0.1119,Nando's,51.596894,-0.108641,Portuguese Restaurant,food
+704,Haringey,51.6,-0.1119,Crystal Restaurant,51.59620446136296,-0.10910048837218085,Mediterranean Restaurant,food
+705,Haringey,51.6,-0.1119,The Gym,51.59733198375617,-0.10803587749917251,Gym / Fitness Center,building
+706,Haringey,51.6,-0.1119,Woodside Park,51.60400410883624,-0.11148300021886826,Park,parks_outdoors
+707,Haringey,51.6,-0.1119,KFC,51.597760922896306,-0.1105070114135742,Fast Food Restaurant,food
+708,Haringey,51.6,-0.1119,Kebap Delight,51.59727412291253,-0.1100359352056433,Fast Food Restaurant,food
+709,Haringey,51.6,-0.1119,Spouter's Corner (Wetherspoon),51.59663541307005,-0.1091361872131581,Pub,nightlife
+710,Haringey,51.6,-0.1119,Coffee Break,51.59691370429105,-0.11197937228349464,Café,food
+711,Haringey,51.6,-0.1119,Sainsbury's Local,51.59688558605804,-0.10943326509823575,Grocery Store,shops
+712,Haringey,51.6,-0.1119,Vue,51.5970425435022,-0.10935430036525733,Movie Theater,arts_entertainment
+713,Haringey,51.6,-0.1119,Greggs,51.59604290324692,-0.10904158885779844,Bakery,food
+714,Haringey,51.6,-0.1119,Morrisons Wood Green,51.596406274079285,-0.11037995353295135,Supermarket,shops
+715,Haringey,51.6,-0.1119,McDonald's,51.59689863729337,-0.109453465286303,Fast Food Restaurant,food
+716,Haringey,51.6,-0.1119,Akdeniz Gida Pazari,51.596733195587525,-0.11271248705682965,Convenience Store,shops
+717,Harrow,51.5898,-0.3346,Shree Krishna Vada Pav (SKVP),51.5873313143648,-0.3322112605157876,Indian Restaurant,food
+718,Harrow,51.5898,-0.3346,Costa Coffee,51.58590203077939,-0.33399621226379483,Coffee Shop,food
+719,Harrow,51.5898,-0.3346,Sainsbury's Local,51.59342508,-0.33490794,Convenience Store,shops
+720,Harrow,51.5898,-0.3346,Tesco,51.5863702,-0.3336641,Supermarket,shops
+721,Harrow,51.5898,-0.3346,Cooper Thai,51.592627,-0.333901,Thai Restaurant,food
+722,Harrow,51.5898,-0.3346,Sam's Chicken,51.59352433661271,-0.33516451291556315,Fast Food Restaurant,food
+723,Havering,51.5812,0.1837,Premiere Cinema,51.579411337301266,0.18565672644446166,Multiplex,arts_entertainment
+724,Havering,51.5812,0.1837,Debenhams,51.579097345896464,0.18272017470028412,Department Store,shops
+725,Havering,51.5812,0.1837,The Bull,51.57952051276072,0.18287109557333414,Pub,nightlife
+726,Havering,51.5812,0.1837,Marks & Spencer,51.577580798421614,0.1823273254457017,Clothing Store,shops
+727,Havering,51.5812,0.1837,Romford Shopping Hall,51.57981648777527,0.18234729766845703,Shopping Mall,shops
+728,Havering,51.5812,0.1837,Teapot Cafe,51.579782,0.182306,Café,food
+729,Havering,51.5812,0.1837,Home Bargains,51.5788197,0.1802952,Discount Store,shops
+730,Havering,51.5812,0.1837,Waterstones,51.57752295146222,0.18303038574265112,Bookstore,shops
+731,Havering,51.5812,0.1837,H&M,51.5786862,0.1847584,Clothing Store,shops
+732,Havering,51.5812,0.1837,The Mercury Mall,51.57945321053034,0.1855456604995918,Shopping Mall,shops
+733,Havering,51.5812,0.1837,Costa Coffee,51.579747,0.182072,Coffee Shop,food
+734,Havering,51.5812,0.1837,McDonald's,51.57940979512343,0.1853771656966463,Fast Food Restaurant,food
+735,Havering,51.5812,0.1837,The Liberty,51.578072716981296,0.18319641467620418,Shopping Mall,shops
+736,Havering,51.5812,0.1837,Asda,51.57928,0.18514,Supermarket,shops
+737,Havering,51.5812,0.1837,Wilko,51.578662,0.1858596,Furniture / Home Store,shops
+738,Havering,51.5812,0.1837,Topshop,51.57840018947578,0.18116281216055652,Women's Store,shops
+739,Havering,51.5812,0.1837,Romford Market,51.57896003112218,0.18034660538201328,Plaza,parks_outdoors
+740,Havering,51.5812,0.1837,Golden Lion,51.578376254604535,0.18030901504829744,Bar,nightlife
+741,Havering,51.5812,0.1837,Greggs,51.57846970266959,0.18158555030822754,Bakery,food
+742,Havering,51.5812,0.1837,Starbucks,51.577947,0.182874,Coffee Shop,food
+743,Havering,51.5812,0.1837,BB's Bakers + Baristas,51.57940815357753,0.18563381720906616,Coffee Shop,food
+744,Havering,51.5812,0.1837,Boots,51.577127,0.182998,Pharmacy,shops
+745,Havering,51.5812,0.1837,Next,51.57849849,0.18450259,Clothing Store,shops
+746,Havering,51.5812,0.1837,Burger King,51.577084319148504,0.18138023772633005,Fast Food Restaurant,food
+747,Havering,51.5812,0.1837,Premier Inn Romford Central,51.5775533,0.1867607,Hotel,travel
+748,Havering,51.5812,0.1837,Subway,51.579498,0.185526,Sandwich Place,food
+749,Havering,51.5812,0.1837,Cafe Bueno,51.578343672899194,0.18014344769083177,Café,food
+750,Havering,51.5812,0.1837,Argos,51.579603,0.182668,Warehouse Store,shops
+751,Havering,51.5812,0.1837,Primark,51.577703843691616,0.18162628212019172,Clothing Store,shops
+752,Havering,51.5812,0.1837,hmv,51.57746532814951,0.1828063091926424,Music Store,shops
+753,Havering,51.5812,0.1837,Tesco Express,51.58218659928835,0.18707066774368286,Grocery Store,shops
+754,Havering,51.5812,0.1837,Greggs,51.57693429306766,0.18189248633853336,Bakery,food
+755,Havering,51.5812,0.1837,Costa Coffee,51.57729628235171,0.18334995220445757,Coffee Shop,food
+756,Havering,51.5812,0.1837,Cafe Fino,51.57984053406012,0.18303073027337396,Café,food
+757,Havering,51.5812,0.1837,TfL Bus Stop - Romford Market - G (50889),51.580538,0.182905,Bus Stop,travel
+758,Havering,51.5812,0.1837,WHSmith,51.57785200116469,0.18345154232792993,Bookstore,shops
+759,Havering,51.5812,0.1837,Liberty Bell (Beefeater),51.577878487755726,0.18612966342500153,Pub,nightlife
+760,Havering,51.5812,0.1837,Cafe Chateau,51.578920526147215,0.17985508445006929,Café,food
+761,Havering,51.5812,0.1837,Sports Direct,51.576985450654554,0.18343417300382903,Sporting Goods Shop,shops
+762,Havering,51.5812,0.1837,Harefield Manor,51.583203275903976,0.1900935173034668,Hotel,travel
+763,Hillingdon,51.5441,-0.476,Nando's,51.54485377899289,-0.47653393127537735,Portuguese Restaurant,food
+764,Hillingdon,51.5441,-0.476,Nabrasa,51.5469053551733,-0.47854726171986567,Brazilian Restaurant,food
+765,Hillingdon,51.5441,-0.476,wagamama,51.54495013579234,-0.4768548509914288,Asian Restaurant,food
+766,Hillingdon,51.5441,-0.476,Coffee Break,51.545263203860536,-0.4774325657724995,Coffee Shop,food
+767,Hillingdon,51.5441,-0.476,Starbucks,51.545742,-0.478584,Coffee Shop,food
+768,Hillingdon,51.5441,-0.476,Disney Store,51.54572154746088,-0.4772199027731731,Toy / Game Store,shops
+769,Hillingdon,51.5441,-0.476,Virgin Active,51.54478239644773,-0.4783279660201806,Gym / Fitness Center,building
+770,Hillingdon,51.5441,-0.476,Pret A Manger,51.54613020999364,-0.4790993771317845,Sandwich Place,food
+771,Hillingdon,51.5441,-0.476,Odeon,51.5450969,-0.4757582,Multiplex,arts_entertainment
+772,Hillingdon,51.5441,-0.476,Bella Italia,51.54512933193958,-0.4769562711639992,Italian Restaurant,food
+773,Hillingdon,51.5441,-0.476,Caffè Nero,51.5453728589683,-0.4778289933977688,Coffee Shop,food
+774,Hillingdon,51.5441,-0.476,Five Guys,51.54639244994654,-0.47927164473367156,Burger Joint,food
+775,Hillingdon,51.5441,-0.476,Debenhams,51.54519333951645,-0.47599219067709,Department Store,shops
+776,Hillingdon,51.5441,-0.476,H&M,51.5456185,-0.476025,Clothing Store,shops
+777,Hillingdon,51.5441,-0.476,Costa Coffee,51.54654131856394,-0.47991182909923236,Coffee Shop,food
+778,Hillingdon,51.5441,-0.476,Harris + Hoole,51.54615168152126,-0.4793525112889039,Coffee Shop,food
+779,Hillingdon,51.5441,-0.476,The Queens Head,51.54586751308795,-0.4798830270233304,Pub,nightlife
+780,Hillingdon,51.5441,-0.476,hmv,51.545703103628156,-0.4764340490911536,Music Store,shops
+781,Hillingdon,51.5441,-0.476,Peri-Peri Cottage,51.543798548175126,-0.4737640618627589,Fast Food Restaurant,food
+782,Hillingdon,51.5441,-0.476,Lidl,51.54560848,-0.47672101,Supermarket,shops
+783,Hillingdon,51.5441,-0.476,Topshop,51.545556648279955,-0.4766308031679558,Women's Store,shops
+784,Hillingdon,51.5441,-0.476,PizzaExpress,51.54505,-0.4748082,Pizza Place,food
+785,Hillingdon,51.5441,-0.476,Red Iron Burgers,51.54485263497405,-0.47684612053578257,Burger Joint,food
+786,Hillingdon,51.5441,-0.476,Costa Coffee,51.545364,-0.47584,Coffee Shop,food
+787,Hillingdon,51.5441,-0.476,The Raj,51.54520446154442,-0.48056676064021253,Indian Restaurant,food
+788,Hillingdon,51.5441,-0.476,Prezzo,51.54732863553141,-0.4798448262226882,Italian Restaurant,food
+789,Hillingdon,51.5441,-0.476,Subway,51.544372366538205,-0.4750457517305138,Sandwich Place,food
+790,Hillingdon,51.5441,-0.476,Boots,51.54643512880015,-0.4788172245025635,Pharmacy,shops
+791,Hillingdon,51.5441,-0.476,Next,51.5455862098678,-0.476712314655682,Clothing Store,shops
+792,Hillingdon,51.5441,-0.476,ASK Italian,51.54750531634731,-0.48045503420087243,Italian Restaurant,food
+793,Hillingdon,51.5441,-0.476,New Look,51.54516967223647,-0.47636345767205057,Clothing Store,shops
+794,Hillingdon,51.5441,-0.476,Wilko,51.545844648508236,-0.4818803071975708,Furniture / Home Store,shops
+795,Hillingdon,51.5441,-0.476,truGym,51.544785754819614,-0.4781961489782995,Gym,building
+796,Hillingdon,51.5441,-0.476,Waterstones,51.54452292863072,-0.4813265369706142,Bookstore,shops
+797,Hillingdon,51.5441,-0.476,Pizza Hut,51.54723823399297,-0.4795290326773056,Pizza Place,food
+798,Hillingdon,51.5441,-0.476,Sainsbury's,51.54854,-0.4750316,Supermarket,shops
+799,Hillingdon,51.5441,-0.476,intu Uxbridge,51.54561049157136,-0.4769518083421759,Shopping Mall,shops
+800,Hillingdon,51.5441,-0.476,Greggs,51.545127054496206,-0.47718375921249384,Bakery,food
+801,Hillingdon,51.5441,-0.476,Boots,51.54548899384484,-0.47737807630937823,Pharmacy,shops
+802,Hillingdon,51.5441,-0.476,Currys PC World,51.54556040478507,-0.4784075944162416,Electronics Store,shops
+803,Hillingdon,51.5441,-0.476,Chiquito,51.5451832,-0.4758196,Mexican Restaurant,food
+804,Hillingdon,51.5441,-0.476,The Three Tuns,51.54576710737173,-0.47880040311976935,Bar,nightlife
+805,Hillingdon,51.5441,-0.476,Iceland,51.546189173073536,-0.48091131669521936,Grocery Store,shops
+806,Hillingdon,51.5441,-0.476,Zizzi,51.54483768038633,-0.4749091741753091,Italian Restaurant,food
+807,Hillingdon,51.5441,-0.476,Marks & Spencer,51.54675296357887,-0.4801803429155276,Clothing Store,shops
+808,Hillingdon,51.5441,-0.476,Creams,51.54836692770036,-0.47778795380241135,Dessert Shop,food
+809,Hillingdon,51.5441,-0.476,McDonald's,51.545782,-0.477499,Fast Food Restaurant,food
+810,Hillingdon,51.5441,-0.476,Costa Coffee,51.546016802685685,-0.4789503324811301,Coffee Shop,food
+811,Hillingdon,51.5441,-0.476,Costa Coffee,51.54597132426771,-0.4752844977999124,Coffee Shop,food
+812,Hillingdon,51.5441,-0.476,Build-A-Bear Workshop,51.545641,-0.476545,Toy / Game Store,shops
+813,Hillingdon,51.5441,-0.476,Vodafone,51.545721905649614,-0.4771858394019546,Mobile Phone Shop,shops
+814,Hillingdon,51.5441,-0.476,River Island,51.545670495990656,-0.47722851016419565,Clothing Store,shops
+815,Hillingdon,51.5441,-0.476,Menkind,51.545600549373646,-0.4763616474844655,Gift Shop,shops
+816,Hillingdon,51.5441,-0.476,The Houmous Bar,51.545732895673545,-0.4770928812498968,Fast Food Restaurant,food
+817,Hillingdon,51.5441,-0.476,Tai Pan,51.544678598784685,-0.4813322484681749,Chinese Restaurant,food
+818,Hillingdon,51.5441,-0.476,Sourcing International UK Ltd,51.54647040451375,-0.47695795978292765,Lighting Store,shops
+819,Hillingdon,51.5441,-0.476,Uxbridge London Underground Station,51.5465544338025,-0.4778850351782727,Metro Station,travel
+820,Hillingdon,51.5441,-0.476,Uxbridge Station Sidings,51.54682830526658,-0.47673560427424955,Platform,travel
+821,Hillingdon,51.5441,-0.476,WHSmith,51.547068877422426,-0.4802078200438018,Bookstore,shops
+822,Hillingdon,51.5441,-0.476,Pavilions,51.5463002385277,-0.4807884275345185,Shopping Mall,shops
+823,Hounslow,51.4746,-0.368,Lampton Park,51.47387217574276,-0.37078857421875,Park,parks_outdoors
+824,Hounslow,51.4746,-0.368,Cafe Venezia,51.470974804905694,-0.3670542757792841,Café,food
+825,Hounslow,51.4746,-0.368,Civic Guest House,51.47372699972369,-0.3656835967222583,Bed & Breakfast,travel
+826,Hounslow,51.4746,-0.368,Americano,51.47104081541913,-0.36697966730219356,Chinese Restaurant,food
+827,Islington,51.5416,-0.1022,Udderlicious,51.54230964083462,-0.10302011166990502,Ice Cream Shop,food
+828,Islington,51.5416,-0.1022,Little Bat,51.5431074461572,-0.10383483249370395,Cocktail Bar,nightlife
+829,Islington,51.5416,-0.1022,Ottolenghi,51.539715736121565,-0.10231434330256582,Mediterranean Restaurant,food
+830,Islington,51.5416,-0.1022,The Sampler,51.5427599653491,-0.1030566858565771,Liquor Store,shops
+831,Islington,51.5416,-0.1022,Almeida Theatre,51.53961999832438,-0.10284453933909748,Theater,arts_entertainment
+832,Islington,51.5416,-0.1022,Smokehouse,51.54266538232297,-0.09972963075119065,Pub,nightlife
+833,Islington,51.5416,-0.1022,The Taproom,51.54078228499395,-0.10270445216114005,Pub,nightlife
+834,Islington,51.5416,-0.1022,Islington Assembly Hall,51.54163145937378,-0.10274357625026251,Music Venue,arts_entertainment
+835,Islington,51.5416,-0.1022,Compton Arms,51.54367986730409,-0.10201346947581519,Pub,nightlife
+836,Islington,51.5416,-0.1022,Sefton,51.54262522852186,-0.10331869125366211,Boutique,shops
+837,Islington,51.5416,-0.1022,Laki Kane,51.53994665641483,-0.1025156713110661,Tiki Bar,nightlife
+838,Islington,51.5416,-0.1022,Zaffrani's,51.53925523720228,-0.10120195226035689,Indian Restaurant,food
+839,Islington,51.5416,-0.1022,twentytwentyone,51.54091942397131,-0.10267976072540125,Furniture / Home Store,shops
+840,Islington,51.5416,-0.1022,Myddleton Arms,51.5417212619542,-0.09784740723840467,Pub,nightlife
+841,Islington,51.5416,-0.1022,Oliver Bonas,51.540068420005746,-0.1027725871383609,Women's Store,shops
+842,Islington,51.5416,-0.1022,Pera Restaurant,51.54128944579745,-0.10281872155456659,Turkish Restaurant,food
+843,Islington,51.5416,-0.1022,MEAT Liquor,51.53915418061159,-0.10284391706196584,Burger Joint,food
+844,Islington,51.5416,-0.1022,Le Mercury,51.539697,-0.102715,French Restaurant,food
+845,Islington,51.5416,-0.1022,La Petite Auberge,51.5399049,-0.102532,French Restaurant,food
+846,Islington,51.5416,-0.1022,Union Chapel,51.544803783232894,-0.10258913040161131,Music Venue,arts_entertainment
+847,Islington,51.5416,-0.1022,Romeo's Sugar Free Bakery,51.54170393637506,-0.10297929669907793,Bakery,food
+848,Islington,51.5416,-0.1022,Little Angel Theatre,51.53875877049495,-0.10129533420847975,Theater,arts_entertainment
+849,Islington,51.5416,-0.1022,Aria Shop,51.54116611297945,-0.10320935027557819,Furniture / Home Store,shops
+850,Islington,51.5416,-0.1022,Gem Restaurant,51.54283462779557,-0.103119206596303,Middle Eastern Restaurant,food
+851,Islington,51.5416,-0.1022,Paper Mache Tiger,51.539117570678094,-0.10037466449870135,Boutique,shops
+852,Islington,51.5416,-0.1022,The Four Sisters,51.543166723828115,-0.10289324671656103,Cocktail Bar,nightlife
+853,Islington,51.5416,-0.1022,BabaBoom,51.54239594482771,-0.10307489978932786,Kebab Restaurant,food
+854,Islington,51.5416,-0.1022,Hoxley and Porter,51.54036051067817,-0.10298320053930492,Cocktail Bar,nightlife
+855,Islington,51.5416,-0.1022,After Noah,51.53856947253504,-0.10234069311960248,Gift Shop,shops
+856,Islington,51.5416,-0.1022,Steve Hatt,51.53858794839484,-0.09904121479314358,Fish Market,shops
+857,Islington,51.5416,-0.1022,Raabs The Bakers,51.539462940929226,-0.09776832486951217,Bakery,food
+858,Islington,51.5416,-0.1022,The Blue Legume,51.541670332528646,-0.10298137420325185,Mediterranean Restaurant,food
+859,Islington,51.5416,-0.1022,Belle Époque Patisserie,51.54298196512904,-0.10315273207810749,Bakery,food
+860,Islington,51.5416,-0.1022,Fig & Olive,51.5402096667282,-0.1025871179781961,Bistro,food
+861,Islington,51.5416,-0.1022,Benita Bakery,51.544830657126425,-0.10337429840359222,Bakery,food
+862,Islington,51.5416,-0.1022,Amorino,51.53803391515425,-0.10258298416398652,Ice Cream Shop,food
+863,Islington,51.5416,-0.1022,El Inca Plebeyo,51.53998859119499,-0.0968242898402462,Latin American Restaurant,food
+864,Islington,51.5416,-0.1022,The Life Centre Islington,51.538055727558145,-0.09917056229039065,Yoga Studio,shops
+865,Islington,51.5416,-0.1022,Ray Stitch Haberdashery Shop and Café,51.53843244328264,-0.09925789892367093,Hobby Shop,shops
+866,Islington,51.5416,-0.1022,King's Head Theatre Pub,51.53824942522654,-0.10240414144742085,Pub,nightlife
+867,Islington,51.5416,-0.1022,Planet Organic,51.537966952053225,-0.09967632951781946,Organic Grocery,shops
+868,Islington,51.5416,-0.1022,JOE & THE JUICE,51.5391651,-0.1021434,Juice Bar,food
+869,Islington,51.5416,-0.1022,The Drapers Arms,51.5405099646953,-0.10848416552284534,Pub,nightlife
+870,Islington,51.5416,-0.1022,Maison D'Etre Cafe,51.545957021137376,-0.10218431550829268,Café,food
+871,Islington,51.5416,-0.1022,The Regent,51.538951990339385,-0.10680933702169067,Pub,nightlife
+872,Islington,51.5416,-0.1022,St. Mary's Church Garden,51.53835149917392,-0.10131306756797226,Garden,parks_outdoors
+873,Islington,51.5416,-0.1022,Gallipoli,51.5376726088805,-0.10282812512743113,Middle Eastern Restaurant,food
+874,Islington,51.5416,-0.1022,Black Axe Mangal,51.545908,-0.102085,Turkish Restaurant,food
+875,Islington,51.5416,-0.1022,Rosa's Thai Cafe,51.53756325962052,-0.10313467193591706,Thai Restaurant,food
+876,Islington,51.5416,-0.1022,Flashback Records,51.53764585204391,-0.10005494400651446,Record Shop,shops
+877,Islington,51.5416,-0.1022,Kilis Kitchen,51.53753034650363,-0.10301627770709167,Mediterranean Restaurant,food
+878,Islington,51.5416,-0.1022,Akari,51.540630621528756,-0.09582973009562311,Japanese Restaurant,food
+879,Islington,51.5416,-0.1022,Canonbury Square,51.54399405692771,-0.09978932132635372,Park,parks_outdoors
+880,Islington,51.5416,-0.1022,Lucky Chip,51.53726994181427,-0.10052886763768511,Burger Joint,food
+881,Islington,51.5416,-0.1022,Mem & Laz,51.53756623021478,-0.10335246233622011,Mediterranean Restaurant,food
+882,Islington,51.5416,-0.1022,La Farola Cafe & Bistro,51.537562114828525,-0.10292747297945617,Spanish Restaurant,food
+883,Islington,51.5416,-0.1022,The Canonbury Tavern,51.544634011126114,-0.0976465584686841,Pub,nightlife
+884,Islington,51.5416,-0.1022,Le Sacre Coeur,51.53757191631713,-0.10363352447749476,French Restaurant,food
+885,Islington,51.5416,-0.1022,Slim Jim's Liquor Store,51.538071142485975,-0.10265074601762622,Dive Bar,nightlife
+886,Islington,51.5416,-0.1022,Humble Grape,51.53755276310496,-0.10368527508833165,Wine Bar,food
+887,Islington,51.5416,-0.1022,MSH Wellbeing,51.53925574672268,-0.10598226414552413,Spa,shops
+888,Islington,51.5416,-0.1022,La Vita e Bella,51.5375624304,-0.10351472339164146,Italian Restaurant,food
+889,Islington,51.5416,-0.1022,Nuffield Health Fitness & Wellbeing Gym,51.537218821893276,-0.1016543698827531,Gym / Fitness Center,building
+890,Islington,51.5416,-0.1022,Viet Garden,51.53914539974465,-0.10672757731959115,Vietnamese Restaurant,food
+891,Islington,51.5416,-0.1022,Pistachio & Pickle,51.539809048722304,-0.10653640755144013,Café,food
+892,Islington,51.5416,-0.1022,Moving Arts Base,51.53913217344293,-0.10624191397793892,Dance Studio,arts_entertainment
+893,Islington,51.5416,-0.1022,The Foxglove,51.539167,-0.106877,Pub,nightlife
+894,Islington,51.5416,-0.1022,Lonsdale Square,51.53951189519262,-0.10758242007441826,Park,parks_outdoors
+895,Kensington and Chelsea,51.502,-0.1947,The Ivy Kensington Brasserie,51.501452908233134,-0.19215626946783523,Restaurant,food
+896,Kensington and Chelsea,51.502,-0.1947,COS,51.500827100536966,-0.19368672515682378,Clothing Store,shops
+897,Kensington and Chelsea,51.502,-0.1947,Yashin Sushi,51.50050941488055,-0.19550718699524555,Sushi Restaurant,food
+898,Kensington and Chelsea,51.502,-0.1947,Ole & Steen,51.5015918217524,-0.19165386933940132,Bakery,food
+899,Kensington and Chelsea,51.502,-0.1947,Five Guys,51.50004949330138,-0.19538131706110562,Burger Joint,food
+900,Kensington and Chelsea,51.502,-0.1947,Dishoom,51.501301447858175,-0.1911703486882197,Indian Restaurant,food
+901,Kensington and Chelsea,51.502,-0.1947,Japan House,51.50148903103995,-0.19167029084391263,Art Gallery,arts_entertainment
+902,Kensington and Chelsea,51.502,-0.1947,Pret A Manger,51.50067069724504,-0.19249931708912268,Sandwich Place,food
+903,Kensington and Chelsea,51.502,-0.1947,Equinox Kensington,51.501369268605835,-0.19163399656567257,Gym,building
+904,Kensington and Chelsea,51.502,-0.1947,Maggie Jones's,51.50293741313287,-0.19128853311093627,English Restaurant,food
+905,Kensington and Chelsea,51.502,-0.1947,Warner Music,51.50010373667951,-0.1929431083474267,Recording Studio,building
+906,Kensington and Chelsea,51.502,-0.1947,Elephant & Castle,51.50293824858367,-0.19358488146517286,Pub,nightlife
+907,Kensington and Chelsea,51.502,-0.1947,Piano Bar,51.50115184507191,-0.19284614401409664,Piano Bar,arts_entertainment
+908,Kensington and Chelsea,51.502,-0.1947,LOLA's Cupcakes,51.500653827996906,-0.19261046617033759,Cupcake Shop,food
+909,Kensington and Chelsea,51.502,-0.1947,Ben's Cookies,51.50071646017061,-0.19251596691717848,Bakery,food
+910,Kensington and Chelsea,51.502,-0.1947,Whole Foods Market,51.50199543220049,-0.19033167170443474,Grocery Store,shops
+911,Kensington and Chelsea,51.502,-0.1947,Bill's Restaurant,51.50090639841593,-0.19270827208580038,English Restaurant,food
+912,Kensington and Chelsea,51.502,-0.1947,Oliver Bonas,51.5006701291789,-0.19347923248881216,Women's Store,shops
+913,Kensington and Chelsea,51.502,-0.1947,Akira,51.501433,-0.191778,Japanese Restaurant,food
+914,Kensington and Chelsea,51.502,-0.1947,JOE & THE JUICE,51.502339,-0.189985,Juice Bar,food
+915,Kensington and Chelsea,51.502,-0.1947,Leon,51.50075888612197,-0.1925385770678294,Fast Food Restaurant,food
+916,Kensington and Chelsea,51.502,-0.1947,Massimo Dutti,51.50094971181055,-0.1933424765970157,Clothing Store,shops
+917,Kensington and Chelsea,51.502,-0.1947,Lounge Cafe @ Equinox,51.50134248618405,-0.1916769657253744,Juice Bar,food
+918,Kensington and Chelsea,51.502,-0.1947,Waterstones,51.50001214430757,-0.1958525823398831,Bookstore,shops
+919,Kensington and Chelsea,51.502,-0.1947,Boots,51.50080370315382,-0.1931157119886393,Pharmacy,shops
+920,Kensington and Chelsea,51.502,-0.1947,Candella Tea Room,51.50401681249331,-0.19222890818485272,Tea Room,food
+921,Kensington and Chelsea,51.502,-0.1947,My Old Dutch,51.502496806519254,-0.1911583837565243,Creperie,food
+922,Kensington and Chelsea,51.502,-0.1947,Café Phillies,51.49972550096316,-0.19774730231827767,Café,food
+923,Kensington and Chelsea,51.502,-0.1947,Jumo,51.503975,-0.191957,Café,food
+924,Kensington and Chelsea,51.502,-0.1947,Ffionas,51.504202626582824,-0.19270864310786232,Restaurant,food
+925,Kensington and Chelsea,51.502,-0.1947,Core Collective,51.499588979407925,-0.1986304181543621,Gym / Fitness Center,building
+926,Kensington and Chelsea,51.502,-0.1947,St Mary Abbots Gardens,51.502088977567496,-0.1928843573751821,Garden,parks_outdoors
+927,Kensington and Chelsea,51.502,-0.1947,Balans Soho Society,51.50014382439825,-0.19563557643512677,Café,food
+928,Kensington and Chelsea,51.502,-0.1947,Melabes,51.4995891277112,-0.1971653098569216,Mediterranean Restaurant,food
+929,Kensington and Chelsea,51.502,-0.1947,Randa By Maroush,51.50333595481576,-0.19178288523185527,Lebanese Restaurant,food
+930,Kensington and Chelsea,51.502,-0.1947,Virgin Active,51.50264593804746,-0.18962425396728122,Gym / Fitness Center,building
+931,Kensington and Chelsea,51.502,-0.1947,The Design Museum,51.49978541909211,-0.1996407067827977,Museum,arts_entertainment
+932,Kensington and Chelsea,51.502,-0.1947,UNIQLO,51.502048109234394,-0.19036150430533527,Clothing Store,shops
+933,Kensington and Chelsea,51.502,-0.1947,Montparnasse Cafe,51.500528,-0.189055,French Restaurant,food
+934,Kensington and Chelsea,51.502,-0.1947,Byron,51.499343504607694,-0.19844506466245093,Burger Joint,food
+935,Kensington and Chelsea,51.502,-0.1947,Kensington Square Gardens,51.50048938928011,-0.19074364307969827,Garden,parks_outdoors
+936,Kensington and Chelsea,51.502,-0.1947,Ranoush Kensington,51.50168186738477,-0.19145567573282737,Middle Eastern Restaurant,food
+937,Kensington and Chelsea,51.502,-0.1947,The Design Museum Shop,51.49979186846067,-0.19963563701037712,Gift Shop,shops
+938,Kensington and Chelsea,51.502,-0.1947,Nando's,51.49945208655949,-0.19761663550356745,Portuguese Restaurant,food
+939,Kensington and Chelsea,51.502,-0.1947,Royal Garden Hotel,51.50249660625708,-0.1881991514098398,Hotel,travel
+940,Kensington and Chelsea,51.502,-0.1947,The Abingdon,51.49763326378446,-0.19610980383019352,Modern European Restaurant,food
+941,Kensington and Chelsea,51.502,-0.1947,Bone Daddies,51.501654,-0.191107,Ramen Restaurant,food
+942,Kensington and Chelsea,51.502,-0.1947,Cote,51.50209151556875,-0.18889848304386928,French Restaurant,food
+943,Kensington and Chelsea,51.502,-0.1947,Locanda Ottoemezzo,51.50035385841355,-0.18835876439912524,Italian Restaurant,food
+944,Kensington and Chelsea,51.502,-0.1947,wagamama,51.50249923657687,-0.18905139288767714,Asian Restaurant,food
+945,Kensington and Chelsea,51.502,-0.1947,Kitchen W8,51.49907813185588,-0.19688201469642694,Modern European Restaurant,food
+946,Kensington and Chelsea,51.502,-0.1947,Stick & Bowl,51.502264,-0.188756,Chinese Restaurant,food
+947,Kensington and Chelsea,51.502,-0.1947,Cafe De Fred,51.49859033623235,-0.19830231545251104,Breakfast Spot,food
+948,Kensington and Chelsea,51.502,-0.1947,Nouvelle Delicatessen,51.497657518404225,-0.19603783142883674,Café,food
+949,Kensington and Chelsea,51.502,-0.1947,Waitrose & Partners,51.49905451561298,-0.19805940080129858,Supermarket,shops
+950,Kensington and Chelsea,51.502,-0.1947,Gail’s Bakery,51.498864146102214,-0.1996829409344499,Bakery,food
+951,Kensington and Chelsea,51.502,-0.1947,Urban Outfitters,51.50232611807121,-0.18923351940392405,Clothing Store,shops
+952,Kensington and Chelsea,51.502,-0.1947,Holland Park Tennis Court,51.50070194764357,-0.20159482955932617,Tennis Court,arts_entertainment
+953,Kensington and Chelsea,51.502,-0.1947,Lupita,51.50242936640526,-0.1878334643876111,Mexican Restaurant,food
+954,Kensington and Chelsea,51.502,-0.1947,Park Terrace Restaurant,51.5026617981841,-0.18762368464804546,Restaurant,food
+955,Kensington and Chelsea,51.502,-0.1947,Spaghetti House,51.50242085466791,-0.18791868361531489,Italian Restaurant,food
+956,Kensington and Chelsea,51.502,-0.1947,Sainsbury's Local,51.504337711752704,-0.19329426253279908,Grocery Store,shops
+957,Kensington and Chelsea,51.502,-0.1947,Safestay,51.50279680408019,-0.20177252902058548,Hostel,travel
+958,Kensington and Chelsea,51.502,-0.1947,Goat Tavern,51.50241548980055,-0.18766960592390777,Pub,nightlife
+959,Kensington and Chelsea,51.502,-0.1947,Japanese Gallery,51.505183171653684,-0.193709135055542,Art Gallery,arts_entertainment
+960,Kensington and Chelsea,51.502,-0.1947,Vicarage Gate,51.504741501780245,-0.19188273437958006,Hotel,travel
+961,Kensington and Chelsea,51.502,-0.1947,The Vicarage Hotel,51.50518752646866,-0.19246928623184636,Hotel,travel
+962,Kensington and Chelsea,51.502,-0.1947,Cobella Akqa,51.50235678165429,-0.18789059303410208,Spa,shops
+963,Kensington and Chelsea,51.502,-0.1947,Best Western Seraphine Kensington Gardens,51.5022447138456,-0.18786191940307617,Hotel,travel
+964,Kingston upon Thames,51.4085,-0.3064,Stein's,51.407100087065395,-0.307940201807341,German Restaurant,food
+965,Kingston upon Thames,51.4085,-0.3064,Kingston Market Place,51.409599616965345,-0.30626473374673047,Market,shops
+966,Kingston upon Thames,51.4085,-0.3064,Rose Theatre,51.40855744727109,-0.3073271788761114,Theater,arts_entertainment
+967,Kingston upon Thames,51.4085,-0.3064,Banquet Records,51.40907986317358,-0.3033823389236645,Record Shop,shops
+968,Kingston upon Thames,51.4085,-0.3064,The Ram,51.40814893386028,-0.30776753628503034,Pub,nightlife
+969,Kingston upon Thames,51.4085,-0.3064,Woody's Bar & Kitchen,51.40843571118311,-0.3084652175106273,Pub,nightlife
+970,Kingston upon Thames,51.4085,-0.3064,Lush Spa,51.409761963414155,-0.306059882638704,Cosmetics Shop,shops
+971,Kingston upon Thames,51.4085,-0.3064,Fortunella,51.40925661217915,-0.3057089634720427,Café,food
+972,Kingston upon Thames,51.4085,-0.3064,Local Hero,51.41075276807435,-0.30669370373846916,Café,food
+973,Kingston upon Thames,51.4085,-0.3064,Gourmet Burger Kitchen,51.40778030856613,-0.3078431018326455,Burger Joint,food
+974,Kingston upon Thames,51.4085,-0.3064,Byron,51.40948447987772,-0.3077679228172201,Burger Joint,food
+975,Kingston upon Thames,51.4085,-0.3064,Nando's,51.407030896093175,-0.30777490980025457,Portuguese Restaurant,food
+976,Kingston upon Thames,51.4085,-0.3064,The Terrace Coffee Shop,51.40913142152199,-0.3056848620707033,Coffee Shop,food
+977,Kingston upon Thames,51.4085,-0.3064,Poor Boys,51.409221,-0.306967,Cajun / Creole Restaurant,food
+978,Kingston upon Thames,51.4085,-0.3064,Paul,51.40964066013263,-0.30331401747781933,Bakery,food
+979,Kingston upon Thames,51.4085,-0.3064,Waitrose & Partners,51.411323,-0.30576,Supermarket,shops
+980,Kingston upon Thames,51.4085,-0.3064,Côte Brasserie,51.41050951500649,-0.30818320412343836,French Restaurant,food
+981,Kingston upon Thames,51.4085,-0.3064,wagamama,51.408592927856965,-0.3070452012233318,Asian Restaurant,food
+982,Kingston upon Thames,51.4085,-0.3064,Department of Coffee and Social Affairs,51.41053062490622,-0.3067708979795608,Coffee Shop,food
+983,Kingston upon Thames,51.4085,-0.3064,Las Iguanas,51.40743987517253,-0.3075001631946179,Latin American Restaurant,food
+984,Kingston upon Thames,51.4085,-0.3064,Busaba Eathai,51.410645822741245,-0.3081534170723813,Thai Restaurant,food
+985,Kingston upon Thames,51.4085,-0.3064,John Lewis & Partners,51.41153793111276,-0.3068025165329118,Department Store,shops
+986,Kingston upon Thames,51.4085,-0.3064,HEMA,51.41094373263124,-0.3039473678827794,Furniture / Home Store,shops
+987,Kingston upon Thames,51.4085,-0.3064,Kokoro,51.41108964809127,-0.30186351698818864,Sushi Restaurant,food
+988,Kingston upon Thames,51.4085,-0.3064,7000 Jars Of Beer,51.409777,-0.30551,Beer Bar,nightlife
+989,Kingston upon Thames,51.4085,-0.3064,Chez Lalee,51.40902958122246,-0.3070228091909993,Mexican Restaurant,food
+990,Kingston upon Thames,51.4085,-0.3064,itsu,51.41096487479838,-0.3040924912501116,Sushi Restaurant,food
+991,Kingston upon Thames,51.4085,-0.3064,Patisserie Valerie,51.409163,-0.306346,Café,food
+992,Kingston upon Thames,51.4085,-0.3064,Flying Tiger,51.41078641785881,-0.3026105980748182,Gift Shop,shops
+993,Kingston upon Thames,51.4085,-0.3064,Apple Bentall Centre,51.411548,-0.3051728,Electronics Store,shops
+994,Kingston upon Thames,51.4085,-0.3064,Beanberry,51.41179324945129,-0.3029206146903028,Café,food
+995,Kingston upon Thames,51.4085,-0.3064,UNIQLO,51.410817948940355,-0.30150671798623313,Clothing Store,shops
+996,Kingston upon Thames,51.4085,-0.3064,Waterstones,51.41143485159434,-0.30475203467830164,Bookstore,shops
+997,Kingston upon Thames,51.4085,-0.3064,Caffè Nero,51.41192692964351,-0.3046417718984302,Coffee Shop,food
+998,Kingston upon Thames,51.4085,-0.3064,Al Forno,51.40668083487472,-0.30793059192637423,Italian Restaurant,food
+999,Kingston upon Thames,51.4085,-0.3064,The Gym,51.41021163776408,-0.3020805440832006,Gym / Fitness Center,building
+1000,Kingston upon Thames,51.4085,-0.3064,Starbucks,51.411635,-0.303843,Coffee Shop,food
+1001,Kingston upon Thames,51.4085,-0.3064,Marks & Spencer,51.410706855364786,-0.3037574887275696,Department Store,shops
+1002,Kingston upon Thames,51.4085,-0.3064,Bentalls,51.4117132172073,-0.3047497536488366,Department Store,shops
+1003,Kingston upon Thames,51.4085,-0.3064,Kingston Town Centre,51.41063882072198,-0.3019960188078,Pedestrian Plaza,parks_outdoors
+1004,Kingston upon Thames,51.4085,-0.3064,Stone Pizza,51.411930488071796,-0.3019087962748023,Italian Restaurant,food
+1005,Kingston upon Thames,51.4085,-0.3064,Zizzi,51.40884557836496,-0.3061649880847881,Italian Restaurant,food
+1006,Kingston upon Thames,51.4085,-0.3064,Tortilla,51.411127,-0.305047,Burrito Place,food
+1007,Kingston upon Thames,51.4085,-0.3064,Costa Coffee,51.41166351331284,-0.30473616536484005,Coffee Shop,food
+1008,Kingston upon Thames,51.4085,-0.3064,Hotel Chocolat,51.4103118,-0.30537955462932587,Chocolate Shop,shops
+1009,Kingston upon Thames,51.4085,-0.3064,TK Maxx,51.41115677194544,-0.30734721250924907,Clothing Store,shops
+1010,Kingston upon Thames,51.4085,-0.3064,Cass Art,51.41085941436838,-0.30105166864782557,Arts & Crafts Store,shops
+1011,Kingston upon Thames,51.4085,-0.3064,"""Out of Order"" David Mach Sculpture (Phoneboxes)",51.41084191035575,-0.3008210325123374,Public Art,arts_entertainment
+1012,Kingston upon Thames,51.4085,-0.3064,Starbucks,51.410867,-0.301778,Coffee Shop,food
+1013,Kingston upon Thames,51.4085,-0.3064,The Bentall Centre,51.41163811961829,-0.30475465779443844,Shopping Mall,shops
+1014,Kingston upon Thames,51.4085,-0.3064,"Namu, Taste Of Japan",51.40997834438217,-0.3061319419032775,Japanese Restaurant,food
+1015,Kingston upon Thames,51.4085,-0.3064,Carluccio's,51.40922869627733,-0.3077568157185739,Italian Restaurant,food
+1016,Kingston upon Thames,51.4085,-0.3064,Wafflemeister,51.41065216291735,-0.30228404313895496,Dessert Shop,food
+1017,Kingston upon Thames,51.4085,-0.3064,Riverside Vegetaria,51.40689932047771,-0.30817508697509766,Vegetarian / Vegan Restaurant,food
+1018,Kingston upon Thames,51.4085,-0.3064,The Bishop,51.41034885016206,-0.30822589431600733,Gastropub,food
+1019,Kingston upon Thames,51.4085,-0.3064,Caffè Nero,51.40969032579619,-0.3040327354841274,Coffee Shop,food
+1020,Kingston upon Thames,51.4085,-0.3064,Paperchase,51.41155569412716,-0.30471017444720044,Stationery Store,shops
+1021,Kingston upon Thames,51.4085,-0.3064,Krispy Kreme,51.4116156,-0.3046358,Donut Shop,food
+1022,Kingston upon Thames,51.4085,-0.3064,Moulin Rouge Cafe,51.41129314072284,-0.30183958748002043,Café,food
+1023,Kingston upon Thames,51.4085,-0.3064,Waterstones,51.41106520709634,-0.30105113983154297,Bookstore,shops
+1024,Kingston upon Thames,51.4085,-0.3064,Lakeland,51.410774672811115,-0.30671505888760997,Kitchen Supply Store,shops
+1025,Kingston upon Thames,51.4085,-0.3064,Boots,51.40984499285902,-0.30478655761999107,Pharmacy,shops
+1026,Kingston upon Thames,51.4085,-0.3064,The Druid's Head,51.409224553469656,-0.306402527934294,Pub,nightlife
+1027,Kingston upon Thames,51.4085,-0.3064,Carluccio's,51.4124538684384,-0.3043984980174896,Italian Restaurant,food
+1028,Kingston upon Thames,51.4085,-0.3064,Superdry,51.41149514665936,-0.30470831929792036,Clothing Store,shops
+1029,Kingston upon Thames,51.4085,-0.3064,Browns,51.40941778311161,-0.30842844412488096,Bar,nightlife
+1030,Kingston upon Thames,51.4085,-0.3064,O'Neill's,51.40914958802699,-0.30572427725953766,Irish Pub,nightlife
+1031,Kingston upon Thames,51.4085,-0.3064,The Kingston Mill,51.4070274462298,-0.3079381896335527,Pub,nightlife
+1032,Kingston upon Thames,51.4085,-0.3064,La Fiesta,51.411578014712475,-0.30183915026202224,Café,food
+1033,Kingston upon Thames,51.4085,-0.3064,Greggs,51.40971557016308,-0.3060585626448013,Bakery,food
+1034,Kingston upon Thames,51.4085,-0.3064,Costa Coffee,51.411643981933594,-0.30451399087905884,Coffee Shop,food
+1035,Kingston upon Thames,51.4085,-0.3064,Bill's Restaurant,51.4108998054991,-0.3080087770066035,English Restaurant,food
+1036,Kingston upon Thames,51.4085,-0.3064,Fairfield Recreation Park,51.4055982917572,-0.30270145271428905,Park,parks_outdoors
+1037,Kingston upon Thames,51.4085,-0.3064,Shakeaway,51.41042128883953,-0.3068317916151571,Smoothie Shop,food
+1038,Kingston upon Thames,51.4085,-0.3064,Topshop,51.41087493426483,-0.30360840496584296,Women's Store,shops
+1039,Kingston upon Thames,51.4085,-0.3064,Cheeky  Pea,51.40977416867412,-0.30505524222189195,Falafel Restaurant,food
+1040,Kingston upon Thames,51.4085,-0.3064,The Place To Eat,51.411689996271214,-0.3079431764664279,Restaurant,food
+1041,Kingston upon Thames,51.4085,-0.3064,M&S Café Revive,51.41084856549014,-0.3038036271556837,Café,food
+1042,Kingston upon Thames,51.4085,-0.3064,Subway,51.41008767123782,-0.30672201744833893,Sandwich Place,food
+1043,Kingston upon Thames,51.4085,-0.3064,Zara,51.41150249679704,-0.3048013856201293,Clothing Store,shops
+1044,Kingston upon Thames,51.4085,-0.3064,Montezuma's Chocolate,51.41120727170863,-0.30382590458656217,Candy Store,shops
+1045,Kingston upon Thames,51.4085,-0.3064,Creams,51.41107621939403,-0.30105401393049525,Ice Cream Shop,food
+1046,Kingston upon Thames,51.4085,-0.3064,PizzaExpress,51.406872,-0.307815,Pizza Place,food
+1047,Kingston upon Thames,51.4085,-0.3064,Hollister Co.,51.41165746051333,-0.30467260072254904,Clothing Store,shops
+1048,Kingston upon Thames,51.4085,-0.3064,Greggs,51.41093956833265,-0.30190089083282845,Bakery,food
+1049,Kingston upon Thames,51.4085,-0.3064,Premier Inn London Kingston Upon Thames,51.40946916526795,-0.30098676681518555,Hotel,travel
+1050,Kingston upon Thames,51.4085,-0.3064,Costa Coffee,51.409649,-0.306561,Coffee Shop,food
+1051,Kingston upon Thames,51.4085,-0.3064,Pho Kingston,51.40893137765788,-0.3059630661180698,Vietnamese Restaurant,food
+1052,Kingston upon Thames,51.4085,-0.3064,JD Sports,51.4105961,-0.3049785,Sporting Goods Shop,shops
+1053,Kingston upon Thames,51.4085,-0.3064,Wildwood Kitchen,51.40879331571261,-0.30644346567562514,Italian Restaurant,food
+1054,Kingston upon Thames,51.4085,-0.3064,Gelateria Danieli,51.41203984004296,-0.30488799591753174,Ice Cream Shop,food
+1055,Kingston upon Thames,51.4085,-0.3064,Next,51.4091531205739,-0.306763108445867,Clothing Store,shops
+1056,Kingston upon Thames,51.4085,-0.3064,Comptoir Libanais,51.41077493596033,-0.30807140424244805,Lebanese Restaurant,food
+1057,Kingston upon Thames,51.4085,-0.3064,The Gazebo,51.410117155245686,-0.3082131767174274,Pub,nightlife
+1058,Kingston upon Thames,51.4085,-0.3064,Brook Street Bus Stop F,51.40833,-0.30362204,Bus Stop,travel
+1059,Kingston upon Thames,51.4085,-0.3064,Narenj,51.40717276574147,-0.30809709208905345,Persian Restaurant,food
+1060,Kingston upon Thames,51.4085,-0.3064,Holland & Barrett,51.40939253470959,-0.30540996772404805,Health Food Store,shops
+1061,Kingston upon Thames,51.4085,-0.3064,Eden Kebab,51.40924101315232,-0.30334740367150964,Kebab Restaurant,food
+1062,Kingston upon Thames,51.4085,-0.3064,WHSmith,51.41129000000002,-0.30490800000006857,Bookstore,shops
+1063,Kingston upon Thames,51.4085,-0.3064,COS,51.411512847085866,-0.3048851045183129,Clothing Store,shops
+1064,Lambeth,51.4607,-0.1163,Ritzy Cinema,51.46115325214217,-0.11501312255859375,Indie Movie Theater,arts_entertainment
+1065,Lambeth,51.4607,-0.1163,Franco Manca,51.46204894979302,-0.11372862926493466,Pizza Place,food
+1066,Lambeth,51.4607,-0.1163,David Bowie mural,51.46266393516455,-0.11540472507476807,Street Art,arts_entertainment
+1067,Lambeth,51.4607,-0.1163,Barrio Brixton,51.4606582873966,-0.11829474525408244,Cocktail Bar,nightlife
+1068,Lambeth,51.4607,-0.1163,Brixton Market,51.46241218024057,-0.1136260118783734,Market,shops
+1069,Lambeth,51.4607,-0.1163,Ms. Cupcake,51.46172294609455,-0.1132192586655686,Cupcake Shop,food
+1070,Lambeth,51.4607,-0.1163,Trinity Arms,51.46173950821622,-0.11928358978691707,Pub,nightlife
+1071,Lambeth,51.4607,-0.1163,Market Row,51.46201375653569,-0.11360995034607098,Market,shops
+1072,Lambeth,51.4607,-0.1163,Gremio de Brixton,51.45985792818611,-0.11603766032885382,Tapas Restaurant,food
+1073,Lambeth,51.4607,-0.1163,Rum Kitchen,51.461583365090306,-0.11388995891057034,Caribbean Restaurant,food
+1074,Lambeth,51.4607,-0.1163,London Beer Lab,51.46336344858991,-0.11636168897684258,Brewery,food
+1075,Lambeth,51.4607,-0.1163,Electric Brixton,51.4601547818653,-0.11654054811424354,Nightclub,nightlife
+1076,Lambeth,51.4607,-0.1163,Three Eight Four,51.461845109286564,-0.11217110773441334,Cocktail Bar,nightlife
+1077,Lambeth,51.4607,-0.1163,Upstairs at the Ritzy,51.46118667487387,-0.11512041091918945,Jazz Club,arts_entertainment
+1078,Lambeth,51.4607,-0.1163,Ghost Whale,51.46095942575821,-0.11117470941616318,Beer Store,nightlife
+1079,Lambeth,51.4607,-0.1163,Kricket,51.462492,-0.112637,Indian Restaurant,food
+1080,Lambeth,51.4607,-0.1163,Seven at Brixton,51.46203893600984,-0.11359096631962734,Tapas Restaurant,food
+1081,Lambeth,51.4607,-0.1163,Book Mongers,51.461561403074754,-0.11383936332690422,Bookstore,shops
+1082,Lambeth,51.4607,-0.1163,Brixton Village,51.46251157647608,-0.11178319109611673,Market,shops
+1083,Lambeth,51.4607,-0.1163,The Effra,51.460040086975,-0.11302546848589592,Pub,nightlife
+1084,Lambeth,51.4607,-0.1163,Wahaca,51.462917214390885,-0.11379502171446426,Mexican Restaurant,food
+1085,Lambeth,51.4607,-0.1163,Honest Burgers,51.462331762069844,-0.11190660480273061,Burger Joint,food
+1086,Lambeth,51.4607,-0.1163,Senzala Creperie,51.462409847517996,-0.11171213037134822,Creperie,food
+1087,Lambeth,51.4607,-0.1163,The Craft Beer Co.,51.46338517478203,-0.1140363522577955,Beer Bar,nightlife
+1088,Lambeth,51.4607,-0.1163,Okan,51.462509823947784,-0.11179504195325424,Okonomiyaki Restaurant,food
+1089,Lambeth,51.4607,-0.1163,Chicken Shop/Dirty Burger,51.461746,-0.116313,New American Restaurant,food
+1090,Lambeth,51.4607,-0.1163,Pret A Manger,51.463046833877286,-0.1148397651900443,Sandwich Place,food
+1091,Lambeth,51.4607,-0.1163,"Fish, Wings & Tings",51.462087367289755,-0.11152854737610098,Caribbean Restaurant,food
+1092,Lambeth,51.4607,-0.1163,Nanban,51.46156259191805,-0.11394156577397357,Japanese Restaurant,food
+1093,Lambeth,51.4607,-0.1163,Bamboula,51.461013667426755,-0.11655780613233005,Caribbean Restaurant,food
+1094,Lambeth,51.4607,-0.1163,Pop Brixton,51.463393429445084,-0.11236788643361767,Food Court,shops
+1095,Lambeth,51.4607,-0.1163,Wild Caper,51.46199083238287,-0.11347359516624424,Mediterranean Restaurant,food
+1096,Lambeth,51.4607,-0.1163,YUM-D,51.461797153335866,-0.11327475928928114,Thai Restaurant,food
+1097,Lambeth,51.4607,-0.1163,The Blues Kitchen,51.4603134069692,-0.120438915385768,BBQ Joint,food
+1098,Lambeth,51.4607,-0.1163,Mama Lan,51.462523456612985,-0.11227912704606108,Dumpling Restaurant,food
+1099,Lambeth,51.4607,-0.1163,Eat Of Eden,51.46212,-0.11176463,Vegetarian / Vegan Restaurant,food
+1100,Lambeth,51.4607,-0.1163,Salon,51.46196584027072,-0.11326129921555636,Restaurant,food
+1101,Lambeth,51.4607,-0.1163,Fierce Grace Brixton,51.46225239598031,-0.11092018451294972,Yoga Studio,shops
+1102,Lambeth,51.4607,-0.1163,The Wine Parlour,51.461466314889485,-0.11146101737013785,Winery,food
+1103,Lambeth,51.4607,-0.1163,Federation Coffee,51.46241288833468,-0.1117200585980071,Coffee Shop,food
+1104,Lambeth,51.4607,-0.1163,Koi Ramen Noodle Bar,51.46347857800001,-0.11235904547194676,Ramen Restaurant,food
+1105,Lambeth,51.4607,-0.1163,Black Cultural Archives,51.45775963417684,-0.11791890645664373,History Museum,arts_entertainment
+1106,Lambeth,51.4607,-0.1163,Baba G's,51.46347481755735,-0.11235810045205079,Indian Restaurant,food
+1107,Lambeth,51.4607,-0.1163,The Joint,51.462316410115676,-0.11165321388594093,BBQ Joint,food
+1108,Lambeth,51.4607,-0.1163,San Marino,51.463556392972265,-0.11457449633162292,Café,food
+1109,Lambeth,51.4607,-0.1163,The New Zealand Wine Cellar,51.46341847819986,-0.11249647570643931,Wine Bar,food
+1110,Lambeth,51.4607,-0.1163,Upstairs At The Department Store,51.46418376953569,-0.11556587701660441,Restaurant,food
+1111,Lambeth,51.4607,-0.1163,The Duke of Edinburgh,51.46324987278245,-0.12003086202091641,Pub,nightlife
+1112,Lambeth,51.4607,-0.1163,Carioca,51.46211135603864,-0.11285376534287013,Brazilian Restaurant,food
+1113,Lambeth,51.4607,-0.1163,Halo Burger,51.46346,-0.11240803,Burger Joint,food
+1114,Lambeth,51.4607,-0.1163,Courtesan Dim Sum,51.46115994755113,-0.11122012921135563,Dim Sum Restaurant,food
+1115,Lambeth,51.4607,-0.1163,Phonox,51.464447416105074,-0.114420103826105,Nightclub,nightlife
+1116,Lambeth,51.4607,-0.1163,Market House,51.46141,-0.11409,Pub,nightlife
+1117,Lambeth,51.4607,-0.1163,Windrush Square,51.460737537701654,-0.11529360111340722,Plaza,parks_outdoors
+1118,Lambeth,51.4607,-0.1163,Agile Rabbit,51.46255588247296,-0.11236629522129181,Pizza Place,food
+1119,Lambeth,51.4607,-0.1163,DW Fitness First,51.46459795169641,-0.115210293023479,Gym / Fitness Center,building
+1120,Lambeth,51.4607,-0.1163,Restaurante Santafereño,51.462486713522686,-0.11194562974776895,South American Restaurant,food
+1121,Lambeth,51.4607,-0.1163,Parissi,51.46086484927744,-0.11107165015813722,Coffee Shop,food
+1122,Lambeth,51.4607,-0.1163,Kaosarn,51.46215165548201,-0.11149282050182753,Thai Restaurant,food
+1123,Lambeth,51.4607,-0.1163,El Rancho De Lalo,51.46218679732579,-0.11165015452108477,Latin American Restaurant,food
+1124,Lambeth,51.4607,-0.1163,Brixton Wholefoods,51.461547638816484,-0.11127948760986328,Grocery Store,shops
+1125,Lambeth,51.4607,-0.1163,BrewDog Brixton,51.46161929649874,-0.11330308907333976,Beer Bar,nightlife
+1126,Lambeth,51.4607,-0.1163,Asmara,51.46183081042343,-0.11222940401708825,African Restaurant,food
+1127,Lambeth,51.4607,-0.1163,Champagne + Fromage,51.462301534960744,-0.11189124566456882,Champagne Bar,food
+1128,Lambeth,51.4607,-0.1163,Mama's Jerk,51.463486,-0.112227,Caribbean Restaurant,food
+1129,Lambeth,51.4607,-0.1163,Premier Inn London Brixton,51.46173046237941,-0.11477510955953237,Hotel,travel
+1130,Lambeth,51.4607,-0.1163,Prima Donna,51.462095294244655,-0.1128155862212294,Brazilian Restaurant,food
+1131,Lambeth,51.4607,-0.1163,Refill,51.46182585312771,-0.11576863107381913,Caribbean Restaurant,food
+1132,Lambeth,51.4607,-0.1163,Brixton Blend,51.4626922791602,-0.11552022123225836,Coffee Shop,food
+1133,Lambeth,51.4607,-0.1163,Sponge and Cream Bakery,51.46259273891247,-0.11249341727123316,Cupcake Shop,food
+1134,Lambeth,51.4607,-0.1163,Marks & Spencer,51.4632940095964,-0.115090584568867,Department Store,shops
+1135,Lambeth,51.4607,-0.1163,Canova Hall,51.46393661129359,-0.11513047452350199,Italian Restaurant,food
+1136,Lambeth,51.4607,-0.1163,Donostia Social Club,51.463205362481766,-0.11243820190429688,Tapas Restaurant,food
+1137,Lambeth,51.4607,-0.1163,Photofusion,51.46190990610459,-0.11397783330044815,Art Gallery,arts_entertainment
+1138,Lambeth,51.4607,-0.1163,Brixton Recreation Centre,51.463463634058506,-0.11279538906065657,Gym / Fitness Center,building
+1139,Lambeth,51.4607,-0.1163,Phoenix Café,51.46155357941846,-0.11403610660878459,Diner,food
+1140,Lambeth,51.4607,-0.1163,Lab G,51.46221625241684,-0.1116567175845751,Ice Cream Shop,food
+1141,Lambeth,51.4607,-0.1163,Three Little Birds,51.46167870035537,-0.11328570098420254,Bar,nightlife
+1142,Lambeth,51.4607,-0.1163,Other Side Fried,51.463666,-0.112276,Fried Chicken Joint,food
+1143,Lambeth,51.4607,-0.1163,Made of Dough,51.46335682356901,-0.1123641816759552,Pizza Place,food
+1144,Lambeth,51.4607,-0.1163,Chillbox Frozen Yogurt,51.46201985403715,-0.11348598905927518,Frozen Yogurt Shop,food
+1145,Lambeth,51.4607,-0.1163,Sainsbury's Local,51.46279307559867,-0.1149362444744212,Grocery Store,shops
+1146,Lambeth,51.4607,-0.1163,Electric Avenue,51.46222735344441,-0.11511753906639463,Market,shops
+1147,Lambeth,51.4607,-0.1163,Brixton Yard,51.462765931814275,-0.11361674277898265,Food Court,shops
+1148,Lambeth,51.4607,-0.1163,Topshop,51.46230779967385,-0.11527041304156072,Women's Store,shops
+1149,Lambeth,51.4607,-0.1163,Jalisco,51.46211195826452,-0.11140969609721327,Mexican Restaurant,food
+1150,Lambeth,51.4607,-0.1163,Casa Morita,51.462011830170894,-0.11355820767915516,Mexican Restaurant,food
+1151,Lambeth,51.4607,-0.1163,Dip & Flip,51.4611079609392,-0.11119769106686661,Burger Joint,food
+1152,Lambeth,51.4607,-0.1163,Duck Duck Goose,51.462715,-0.112497,Cantonese Restaurant,food
+1153,Lambeth,51.4607,-0.1163,Burnt Toast Cafe,51.462291870837454,-0.1116170296377453,Breakfast Spot,food
+1154,Lambeth,51.4607,-0.1163,Brixton Farmers' Market,51.4633992052683,-0.1142352819442749,Farmers Market,shops
+1155,Lambeth,51.4607,-0.1163,Franzina Trattoria,51.463492,-0.112374,Italian Restaurant,food
+1156,Lambeth,51.4607,-0.1163,Brixton Port Authority,51.46340455730116,-0.11234025686629105,Beer Bar,nightlife
+1157,Lambeth,51.4607,-0.1163,Subway,51.46258107786924,-0.11529585051055218,Sandwich Place,food
+1158,Lambeth,51.4607,-0.1163,Maria Sabina,51.463509072458486,-0.11232437880286653,Mexican Restaurant,food
+1159,Lambeth,51.4607,-0.1163,Caffè Nero,51.46253964810608,-0.11506844834398623,Coffee Shop,food
+1160,Lambeth,51.4607,-0.1163,Ferndale Community Sports Centre,51.46327391670753,-0.1174903375574563,Gym / Fitness Center,building
+1161,Lambeth,51.4607,-0.1163,TK Maxx,51.463635411084255,-0.1147109923952035,Clothing Store,shops
+1162,Lambeth,51.4607,-0.1163,Nando's,51.464942313956676,-0.11500609298946346,Portuguese Restaurant,food
+1163,Lambeth,51.4607,-0.1163,Sainsbury's Local,51.46437235,-0.11402554,Convenience Store,shops
+1164,Lewisham,51.4452,-0.0209,Bottle Bar and Shop,51.44486678623659,-0.02261638641357422,Cocktail Bar,nightlife
+1165,Lewisham,51.4452,-0.0209,Catford Constitutional Club,51.445080796666204,-0.022850400071329352,Pub,nightlife
+1166,Lewisham,51.4452,-0.0209,Mekan,51.44371831563636,-0.02032020456335627,Greek Restaurant,food
+1167,Lewisham,51.4452,-0.0209,Catford Bridge Tavern,51.444529218552375,-0.024407329563830817,Pub,nightlife
+1168,Lewisham,51.4452,-0.0209,Aldi,51.44867471080653,-0.01778093785767165,Supermarket,shops
+1169,Lewisham,51.4452,-0.0209,Sapporo Ichiban,51.445069804184236,-0.021782918296754418,Japanese Restaurant,food
+1170,Lewisham,51.4452,-0.0209,Kaspa's,51.44772067278175,-0.017776355024282833,Dessert Shop,food
+1171,Lewisham,51.4452,-0.0209,Nando's,51.447774201402865,-0.018129635889806654,Portuguese Restaurant,food
+1172,Lewisham,51.4452,-0.0209,Tesco,51.446170429900704,-0.021795863166113046,Supermarket,shops
+1173,Lewisham,51.4452,-0.0209,Subway,51.4459307576574,-0.01948383014817357,Sandwich Place,food
+1174,Lewisham,51.4452,-0.0209,Boots,51.44694620263242,-0.018621815590540408,Pharmacy,shops
+1175,Lewisham,51.4452,-0.0209,Lidl,51.4446298141177,-0.0188424497739846,Supermarket,shops
+1176,Lewisham,51.4452,-0.0209,KFC,51.445929996356654,-0.0199127197265625,Fast Food Restaurant,food
+1177,Lewisham,51.4452,-0.0209,Iceland,51.444699612581914,-0.022187232971191406,Grocery Store,shops
+1178,Lewisham,51.4452,-0.0209,Sainsbury's Local,51.44442,-0.025754,Supermarket,shops
+1179,Lewisham,51.4452,-0.0209,Greggs,51.44835084858071,-0.018912694481393048,Bakery,food
+1180,Lewisham,51.4452,-0.0209,La Pizzeria Italiana,51.44566939911412,-0.01870059929011074,Italian Restaurant,food
+1181,Lewisham,51.4452,-0.0209,Costa Coffee,51.44732073877472,-0.018399378636163567,Coffee Shop,food
+1182,Lewisham,51.4452,-0.0209,Domino's Pizza,51.44583993963008,-0.01805495643134236,Pizza Place,food
+1183,Lewisham,51.4452,-0.0209,Catford Centre,51.44630276394645,-0.0218840020350818,Shopping Mall,shops
+1184,Lewisham,51.4452,-0.0209,Argos,51.44676681545677,-0.019078564926173172,Warehouse Store,shops
+1185,Lewisham,51.4452,-0.0209,Broadway Theatre,51.44510603075527,-0.020051745158415398,Theater,arts_entertainment
+1186,Lewisham,51.4452,-0.0209,Riva Restaurant & Lounge,51.44361289820437,-0.020293779085839982,Italian Restaurant,food
+1187,Lewisham,51.4452,-0.0209,Costa Coffee,51.44513619147408,-0.02169438897990186,Coffee Shop,food
+1188,Lewisham,51.4452,-0.0209,Turkish Food Xpress,51.44464611688318,-0.023560523986816406,Grocery Store,shops
+1189,Lewisham,51.4452,-0.0209,FLK Chinese Groceries - Chinese Supermarket,51.444597,-0.023856,Grocery Store,shops
+1190,Lewisham,51.4452,-0.0209,Catford & Catford Bridge Stations Bus Stop,51.444486904661055,-0.024334451542287652,Bus Stop,travel
+1191,Lewisham,51.4452,-0.0209,Platform 1,51.445557177799905,-0.02469373564615994,Platform,travel
+1192,Lewisham,51.4452,-0.0209,Platform 2,51.445224,-0.024799,Platform,travel
+1193,Lewisham,51.4452,-0.0209,Catford Bridge Railway Station (CFB),51.44496583539607,-0.024645381747387504,Train Station,travel
+1194,Lewisham,51.4452,-0.0209,Catford Railway Station (CTF),51.44443465075198,-0.02647329250855773,Train Station,travel
+1195,Lewisham,51.4452,-0.0209,Wickes,51.44274120137864,-0.02577671790525756,Hardware Store,shops
+1196,Merton,51.4014,-0.1958,Cafe la Lavella,51.40190213174402,-0.1943003566656239,Café,food
+1197,Merton,51.4014,-0.1958,Morden Hall Park,51.40274840736788,-0.18896440339745196,Park,parks_outdoors
+1198,Merton,51.4014,-0.1958,Morden Hall Garden Centre,51.40165432502525,-0.1886077845841266,Garden Center,parks_outdoors
+1199,Merton,51.4014,-0.1958,Lidl,51.4015120027278,-0.193356716565376,Supermarket,shops
+1200,Merton,51.4014,-0.1958,The Potting Shed Cafe,51.401558,-0.189087,Café,food
+1201,Merton,51.4014,-0.1958,Bella Donna,51.401026281457966,-0.19554376602172852,Italian Restaurant,food
+1202,Merton,51.4014,-0.1958,Tariro Fairtrade Coffee House,51.40171204530922,-0.19548722277780098,Coffee Shop,food
+1203,Merton,51.4014,-0.1958,Ganleys Irish Bar,51.402435595368814,-0.1938727642079411,Bar,nightlife
+1204,Merton,51.4014,-0.1958,Princess of India,51.39982987810896,-0.19682676262511115,Indian Restaurant,food
+1205,Merton,51.4014,-0.1958,Greggs,51.402500829389794,-0.1938634915056366,Bakery,food
+1206,Merton,51.4014,-0.1958,Subway,51.40230999391107,-0.1941639901856639,Sandwich Place,food
+1207,Merton,51.4014,-0.1958,Wimpy,51.4027096284379,-0.19392505288124084,Burger Joint,food
+1208,Merton,51.4014,-0.1958,Iceland,51.40160153643119,-0.1942277159202286,Grocery Store,shops
+1209,Merton,51.4014,-0.1958,Domino's Pizza,51.399580810086285,-0.19685364572524122,Pizza Place,food
+1210,Merton,51.4014,-0.1958,Sainsbury's,51.40297664256559,-0.19322738035911616,Supermarket,shops
+1211,Merton,51.4014,-0.1958,KFC,51.40227341163286,-0.19414391314674972,Fast Food Restaurant,food
+1212,Merton,51.4014,-0.1958,Specsavers,51.40210193286309,-0.19439772363947114,Optical Shop,building
+1213,Merton,51.4014,-0.1958,Morden London Underground Station,51.402619321082504,-0.1947553087537121,Metro Station,travel
+1214,Merton,51.4014,-0.1958,Morden Station bus stop,51.40231573936143,-0.1942760273289834,Bus Stop,travel
+1215,Merton,51.4014,-0.1958,Kebaby,51.40291544096498,-0.19263088703155518,Fast Food Restaurant,food
+1216,Merton,51.4014,-0.1958,Mostyn Gardens,51.403195277395874,-0.19985515841905,Park,parks_outdoors
+1217,Newham,51.5077,0.0469,Yi-Ban,51.507538912871084,0.04158382293991263,Chinese Restaurant,food
+1218,Newham,51.5077,0.0469,Hampton by Hilton London Docklands,51.50851265073924,0.0406639131515801,Hotel,travel
+1219,Newham,51.5077,0.0469,London Regatta Centre,51.508035972948,0.04249282449588081,Rafting,parks_outdoors
+1220,Newham,51.5077,0.0469,Moxy Hotel London Excel,51.5085095,0.0414658,Hotel,travel
+1221,Newham,51.5077,0.0469,London City Airport (LCY) (London City Airport),51.50402592825552,0.04910600715592967,Airport,travel
+1222,Newham,51.5077,0.0469,Pret A Manger,51.50423635612099,0.04774776979244952,Sandwich Place,food
+1223,Newham,51.5077,0.0469,Holiday Inn Excel,51.50839170341399,0.043365631973333534,Hotel,travel
+1224,Newham,51.5077,0.0469,Travelodge London Excel Hotel,51.508520618677295,0.04212983007484415,Hotel,travel
+1225,Newham,51.5077,0.0469,Boots,51.50420148069069,0.049689263105392456,Pharmacy,shops
+1226,Newham,51.5077,0.0469,LCY Runway 09-27,51.504364,0.046586,Airport Service,travel
+1227,Newham,51.5077,0.0469,Royal Albert DLR Station,51.50844648435717,0.04598948521982655,Light Rail Station,travel
+1228,Newham,51.5077,0.0469,Departure Lounge,51.504097417842075,0.04963110813184969,Airport Lounge,nightlife
+1229,Newham,51.5077,0.0469,Caffè Nero,51.50418657270155,0.04971072174226235,Coffee Shop,food
+1230,Newham,51.5077,0.0469,Connaugh House Hotel,51.50877201033732,0.03998321761267779,Hotel,travel
+1231,Redbridge,51.559,0.0741,Cineworld,51.5576,0.0741,Movie Theater,arts_entertainment
+1232,Redbridge,51.559,0.0741,Marks & Spencer,51.559096447556065,0.07250776389930128,Clothing Store,shops
+1233,Redbridge,51.559,0.0741,Primark,51.5591384,0.0718031,Clothing Store,shops
+1234,Redbridge,51.559,0.0741,O'Neill's,51.558876037597656,0.07070869952440262,Irish Pub,nightlife
+1235,Redbridge,51.559,0.0741,Kenneth More Theatre,51.55848342022822,0.07480224074572449,Theater,arts_entertainment
+1236,Redbridge,51.559,0.0741,Waterstones,51.55943402820842,0.0699450813355443,Bookstore,shops
+1237,Redbridge,51.559,0.0741,Costa Coffee,51.559300983825786,0.07036765188470455,Coffee Shop,food
+1238,Redbridge,51.559,0.0741,Nando's,51.55772263351946,0.0735475203463951,Portuguese Restaurant,food
+1239,Redbridge,51.559,0.0741,Starbucks,51.55850883768344,0.07171154687238405,Coffee Shop,food
+1240,Redbridge,51.559,0.0741,Rooster Piri Piri,51.5597869774382,0.06982433095147755,Fast Food Restaurant,food
+1241,Redbridge,51.559,0.0741,Lidl,51.5590634801005,0.0732982219387724,Supermarket,shops
+1242,Redbridge,51.559,0.0741,Saravanaa Bhavan,51.56165404801178,0.06874473493191377,Indian Restaurant,food
+1243,Redbridge,51.559,0.0741,Next,51.5587252837563,0.0734559807266489,Clothing Store,shops
+1244,Redbridge,51.559,0.0741,Subway,51.55806884614956,0.07382353428746534,Sandwich Place,food
+1245,Redbridge,51.559,0.0741,Debenhams,51.56019330941779,0.07208525868738234,Department Store,shops
+1246,Redbridge,51.559,0.0741,Greggs,51.559511,0.07585,Bakery,food
+1247,Redbridge,51.559,0.0741,Wilko,51.5599583,0.0708746,Furniture / Home Store,shops
+1248,Redbridge,51.559,0.0741,Pizza Hut,51.55961860649539,0.07651698242493968,Pizza Place,food
+1249,Redbridge,51.559,0.0741,Argos,51.55938517799301,0.0746588300759689,Warehouse Store,shops
+1250,Redbridge,51.559,0.0741,Boots,51.558765675608285,0.07148490674592267,Pharmacy,shops
+1251,Redbridge,51.559,0.0741,TK Maxx,51.55994347512506,0.07140073341767288,Clothing Store,shops
+1252,Redbridge,51.559,0.0741,Greggs,51.55773617840492,0.07031142711639404,Bakery,food
+1253,Redbridge,51.559,0.0741,Sainsbury's Local,51.5588917712306,0.0734762726741922,Grocery Store,shops
+1254,Redbridge,51.559,0.0741,Subway,51.55908385629971,0.07022707616892561,Sandwich Place,food
+1255,Redbridge,51.559,0.0741,Lidl,51.5607538690733,0.0800710866263825,Supermarket,shops
+1256,Redbridge,51.559,0.0741,McDonald's,51.559712107191686,0.07685501321856461,Fast Food Restaurant,food
+1257,Redbridge,51.559,0.0741,Burger King,51.55981645367827,0.07129420370483786,Fast Food Restaurant,food
+1258,Redbridge,51.559,0.0741,The Great Spoon of Ilford (Wetherspoon),51.56182638954824,0.06878663768810538,Pub,nightlife
+1259,Redbridge,51.559,0.0741,JRC Global Buffet,51.55699652500939,0.07053589248027291,Buffet,food
+1260,Redbridge,51.559,0.0741,loaded burgers and fries,51.5606246319978,0.06951579847241746,Burger Joint,food
+1261,Redbridge,51.559,0.0741,WHSmith,51.559164,0.072582,Stationery Store,shops
+1262,Redbridge,51.559,0.0741,Best Western Greater London Hotel,51.56050343302097,0.07014699742285302,Hotel,travel
+1263,Redbridge,51.559,0.0741,DW Fitness First,51.560505285733456,0.07952179334849102,Gym / Fitness Center,building
+1264,Redbridge,51.559,0.0741,Deichmann,51.55977021051089,0.07236903988979104,Shoe Store,shops
+1265,Redbridge,51.559,0.0741,Best Western Ilford,51.55989098793212,0.06745791890056586,Hotel,travel
+1266,Redbridge,51.559,0.0741,Tesco Express,51.56084443483885,0.06968640256332037,Grocery Store,shops
+1267,Redbridge,51.559,0.0741,Loaded,51.560511,0.06941,Burger Joint,food
+1268,Redbridge,51.559,0.0741,Ilford Kebab,51.555775344394306,0.07271226763992844,Fast Food Restaurant,food
+1269,Redbridge,51.559,0.0741,Best Inn Hotel,51.56045632550608,0.06727996038023072,Hotel,travel
+1270,Richmond upon Thames,51.4479,-0.326,York House Gardens,51.44694405627247,-0.32382617363043587,Garden,parks_outdoors
+1271,Richmond upon Thames,51.4479,-0.326,The Press Room,51.44764454463055,-0.32872710138835154,Coffee Shop,food
+1272,Richmond upon Thames,51.4479,-0.326,Osteria Pulcinella,51.44665999108839,-0.3274978950275836,Italian Restaurant,food
+1273,Richmond upon Thames,51.4479,-0.326,Ke Sushi,51.44802650578568,-0.3287328138552899,Japanese Restaurant,food
+1274,Richmond upon Thames,51.4479,-0.326,Pho Saigon,51.44790472000636,-0.3261606027178285,Vietnamese Restaurant,food
+1275,Richmond upon Thames,51.4479,-0.326,The White Swan,51.446905815542706,-0.3213503307893147,Beer Garden,nightlife
+1276,Richmond upon Thames,51.4479,-0.326,Waitrose & Partners,51.44839334875483,-0.32898131286276566,Supermarket,shops
+1277,Richmond upon Thames,51.4479,-0.326,Masaniello,51.4467573661853,-0.32741864913678986,Italian Restaurant,food
+1278,Richmond upon Thames,51.4479,-0.326,Corto,51.446905,-0.326583,Deli / Bodega,food
+1279,Richmond upon Thames,51.4479,-0.326,Cafe Bellisimo,51.44763921328401,-0.32886004879352404,Coffee Shop,food
+1280,Richmond upon Thames,51.4479,-0.326,Pincho,51.44695017508788,-0.32604142128722063,Mediterranean Restaurant,food
+1281,Richmond upon Thames,51.4479,-0.326,The Barmy Arms,51.446284062455724,-0.3257787269611886,Pub,nightlife
+1282,Richmond upon Thames,51.4479,-0.326,The Eel Pie,51.4470102796865,-0.3264777807102922,Pub,nightlife
+1283,Richmond upon Thames,51.4479,-0.326,The Fox,51.446680998963735,-0.3271597623825073,Pub,nightlife
+1284,Richmond upon Thames,51.4479,-0.326,Harris + Hoole,51.446143275240885,-0.3287336020717993,Coffee Shop,food
+1285,Richmond upon Thames,51.4479,-0.326,The Cabbage Patch,51.448861247232486,-0.3298882914190244,Pub,nightlife
+1286,Richmond upon Thames,51.4479,-0.326,Orleans House Gallery,51.4472469955816,-0.3192601600445135,Art Gallery,arts_entertainment
+1287,Richmond upon Thames,51.4479,-0.326,The Gurkha's Inn,51.44748753750987,-0.32708117506712714,Indian Restaurant,food
+1288,Richmond upon Thames,51.4479,-0.326,Waterstones,51.445861657210784,-0.32902947376637187,Bookstore,shops
+1289,Richmond upon Thames,51.4479,-0.326,shack 68,51.44909018897732,-0.32950265953332925,BBQ Joint,food
+1290,Richmond upon Thames,51.4479,-0.326,Bellissimo Ristorante Caffetteria Italiana,51.4477281051755,-0.3286516303371516,Italian Restaurant,food
+1291,Richmond upon Thames,51.4479,-0.326,The William Webb Ellis (Wetherspoon),51.447682833610564,-0.3287052223935434,Pub,nightlife
+1292,Richmond upon Thames,51.4479,-0.326,Patisserie Valerie,51.446029029047835,-0.32877422257940087,Café,food
+1293,Richmond upon Thames,51.4479,-0.326,Palm Grill,51.44705451731884,-0.32837437011358445,Steakhouse,food
+1294,Richmond upon Thames,51.4479,-0.326,M&S Simply Food,51.44549584296674,-0.3301700166552383,Grocery Store,shops
+1295,Richmond upon Thames,51.4479,-0.326,PizzaExpress,51.44748099999999,-0.3273943411045366,Pizza Place,food
+1296,Richmond upon Thames,51.4479,-0.326,Nando's,51.445649,-0.330119,Portuguese Restaurant,food
+1297,Richmond upon Thames,51.4479,-0.326,The Three Kings,51.44541313710836,-0.33182776560045113,Pub,nightlife
+1298,Richmond upon Thames,51.4479,-0.326,Sandys Fishmongers,51.4456669,-0.3299932,Fish Market,shops
+1299,Richmond upon Thames,51.4479,-0.326,Sheesh mahal,51.44727494792625,-0.32855680328743514,Indian Restaurant,food
+1300,Richmond upon Thames,51.4479,-0.326,Costa Coffee,51.44758828725229,-0.3286457061767578,Coffee Shop,food
+1301,Richmond upon Thames,51.4479,-0.326,Boots,51.446258007622234,-0.3285277905922474,Pharmacy,shops
+1302,Richmond upon Thames,51.4479,-0.326,Subway,51.44767511706648,-0.3287537345843928,Sandwich Place,food
+1303,Richmond upon Thames,51.4479,-0.326,Iceland,51.44592354442368,-0.32952097474222725,Grocery Store,shops
+1304,Richmond upon Thames,51.4479,-0.326,Twickenham Farmers' Market,51.44635027115199,-0.3310666266845265,Farmers Market,shops
+1305,Richmond upon Thames,51.4479,-0.326,KFC,51.446197051706534,-0.32855787577084167,Fast Food Restaurant,food
+1306,Richmond upon Thames,51.4479,-0.326,The Royal Oak,51.448585405959165,-0.32492682337760925,Gastropub,food
+1307,Richmond upon Thames,51.4479,-0.326,Starbucks,51.445818,-0.328836,Coffee Shop,food
+1308,Richmond upon Thames,51.4479,-0.326,Esquires Coffee,51.44525,-0.329481,Coffee Shop,food
+1309,Richmond upon Thames,51.4479,-0.326,The George,51.44616920828471,-0.3290588408304087,Pub,nightlife
+1310,Richmond upon Thames,51.4479,-0.326,Zizzi,51.447442734789064,-0.32685988339142114,Italian Restaurant,food
+1311,Richmond upon Thames,51.4479,-0.326,WHSmith,51.445882,-0.329431,Stationery Store,shops
+1312,Richmond upon Thames,51.4479,-0.326,Caffè Nero,51.447162957380186,-0.32848417949372605,Coffee Shop,food
+1313,Richmond upon Thames,51.4479,-0.326,Snax,51.44664197963637,-0.32779896880757686,Sandwich Place,food
+1314,Richmond upon Thames,51.4479,-0.326,Caffe Del Mare,51.44798,-0.325871,Italian Restaurant,food
+1315,Richmond upon Thames,51.4479,-0.326,Champion's Wharf Play Beach,51.446485,-0.32505,Playground,parks_outdoors
+1316,Richmond upon Thames,51.4479,-0.326,Travelodge,51.44997237291616,-0.32996401179693824,Hotel,travel
+1317,Richmond upon Thames,51.4479,-0.326,The Albany,51.449231406104275,-0.3319769895621173,Pub,nightlife
+1318,Richmond upon Thames,51.4479,-0.326,Poundland,51.446342903047125,-0.32876908779144287,Discount Store,shops
+1319,Richmond upon Thames,51.4479,-0.326,Twickenham King Street Bus Stop L,51.44607736809839,-0.32890474095729433,Bus Stop,travel
+1320,Richmond upon Thames,51.4479,-0.326,Anytime Fitness,51.449637,-0.329986,Gym,building
+1321,Richmond upon Thames,51.4479,-0.326,Cafe Zizou,51.4455276,-0.329674,Café,food
+1322,Richmond upon Thames,51.4479,-0.326,King Chicken,51.45060152870456,-0.32963793845362593,Fish & Chips Shop,food
+1323,Richmond upon Thames,51.4479,-0.326,Blitz CrossFit,51.448927957771936,-0.33206781228690146,Gym,building
+1324,Richmond upon Thames,51.4479,-0.326,M Bar & Grill,51.450434,-0.33155,Steakhouse,food
+1325,Southwark,51.5035,-0.0804,The Queen's Walk,51.505236596405396,-0.07903933525085449,Scenic Lookout,parks_outdoors
+1326,Southwark,51.5035,-0.0804,Nine Lives,51.50334297636019,-0.08205445478321435,Cocktail Bar,nightlife
+1327,Southwark,51.5035,-0.0804,The LaLit,51.50330581389786,-0.07862299722347076,Hotel,travel
+1328,Southwark,51.5035,-0.0804,Flat Iron,51.50420947888776,-0.08225408024688735,Steakhouse,food
+1329,Southwark,51.5035,-0.0804,Bridge Theatre,51.504089017055,-0.07729323513436077,Theater,arts_entertainment
+1330,Southwark,51.5035,-0.0804,Unicorn Theatre,51.50399495922866,-0.0809910048659477,Theater,arts_entertainment
+1331,Southwark,51.5035,-0.0804,Restaurant Story,51.5028557909795,-0.0777757970657521,Restaurant,food
+1332,Southwark,51.5035,-0.0804,M&S Simply Food,51.5051854050302,-0.0831598980914755,Grocery Store,shops
+1333,Southwark,51.5035,-0.0804,Hilton London Tower Bridge,51.50470959947174,-0.0821501761456047,Hotel,travel
+1334,Southwark,51.5035,-0.0804,Gaucho,51.50509836995137,-0.07967889600853553,Argentinian Restaurant,food
+1335,Southwark,51.5035,-0.0804,Third Space,51.505380376980774,-0.0797232771219766,Gym / Fitness Center,building
+1336,Southwark,51.5035,-0.0804,London Riviera,51.50532944346352,-0.0793117732692,Bar,nightlife
+1337,Southwark,51.5035,-0.0804,The Ivy Tower Bridge,51.503491,-0.076883,English Restaurant,food
+1338,Southwark,51.5035,-0.0804,Chapter 72,51.50145101719731,-0.08211749328410503,Coffee Shop,food
+1339,Southwark,51.5035,-0.0804,Santo Remedio,51.50374201784393,-0.08083470838401473,Mexican Restaurant,food
+1340,Southwark,51.5035,-0.0804,Kin+Deum,51.5024072195971,-0.0821548753891498,Thai Restaurant,food
+1341,Southwark,51.5035,-0.0804,Comptoir Gourmand,51.500847181530084,-0.08185450277093238,Bakery,food
+1342,Southwark,51.5035,-0.0804,GŎNG Bar,51.50341198045932,-0.0848543643951416,Hotel Bar,travel
+1343,Southwark,51.5035,-0.0804,Draft House - Tower Bridge,51.5028589371957,-0.07701306935707747,Pub,nightlife
+1344,Southwark,51.5035,-0.0804,More London Riverside,51.50505230713262,-0.07985997592595913,Plaza,parks_outdoors
+1345,Southwark,51.5035,-0.0804,José,51.500600602095616,-0.0817867236815902,Tapas Restaurant,food
+1346,Southwark,51.5035,-0.0804,Executive Lounge Hilton,51.504761534916035,-0.08220599768516672,Hotel Bar,travel
+1347,Southwark,51.5035,-0.0804,London Glassblowing,51.50163839315069,-0.08223895721848577,Art Gallery,arts_entertainment
+1348,Southwark,51.5035,-0.0804,Chilango,51.50463468647706,-0.08327780678967465,Burrito Place,food
+1349,Southwark,51.5035,-0.0804,Prosecco House,51.503981,-0.078515,Champagne Bar,food
+1350,Southwark,51.5035,-0.0804,Casse-Crôute,51.50045735960002,-0.08170373491110762,French Restaurant,food
+1351,Southwark,51.5035,-0.0804,Alex Monroe Jewellery,51.50217792851145,-0.08487582206726074,Jewelry Store,shops
+1352,Southwark,51.5035,-0.0804,Texas Joe's,51.50214418031458,-0.08381024374176163,American Restaurant,food
+1353,Southwark,51.5035,-0.0804,Franco Manca,51.50017475567863,-0.08157842356686322,Pizza Place,food
+1354,Southwark,51.5035,-0.0804,B Street Deli,51.50102592570228,-0.08198376769879934,Deli / Bodega,food
+1355,Southwark,51.5035,-0.0804,HMS Belfast (HMS Belfast (C35)),51.50659890641054,-0.08150696754455565,History Museum,arts_entertainment
+1356,Southwark,51.5035,-0.0804,Tom Simmons,51.503436,-0.077391,English Restaurant,food
+1357,Southwark,51.5035,-0.0804,The Bermondsey Yard Cafe,51.50230675673906,-0.08273409987085253,Café,food
+1358,Southwark,51.5035,-0.0804,more Bar And Brasserie,51.504757930474696,-0.08292367925548955,Bar,nightlife
+1359,Southwark,51.5035,-0.0804,Dean Swift,51.502828340289504,-0.07512927873078969,Pub,nightlife
+1360,Southwark,51.5035,-0.0804,Leathermarket Gardens,51.50065519633729,-0.08373856544494629,Garden,parks_outdoors
+1361,Southwark,51.5035,-0.0804,Shad Thames,51.50386670140302,-0.07525635826258167,Road,travel
+1362,Southwark,51.5035,-0.0804,Honest Burgers,51.50405,-0.0832665,Burger Joint,food
+1363,Southwark,51.5035,-0.0804,The Shangri-La Hotel,51.504228186702214,-0.08637489156145262,Hotel,travel
+1364,Southwark,51.5035,-0.0804,Vinegar Yard,51.502750353463135,-0.0838418426037796,Street Food Gathering,food
+1365,Southwark,51.5035,-0.0804,Starbucks,51.504040890777624,-0.0755528133803377,Coffee Shop,food
+1366,Southwark,51.5035,-0.0804,Caphe House,51.50034380457489,-0.08159058348792297,Vietnamese Restaurant,food
+1367,Southwark,51.5035,-0.0804,White Cube,51.49964322491608,-0.08149552792778084,Art Gallery,arts_entertainment
+1368,Southwark,51.5035,-0.0804,Suchard Thai Restaurant,51.504544807193376,-0.0825400151041711,Thai Restaurant,food
+1369,Southwark,51.5035,-0.0804,The Fashion and Textile Museum,51.501043916630486,-0.08191653690757796,Art Museum,arts_entertainment
+1370,Southwark,51.5035,-0.0804,Champor Champor,51.502432,-0.085529,Asian Restaurant,food
+1371,Southwark,51.5035,-0.0804,EATalia,51.50093324275744,-0.08193546629262925,Italian Restaurant,food
+1372,Southwark,51.5035,-0.0804,The Woolpack,51.500737871628836,-0.08191900187711793,Pub,nightlife
+1373,Southwark,51.5035,-0.0804,The View from The Shard,51.50448958543588,-0.08653992658875216,Scenic Lookout,parks_outdoors
+1374,Southwark,51.5035,-0.0804,Hay's Galleria,51.50587675232554,-0.08351516367208589,Shopping Mall,shops
+1375,Southwark,51.5035,-0.0804,Brigade,51.50405661495788,-0.0811998233544251,Bistro,food
+1376,Southwark,51.5035,-0.0804,The Watch House,51.5035864899884,-0.0739584953837723,Coffee Shop,food
+1377,Southwark,51.5035,-0.0804,The Rose Public House,51.50231392196969,-0.08560419615821602,Pub,nightlife
+1378,Southwark,51.5035,-0.0804,The Doodle Bar,51.50026439864934,-0.07616734032277751,Bar,nightlife
+1379,Southwark,51.5035,-0.0804,F*ckoffee,51.49935817367657,-0.08128169635110911,Coffee Shop,food
+1380,Southwark,51.5035,-0.0804,Tower of London Riverside Walk,51.50786101021461,-0.07862091064453125,Scenic Lookout,parks_outdoors
+1381,Southwark,51.5035,-0.0804,Oblix at The Shard,51.504243041341056,-0.08637805787116971,Restaurant,food
+1382,Southwark,51.5035,-0.0804,by. Chloe,51.5038,-0.076938,Vegetarian / Vegan Restaurant,food
+1383,Southwark,51.5035,-0.0804,Vivat Bacchus,51.505614,-0.084771,Wine Bar,food
+1384,Southwark,51.5035,-0.0804,Cecil's,51.50336208135973,-0.08213018677735626,Cocktail Bar,nightlife
+1385,Southwark,51.5035,-0.0804,Côte Brasserie,51.50631155949187,-0.08324020354355197,French Restaurant,food
+1386,Southwark,51.5035,-0.0804,Black Swan Yard Coffee,51.50229,-0.082575,Coffee Shop,food
+1387,Southwark,51.5035,-0.0804,The Kings Arms,51.50142607833732,-0.07585609477650351,Pub,nightlife
+1388,Southwark,51.5035,-0.0804,The Stress Exchange,51.50410016372384,-0.08149255389532387,Spa,shops
+1389,Southwark,51.5035,-0.0804,Spianata & Co,51.50504147315478,-0.0812098950457113,Italian Restaurant,food
+1390,Southwark,51.5035,-0.0804,The Garrison,51.500787616615135,-0.08178697207061036,Pub,nightlife
+1391,Southwark,51.5035,-0.0804,Potters Fields Park,51.5039677416299,-0.07895350456237793,Park,parks_outdoors
+1392,Southwark,51.5035,-0.0804,Pizza Pilgrims,51.504430217170416,-0.08340053270578918,Pizza Place,food
+1393,Southwark,51.5035,-0.0804,Shad Indian Restaurant,51.50459129552639,-0.08278741146120876,Indian Restaurant,food
+1394,Southwark,51.5035,-0.0804,Hot Yoga Society,51.503635496187265,-0.0814935564994812,Yoga Studio,shops
+1395,Southwark,51.5035,-0.0804,Tower Bridge Exhibition,51.505962061790804,-0.07530790194950229,Museum,arts_entertainment
+1396,Southwark,51.5035,-0.0804,Harris + Hoole,51.504300893639424,-0.0819571311929153,Coffee Shop,food
+1397,Southwark,51.5035,-0.0804,Comptoir Libanais,51.504726,-0.083655,Lebanese Restaurant,food
+1398,Southwark,51.5035,-0.0804,Hide Bar,51.5021496242792,-0.08237369583034009,Bar,nightlife
+1399,Southwark,51.5035,-0.0804,Le Pont de la Tour,51.50385213069224,-0.07364502506912927,French Restaurant,food
+1400,Southwark,51.5035,-0.0804,Cat and Cucumber,51.50135781136208,-0.07805955880768413,Café,food
+1401,Southwark,51.5035,-0.0804,Three Wheels Coffee,51.50473121810717,-0.08688928607822084,Coffee Shop,food
+1402,Southwark,51.5035,-0.0804,Petit Bleu,51.50229578289838,-0.08525888541870075,Café,food
+1403,Southwark,51.5035,-0.0804,TĪNG Restaurant,51.504247453119596,-0.08636360490722422,English Restaurant,food
+1404,Southwark,51.5035,-0.0804,Krispy Kreme,51.5042115,-0.0851868,Donut Shop,food
+1405,Southwark,51.5035,-0.0804,PizzaExpress,51.5036262517416,-0.07418714293953599,Pizza Place,food
+1406,Southwark,51.5035,-0.0804,Aqua,51.504247645814985,-0.08636928973031345,Restaurant,food
+1407,Southwark,51.5035,-0.0804,Omoide,51.500173,-0.08169,Sushi Restaurant,food
+1408,Southwark,51.5035,-0.0804,Tanner & Co,51.502039633439054,-0.08244907010918699,Restaurant,food
+1409,Southwark,51.5035,-0.0804,The Vault,51.504315,-0.076059,Cocktail Bar,nightlife
+1410,Southwark,51.5035,-0.0804,No1 Studio Training,51.50101,-0.078781,Gym / Fitness Center,building
+1411,Southwark,51.5035,-0.0804,Coppa Club,51.50795910154366,-0.07969136048557719,Restaurant,food
+1412,Southwark,51.5035,-0.0804,The Circle Spa,51.50157017747279,-0.07475852966308594,Gym Pool,parks_outdoors
+1413,Southwark,51.5035,-0.0804,Pique-Nique,51.50003406036268,-0.07955731056685582,French Restaurant,food
+1414,Southwark,51.5035,-0.0804,Skyroom,51.503722,-0.081258,Bar,nightlife
+1415,Southwark,51.5035,-0.0804,Caffe Paradiso,51.503822091261384,-0.07524921591737392,Coffee Shop,food
+1416,Southwark,51.5035,-0.0804,Constancia Argentine Grill,51.500109993539546,-0.07858881244829431,Argentinian Restaurant,food
+1417,Southwark,51.5035,-0.0804,Hotel Chocolat,51.50402043737102,-0.08549273014068604,Chocolate Shop,shops
+1418,Southwark,51.5035,-0.0804,Tanner Street Gardens,51.5002394646399,-0.08063024272648156,Park,parks_outdoors
+1419,Southwark,51.5035,-0.0804,Paul,51.50495753178357,-0.08055837694737035,Bakery,food
+1420,Southwark,51.5035,-0.0804,Tower Bridge Piazza,51.50387007150604,-0.07523102660313079,Scenic Lookout,parks_outdoors
+1421,Southwark,51.5035,-0.0804,M&S Simply Food,51.50452203516731,-0.08621692657470703,Grocery Store,shops
+1422,Southwark,51.5035,-0.0804,The Pommelers Rest (Wetherspoon),51.50247568572099,-0.07745202846056974,Pub,nightlife
+1423,Southwark,51.5035,-0.0804,Wawa,51.5014789445943,-0.0780833689811939,Sushi Restaurant,food
+1424,Southwark,51.5035,-0.0804,Sainsbury's Local,51.50308831546312,-0.07728885467155623,Grocery Store,shops
+1425,Sutton,51.3618,-0.1945,Shinner & Sudtone,51.361898,-0.192486,Pub,nightlife
+1426,Sutton,51.3618,-0.1945,Nando's,51.360156284957895,-0.19170685164586324,Portuguese Restaurant,food
+1427,Sutton,51.3618,-0.1945,Caffè Nero,51.36121385571888,-0.19193635183097724,Coffee Shop,food
+1428,Sutton,51.3618,-0.1945,Go-Gym,51.36035522994798,-0.19503861511768825,Gym,building
+1429,Sutton,51.3618,-0.1945,Manor Park,51.362751079371044,-0.19039392471313477,Park,parks_outdoors
+1430,Sutton,51.3618,-0.1945,Holiday Inn London - Sutton,51.361713,-0.196645,Hotel,travel
+1431,Sutton,51.3618,-0.1945,Waterstones,51.36215973271082,-0.19278003930915188,Bookstore,shops
+1432,Sutton,51.3618,-0.1945,Zizzi,51.36023749056543,-0.19189592518273457,Italian Restaurant,food
+1433,Sutton,51.3618,-0.1945,Poppins,51.361766698541885,-0.19225068445651558,Café,food
+1434,Sutton,51.3618,-0.1945,Brasserie Vacherin,51.3603523511445,-0.19140195753024347,French Restaurant,food
+1435,Sutton,51.3618,-0.1945,All Bar One,51.3619950297647,-0.19329197920466276,Bar,nightlife
+1436,Sutton,51.3618,-0.1945,Casa Nostra,51.35925448378785,-0.1916069275445011,Italian Restaurant,food
+1437,Sutton,51.3618,-0.1945,CeX,51.36439564246101,-0.19338659942150116,Video Game Store,shops
+1438,Sutton,51.3618,-0.1945,Caffè Nero,51.36375743494843,-0.19340134527406175,Coffee Shop,food
+1439,Sutton,51.3618,-0.1945,The Cock & Bull,51.36062599815914,-0.19168325153782462,Pub,nightlife
+1440,Sutton,51.3618,-0.1945,Primark,51.363907602437074,-0.19421962698368134,Clothing Store,shops
+1441,Sutton,51.3618,-0.1945,Subway,51.36098457786818,-0.19196284009662007,Sandwich Place,food
+1442,Sutton,51.3618,-0.1945,Greggs,51.36189579338373,-0.19246623906847554,Bakery,food
+1443,Sutton,51.3618,-0.1945,TK Maxx,51.36394208080651,-0.19320798934909672,Clothing Store,shops
+1444,Sutton,51.3618,-0.1945,Topshop,51.3643468730088,-0.19335857572123108,Women's Store,shops
+1445,Sutton,51.3618,-0.1945,Patisserie Valerie,51.363235732247325,-0.19310577025776673,Café,food
+1446,Sutton,51.3618,-0.1945,Debenhams,51.36527897534214,-0.19468614127099165,Department Store,shops
+1447,Sutton,51.3618,-0.1945,O'Neill's,51.361101530201175,-0.19199857645458254,Irish Pub,nightlife
+1448,Sutton,51.3618,-0.1945,Subway,51.36491008570017,-0.19394954721461055,Sandwich Place,food
+1449,Sutton,51.3618,-0.1945,Starbucks,51.359878,-0.190829,Coffee Shop,food
+1450,Sutton,51.3618,-0.1945,Marks & Spencer,51.364329685442954,-0.19270914079050538,Clothing Store,shops
+1451,Sutton,51.3618,-0.1945,Sutton Arms,51.361688052712715,-0.1922543278323134,Pub,nightlife
+1452,Sutton,51.3618,-0.1945,Next,51.36499482479967,-0.1942991228925166,Clothing Store,shops
+1453,Sutton,51.3618,-0.1945,The Grapes (Wetherspoon),51.3660170339703,-0.19393528428092688,Pub,nightlife
+1454,Sutton,51.3618,-0.1945,Domino's Pizza,51.358262974484404,-0.19139193782848452,Pizza Place,food
+1455,Sutton,51.3618,-0.1945,Slug & Lettuce,51.360893087014794,-0.1922955754804434,Bar,nightlife
+1456,Sutton,51.3618,-0.1945,PizzaExpress,51.36051817371462,-0.19207045168104742,Pizza Place,food
+1457,Sutton,51.3618,-0.1945,Currys PC World,51.363045832292855,-0.19286155700683594,Electronics Store,shops
+1458,Sutton,51.3618,-0.1945,New Look,51.365115976046006,-0.1948678601188476,Women's Store,shops
+1459,Sutton,51.3618,-0.1945,KFC,51.36602005108111,-0.19427776336669922,Fast Food Restaurant,food
+1460,Sutton,51.3618,-0.1945,The Old Bank,51.3598789877357,-0.1913172325234882,Pub,nightlife
+1461,Sutton,51.3618,-0.1945,Majestic Wine,51.36086105873745,-0.20147350844669207,Wine Shop,shops
+1462,Tower Hamlets,51.5099,-0.0059,Il Bianco Restaurant,51.50673743056788,-0.0063623943071464475,Italian Restaurant,food
+1463,Tower Hamlets,51.5099,-0.0059,Radisson Blu Edwardian,51.5067256,-0.0040009,Hotel,travel
+1464,Tower Hamlets,51.5099,-0.0059,La Mook,51.50667308304329,-0.00511684176741042,Coffee Shop,food
+1465,Tower Hamlets,51.5099,-0.0059,PureGym London East India Dock,51.51063881959283,-0.004728462740457108,Gym / Fitness Center,building
+1466,Tower Hamlets,51.5099,-0.0059,Sichuan Kitchen,51.511277923286364,-0.011738005248015515,Chinese Restaurant,food
+1467,Tower Hamlets,51.5099,-0.0059,Nisa,51.509124235889985,-0.002025400584898307,Convenience Store,shops
+1468,Tower Hamlets,51.5099,-0.0059,Costa Coffee,51.5117350871132,-0.008404863196895436,Coffee Shop,food
+1469,Tower Hamlets,51.5099,-0.0059,Poplar Cafe,51.50883425269884,-0.009885079659717749,Café,food
+1470,Tower Hamlets,51.5099,-0.0059,Ibis Hotel,51.50694691692688,-0.006868673015417738,Hotel,travel
+1471,Tower Hamlets,51.5099,-0.0059,Bar Salento,51.509476733211095,-0.00544897221007533,Italian Restaurant,food
+1472,Tower Hamlets,51.5099,-0.0059,Sandwich Plus,51.509461314162785,-0.006004530591229471,Sandwich Place,food
+1473,Tower Hamlets,51.5099,-0.0059,Tesco Express,51.508633948060364,-0.009495019912719727,Grocery Store,shops
+1474,Tower Hamlets,51.5099,-0.0059,Pizza Hut Delivery,51.511387370166,-0.012514588954900319,Pizza Place,food
+1475,Tower Hamlets,51.5099,-0.0059,Bytes,51.51205304379084,-0.001174793732089691,Café,food
+1476,Waltham Forest,51.5908,-0.0134,Buhler + Co.,51.59054938653556,-0.01725926283581863,Vegetarian / Vegan Restaurant,food
+1477,Waltham Forest,51.5908,-0.0134,The Bell,51.590168353123374,-0.01711721401070716,Pub,nightlife
+1478,Waltham Forest,51.5908,-0.0134,Better Waltham Forest Feel Good Centre,51.59324372679499,-0.014341589650332545,Gym / Fitness Center,building
+1479,Waltham Forest,51.5908,-0.0134,Wynwood art district,51.5903097820809,-0.017248112360847886,Coffee Shop,food
+1480,Waltham Forest,51.5908,-0.0134,Yard Sale Pizza,51.589259,-0.018925,Pizza Place,food
+1481,Waltham Forest,51.5908,-0.0134,William Morris Gallery,51.59115003540275,-0.02026401496234193,Art Gallery,arts_entertainment
+1482,Waltham Forest,51.5908,-0.0134,Walthamstow Assembly Hall,51.59081554367161,-0.012424921080518788,Concert Hall,arts_entertainment
+1483,Waltham Forest,51.5908,-0.0134,Clapton Craft,51.58904,-0.019844659,Beer Store,nightlife
+1484,Waltham Forest,51.5908,-0.0134,William Morris Gallery Tea Room,51.591364841826,-0.020130001004275516,Tea Room,food
+1485,Waltham Forest,51.5908,-0.0134,Waltham Forest College Swimming Pool,51.5911675772713,-0.010165190500094191,Pool,parks_outdoors
+1486,Waltham Forest,51.5908,-0.0134,Chestnuts Field,51.5921147826225,-0.012174697666621905,Field,parks_outdoors
+1487,Waltham Forest,51.5908,-0.0134,Tesco Express,51.59015606749168,-0.016531795263290405,Grocery Store,shops
+1488,Waltham Forest,51.5908,-0.0134,The William Morris,51.591177,-0.007551,Pub,nightlife
+1489,Wandsworth,51.4567,-0.191,Cafe Fleur,51.455728,-0.188987,Café,food
+1490,Wandsworth,51.4567,-0.191,easyGym,51.456062510722795,-0.19375450230423824,Gym / Fitness Center,building
+1491,Wandsworth,51.4567,-0.191,King's Arms,51.457344,-0.194708,Pub,nightlife
+1492,Wandsworth,51.4567,-0.191,Brewers Inn,51.45678002375434,-0.18956455650277432,Pub,nightlife
+1493,Wandsworth,51.4567,-0.191,Waterstones,51.45466654329266,-0.19297416039386756,Bookstore,shops
+1494,Wandsworth,51.4567,-0.191,Ekachai,51.45410493351479,-0.19303923869764789,Asian Restaurant,food
+1495,Wandsworth,51.4567,-0.191,The Grapes,51.4587186027974,-0.19058879054410502,Pub,nightlife
+1496,Wandsworth,51.4567,-0.191,Planet Organic,51.45496414900038,-0.19282569079627868,Organic Grocery,shops
+1497,Wandsworth,51.4567,-0.191,CWTCH,51.460622748514666,-0.18810405180986428,Breakfast Spot,food
+1498,Wandsworth,51.4567,-0.191,Starbucks,51.45673073372686,-0.19307715489411212,Coffee Shop,food
+1499,Wandsworth,51.4567,-0.191,Rossopomodoro,51.45541010227865,-0.19271744941722807,Pizza Place,food
+1500,Wandsworth,51.4567,-0.191,The East Hill,51.458655599712415,-0.1855551001261323,Pub,nightlife
+1501,Wandsworth,51.4567,-0.191,Waitrose & Partners,51.45444602288551,-0.1936882418258392,Supermarket,shops
+1502,Wandsworth,51.4567,-0.191,Hotel Chocolat,51.454635,-0.192331,Chocolate Shop,shops
+1503,Wandsworth,51.4567,-0.191,Nando's,51.454452644072546,-0.19317920604755545,Portuguese Restaurant,food
+1504,Wandsworth,51.4567,-0.191,Pret A Manger,51.456653942321076,-0.19288692507055347,Sandwich Place,food
+1505,Wandsworth,51.4567,-0.191,UNIQLO,51.454724914322895,-0.19336247451688415,Clothing Store,shops
+1506,Wandsworth,51.4567,-0.191,Chit Chaat Chai,51.4599898756125,-0.18902459301147512,Chaat Place,food
+1507,Wandsworth,51.4567,-0.191,The Black Chapel,51.45683149347575,-0.1947963953443832,Coffee Shop,food
+1508,Wandsworth,51.4567,-0.191,Sainsbury's,51.454332863199426,-0.1920159664805337,Supermarket,shops
+1509,Wandsworth,51.4567,-0.191,Cineworld,51.4541378290051,-0.19308159316362275,Multiplex,arts_entertainment
+1510,Wandsworth,51.4567,-0.191,Flying Tiger,51.45567249648437,-0.19389747539673244,Gift Shop,shops
+1511,Wandsworth,51.4567,-0.191,Konnigans,51.46015876139984,-0.18862045523777995,Restaurant,food
+1512,Wandsworth,51.4567,-0.191,Topshop,51.45498379006879,-0.1934726170719826,Women's Store,shops
+1513,Wandsworth,51.4567,-0.191,Paperchase,51.454614,-0.19304,Stationery Store,shops
+1514,Wandsworth,51.4567,-0.191,The Thai,51.459859068363436,-0.18934481048189636,Thai Restaurant,food
+1515,Wandsworth,51.4567,-0.191,Premier Inn London Wandsworth,51.45433145922669,-0.19160007055779715,Hotel,travel
+1516,Wandsworth,51.4567,-0.191,wagamama,51.45542928203655,-0.19291833931151814,Asian Restaurant,food
+1517,Wandsworth,51.4567,-0.191,Brew,51.46022096454624,-0.1885415662714229,Breakfast Spot,food
+1518,Wandsworth,51.4567,-0.191,Decathlon,51.4543813,-0.1928659,Sporting Goods Shop,shops
+1519,Wandsworth,51.4567,-0.191,Five Guys,51.454333,-0.193992,Burger Joint,food
+1520,Wandsworth,51.4567,-0.191,New Look,51.4561233,-0.1944336,Women's Store,shops
+1521,Wandsworth,51.4567,-0.191,TK Maxx,51.45687696325241,-0.19413628412914072,Clothing Store,shops
+1522,Wandsworth,51.4567,-0.191,Primark,51.455447,-0.1935478,Clothing Store,shops
+1523,Wandsworth,51.4567,-0.191,Starbucks,51.454407,-0.19349992,Coffee Shop,food
+1524,Wandsworth,51.4567,-0.191,Gourmet Burger Kitchen,51.454952985907624,-0.19297000000005937,Burger Joint,food
+1525,Wandsworth,51.4567,-0.191,PizzaExpress,51.459753675399,-0.1890754297796775,Pizza Place,food
+1526,Wandsworth,51.4567,-0.191,Co-op Food,51.457761770709645,-0.1846413391107358,Grocery Store,shops
+1527,Wandsworth,51.4567,-0.191,The Chutney,51.45843863759432,-0.1852272107303969,Indian Restaurant,food
+1528,Wandsworth,51.4567,-0.191,Masala Kitchen,51.45728601251447,-0.18732833179897385,Indian Restaurant,food
+1529,Westminster,51.4973,-0.1372,Taj  51 Buckingham Gate Suites & Residences,51.49859750553769,-0.1374039555861322,Hotel,travel
+1530,Westminster,51.4973,-0.1372,Curzon Victoria,51.497472657293244,-0.13674352372372592,Movie Theater,arts_entertainment
+1531,Westminster,51.4973,-0.1372,Run & Become,51.49812818794526,-0.13542610570509078,Sporting Goods Shop,shops
+1532,Westminster,51.4973,-0.1372,Iris & June,51.496791,-0.136011,Coffee Shop,food
+1533,Westminster,51.4973,-0.1372,Chez Antoinette,51.497964,-0.135455,French Restaurant,food
+1534,Westminster,51.4973,-0.1372,Flat Cap Coffee Co,51.49749647419568,-0.13385812172317216,Coffee Shop,food
+1535,Westminster,51.4973,-0.1372,Quilon,51.49877248841534,-0.13752218091498283,Indian Restaurant,food
+1536,Westminster,51.4973,-0.1372,Runners Need,51.4972169464019,-0.13927688001986943,Sporting Goods Shop,shops
+1537,Westminster,51.4973,-0.1372,St Ermin's Hotel,51.4991371,-0.1344175,Hotel,travel
+1538,Westminster,51.4973,-0.1372,Leon,51.497495327145884,-0.13646401454610851,Fast Food Restaurant,food
+1539,Westminster,51.4973,-0.1372,Gymbox,51.49693429388782,-0.13725722807217136,Gym,building
+1540,Westminster,51.4973,-0.1372,Formative,51.498311,-0.134917,Coffee Shop,food
+1541,Westminster,51.4973,-0.1372,"St. James' Court, A Taj Hotel",51.498647461551876,-0.13703354074064655,Hotel,travel
+1542,Westminster,51.4973,-0.1372,Strutton Ground Market,51.49678246763529,-0.13371726225312403,Street Food Gathering,food
+1543,Westminster,51.4973,-0.1372,Café Nuovo,51.496609751725885,-0.1355775302509602,Breakfast Spot,food
+1544,Westminster,51.4973,-0.1372,Victoria Palace Theatre,51.49684195968544,-0.14220603100411708,Theater,arts_entertainment
+1545,Westminster,51.4973,-0.1372,itsu,51.496860817642194,-0.1408380836925805,Sushi Restaurant,food
+1546,Westminster,51.4973,-0.1372,Keen,51.49728802999305,-0.13576494535540826,Sandwich Place,food
+1547,Westminster,51.4973,-0.1372,Falafel Zaki Zaki,51.49662230760893,-0.13370988821557195,Falafel Restaurant,food
+1548,Westminster,51.4973,-0.1372,JOE & THE JUICE,51.49714185844405,-0.138509822998428,Juice Bar,food
+1549,Westminster,51.4973,-0.1372,Conrad London St. James,51.49939556598363,-0.13280432242097437,Hotel,travel
+1550,Westminster,51.4973,-0.1372,Grange Wellington Hotel,51.49468866755416,-0.1361939483219042,Hotel,travel
+1551,Westminster,51.4973,-0.1372,Hamilton The Musical,51.496550606702066,-0.14257782402355137,Theater,arts_entertainment
+1552,Westminster,51.4973,-0.1372,Coffee Geek and Friends,51.497637766011685,-0.14152261249881912,Coffee Shop,food
+1553,Westminster,51.4973,-0.1372,Crumpets,51.499145,-0.138093,Diner,food
+1554,Westminster,51.4973,-0.1372,Ichiriki Sushi House,51.49734009769125,-0.13384662202821634,Sushi Restaurant,food
+1555,Westminster,51.4973,-0.1372,Caxton Bar & Grill,51.49874725493796,-0.13420534253857905,Hotel Bar,travel
+1556,Westminster,51.4973,-0.1372,Zara,51.496998410468315,-0.13975971311888397,Clothing Store,shops
+1557,Westminster,51.4973,-0.1372,The Sandwich Shop,51.498905,-0.132351,Sandwich Place,food
+1558,Westminster,51.4973,-0.1372,Crussh,51.49740513533402,-0.13385757338423016,Juice Bar,food
+1559,Westminster,51.4973,-0.1372,Pret A Manger,51.497486806013704,-0.1356948460831648,Sandwich Place,food
+1560,Westminster,51.4973,-0.1372,Lime Orange,51.49549645186136,-0.1421165432571259,Korean Restaurant,food
+1561,Westminster,51.4973,-0.1372,Vital Ingredient,51.49678674568688,-0.13570245493875682,Salad Place,food
+1562,Westminster,51.4973,-0.1372,Apollo Victoria Theatre,51.495621753996815,-0.14268941294802595,Theater,arts_entertainment
+1563,Westminster,51.4973,-0.1372,The Other Palace,51.49896748137003,-0.14224775454867583,Theater,arts_entertainment
+1564,Westminster,51.4973,-0.1372,Ravello Coffee Co,51.497894927913244,-0.13420365711386673,Sandwich Place,food
+1565,Westminster,51.4973,-0.1372,Executive Lounge,51.49939799336967,-0.1328401459228183,Hotel Bar,travel
+1566,Westminster,51.4973,-0.1372,Bistro,51.49860297197118,-0.13685535791739017,Bistro,food
+1567,Westminster,51.4973,-0.1372,Buckingham Arms,51.499169,-0.136858,Pub,nightlife
+1568,Westminster,51.4973,-0.1372,Ibérica Victoria,51.497293464802745,-0.13812744994461612,Tapas Restaurant,food
+1569,Westminster,51.4973,-0.1372,Vagabond,51.49754955939035,-0.14373068106537867,Wine Bar,food
+1570,Westminster,51.4973,-0.1372,Flight Club Victoria,51.49744225891,-0.14274716945000337,Cocktail Bar,nightlife
+1571,Westminster,51.4973,-0.1372,Gustoso Ristorante & Enoteca,51.49358729398895,-0.13861902430245143,Italian Restaurant,food
+1572,Westminster,51.4973,-0.1372,Buckingham Palace State Rooms,51.5003221503061,-0.14152404625784193,Historic Site,arts_entertainment
+1573,Westminster,51.4973,-0.1372,Sticks’n’Sushi,51.497259868958906,-0.1434059276034998,Sushi Restaurant,food
+1574,Westminster,51.4973,-0.1372,Waitrose & Partners,51.4979888,-0.1425596,Supermarket,shops
+1575,Westminster,51.4973,-0.1372,The Queen's Gallery,51.49979778839289,-0.14228159866183618,Art Gallery,arts_entertainment
+1576,Westminster,51.4973,-0.1372,The Nadler Victoria,51.49898781187463,-0.1426808659097089,Hotel,travel
+1577,Westminster,51.4973,-0.1372,Ole & Steen,51.49703746983402,-0.14386014403332234,Coffee Shop,food
+1578,Westminster,51.4973,-0.1372,Caffe Grana,51.499477,-0.133683,Café,food
+1579,Westminster,51.4973,-0.1372,1Rebel Victoria,51.49714816654303,-0.14284961463921303,Gym / Fitness Center,building
+1580,Westminster,51.4973,-0.1372,Whittard of Chelsea,51.498496300499156,-0.14351468011255317,Tea Room,food
+1581,Westminster,51.4973,-0.1372,The Speaker,51.496876,-0.132207,Pub,nightlife
+1582,Westminster,51.4973,-0.1372,Sourced Market,51.49704587767989,-0.1443839397915451,Market,shops
+1583,Westminster,51.4973,-0.1372,The Vincent Rooms,51.494730558049476,-0.13572952768602561,Restaurant,food
+1584,Westminster,51.4973,-0.1372,Nova,51.497060603310175,-0.1439584395506626,Pedestrian Plaza,parks_outdoors
+1585,Westminster,51.4973,-0.1372,The Other Naughty Piglet,51.498907301025916,-0.14213296601980255,Modern European Restaurant,food
+1586,Westminster,51.4973,-0.1372,Black Sheep Coffee,51.496731389753975,-0.1437294626796847,Coffee Shop,food
+1587,Westminster,51.4973,-0.1372,Shot Espresso,51.49806439501044,-0.14239320047524007,Coffee Shop,food
+1588,Westminster,51.4973,-0.1372,hub London Westminster Abbey,51.49970123047254,-0.13158712325585553,Hotel,travel
+1589,Westminster,51.4973,-0.1372,Tozi Restaurant and Bar,51.49410526918856,-0.14146015098995013,Italian Restaurant,food
+1590,Westminster,51.4973,-0.1372,Gastronomia Italia,51.49336474515658,-0.13974308967590332,Sandwich Place,food
+1591,Westminster,51.4973,-0.1372,Aster,51.49669557706258,-0.143225356717805,Scandinavian Restaurant,food
+1592,Westminster,51.4973,-0.1372,PureGym,51.49753089544222,-0.14207249076189216,Gym / Fitness Center,building
+1593,Westminster,51.4973,-0.1372,Franco Manca,51.497330629633886,-0.14327111656817723,Pizza Place,food
+1594,Westminster,51.4973,-0.1372,Rag & Bone,51.49689926899571,-0.13082094707546968,Coffee Shop,food
+1595,Westminster,51.4973,-0.1372,Pret A Manger,51.49438263639805,-0.14206424879963203,Sandwich Place,food
+1596,Westminster,51.4973,-0.1372,Timmy Green,51.49790250133684,-0.14357279445482526,Australian Restaurant,food
+1597,Westminster,51.4973,-0.1372,Blue Boar,51.49971595972993,-0.13211118165805655,Restaurant,food
+1598,Westminster,51.4973,-0.1372,Notes Coffee,51.49763091613329,-0.14337445593159437,Coffee Shop,food
+1599,Westminster,51.4973,-0.1372,Ma La Sichuan,51.49678148946305,-0.13070898809339557,Asian Restaurant,food
+1600,Westminster,51.4973,-0.1372,Buckingham Palace Shop,51.49904478104441,-0.14311238569700632,Gift Shop,shops
+1601,Westminster,51.4973,-0.1372,St James' Park Playground,51.5011191867234,-0.13831530863951114,Playground,parks_outdoors
+1602,Westminster,51.4973,-0.1372,Hai Cenato,51.497138445568766,-0.14382853094597967,Italian Restaurant,food
+1603,Westminster,51.4973,-0.1372,Bone Daddies,51.49753436188953,-0.1434738363099449,Ramen Restaurant,food
+1604,Westminster,51.4973,-0.1372,The Rubens at The Palace,51.49837679874355,-0.1436007395327031,Hotel,travel
+1605,Westminster,51.4973,-0.1372,Mr. Cad,51.49337657545596,-0.13950050586205887,Camera Store,shops
+1606,Westminster,51.4973,-0.1372,The Jugged Hare,51.4930434,-0.1382397,Pub,nightlife
+1607,Westminster,51.4973,-0.1372,Pret A Manger,51.49283637031258,-0.13805734615988044,Sandwich Place,food
+1608,Westminster,51.4973,-0.1372,Queen Mother Sports Centre,51.49385584078819,-0.1403239233097453,Gym / Fitness Center,building
